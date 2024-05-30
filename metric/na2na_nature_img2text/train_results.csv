@@ -1,0 +1,101 @@
+id,label_original,origin_score,label_unmatch,unmatch_score
+0,"plane, carpenter's plane, woodworking plane",30.328369140625,"house finch, linnet, Carpodacus mexicanus",15.800907135009766
+1,comic book,24.768604278564453,"Pekinese, Pekingese, Peke",12.497435569763184
+2,"junco, snowbird",34.01530456542969,bassoon,20.585018157958984
+3,"zucchini, courgette",30.11286735534668,malinois,14.215437889099121
+4,stingray,30.037338256835938,"oscilloscope, scope, cathode-ray oscilloscope, CRO",16.513320922851562
+5,scuba diver,29.4022274017334,"starfish, sea star",23.251283645629883
+6,"miniskirt, mini",28.888891220092773,potpie,23.90563201904297
+7,"grand piano, grand",32.179534912109375,"unicycle, monocycle",16.68146514892578
+8,"parallel bars, bars",36.118438720703125,"green lizard, Lacerta viridis",16.824867248535156
+9,syringe,29.060443878173828,leafhopper,14.36460018157959
+10,trilobite,33.38806915283203,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",22.102527618408203
+11,steel drum,31.205516815185547,croquet ball,20.229244232177734
+12,"golfcart, golf cart",27.53031349182129,"bobsled, bobsleigh, bob",23.166391372680664
+13,Windsor tie,29.06106948852539,stretcher,19.511337280273438
+14,"racket, racquet",24.142459869384766,matchstick,15.919454574584961
+15,"cocker spaniel, English cocker spaniel, cocker",26.188648223876953,car wheel,17.251195907592773
+16,"cairn, cairn terrier",33.56519317626953,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",15.323287010192871
+17,"Airedale, Airedale terrier",35.376380920410156,"gasmask, respirator, gas helmet",20.06280517578125
+18,"tiger, Panthera tigris",32.148216247558594,"parachute, chute",21.181262969970703
+19,tape player,30.71282386779785,"bikini, two-piece",19.827741622924805
+20,"sea anemone, anemone",33.84147262573242,"Arabian camel, dromedary, Camelus dromedarius",15.500360488891602
+21,baboon,28.16883087158203,barbershop,20.83881187438965
+22,"rocking chair, rocker",30.398693084716797,"ice cream, icecream",17.798707962036133
+23,"can opener, tin opener",35.59700012207031,Loafer,20.649272918701172
+24,"dam, dike, dyke",30.904800415039062,"crossword puzzle, crossword",16.903778076171875
+25,"maillot, tank suit",28.816864013671875,"bathing cap, swimming cap",24.29698944091797
+26,oil filter,35.31513977050781,"crib, cot",18.651479721069336
+27,goose,25.607160568237305,fireboat,18.038585662841797
+28,"white stork, Ciconia ciconia",32.057315826416016,"corkscrew, bottle screw",21.07052993774414
+29,tarantula,32.90641784667969,"rubber eraser, rubber, pencil eraser",20.476306915283203
+30,window shade,22.906755447387695,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",13.68496036529541
+31,espresso maker,31.885652542114258,steel arch bridge,12.970016479492188
+32,"bullfrog, Rana catesbeiana",33.00787353515625,sundial,16.276012420654297
+33,"lumbermill, sawmill",29.23980712890625,"thresher, thrasher, threshing machine",29.888866424560547
+34,wine bottle,28.1608829498291,"radio telescope, radio reflector",11.310128211975098
+35,"valley, vale",25.22693634033203,"pedestal, plinth, footstall",20.072772979736328
+36,pier,29.263378143310547,sunglass,22.395355224609375
+37,"Pekinese, Pekingese, Peke",36.067176818847656,"dishrag, dishcloth",20.538118362426758
+38,yawl,19.892589569091797,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",13.198043823242188
+39,"cheetah, chetah, Acinonyx jubatus",34.610267639160156,cowboy boot,19.48223114013672
+40,"ostrich, Struthio camelus",32.28271484375,Great Dane,18.18844223022461
+41,menu,27.95914649963379,"lighter, light, igniter, ignitor",18.468290328979492
+42,flamingo,33.01352310180664,lotion,22.513641357421875
+43,"loggerhead, loggerhead turtle, Caretta caretta",32.70286560058594,"barracouta, snoek",22.906299591064453
+44,cup,26.114147186279297,warthog,13.72423267364502
+45,"piggy bank, penny bank",30.736684799194336,rifle,18.66104507446289
+46,milk can,28.623401641845703,"bookshop, bookstore, bookstall",15.822086334228516
+47,"swab, swob, mop",28.97820281982422,chickadee,19.60102081298828
+48,"ruddy turnstone, Arenaria interpres",33.85723114013672,"impala, Aepyceros melampus",13.677724838256836
+49,standard schnauzer,35.59473419189453,packet,23.99311065673828
+50,"Doberman, Doberman pinscher",30.89153289794922,"megalith, megalithic structure",19.655155181884766
+51,"leaf beetle, chrysomelid",30.483089447021484,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",12.812026977539062
+52,electric locomotive,27.75212860107422,cricket,16.016620635986328
+53,spaghetti squash,25.825557708740234,"hognose snake, puff adder, sand viper",13.743715286254883
+54,Brittany spaniel,35.734458923339844,"ocarina, sweet potato",18.238933563232422
+55,"thatch, thatched roof",34.09698486328125,spoonbill,17.520021438598633
+56,soccer ball,32.43109893798828,"grille, radiator grille",21.787574768066406
+57,"spotted salamander, Ambystoma maculatum",33.7292594909668,"hard disc, hard disk, fixed disk",15.550535202026367
+58,"wallaby, brush kangaroo",33.01225662231445,vault,21.225975036621094
+59,"diamondback, diamondback rattlesnake, Crotalus adamanteus",32.98514938354492,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",15.280935287475586
+60,"grasshopper, hopper",33.65101623535156,"chow, chow chow",14.59431266784668
+61,baseball,29.773361206054688,spoonbill,18.83807945251465
+62,acorn squash,31.27562713623047,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",20.353609085083008
+63,orange,29.350149154663086,eft,22.288557052612305
+64,"horse cart, horse-cart",29.907798767089844,paintbrush,19.01205062866211
+65,bubble,25.598533630371094,"pajama, pyjama, pj's, jammies",20.178096771240234
+66,"cello, violoncello",32.48759078979492,kite,23.833786010742188
+67,coffee mug,28.381122589111328,West Highland white terrier,17.72304916381836
+68,"church, church building",28.29286003112793,"red fox, Vulpes vulpes",14.890939712524414
+69,"motor scooter, scooter",28.418455123901367,"hognose snake, puff adder, sand viper",11.233898162841797
+70,"brassiere, bra, bandeau",24.798908233642578,"airship, dirigible",21.909448623657227
+71,folding chair,33.475738525390625,agaric,21.617691040039062
+72,spaghetti squash,32.44896697998047,cloak,23.702289581298828
+73,"ostrich, Struthio camelus",33.421695709228516,triumphal arch,21.112829208374023
+74,"streetcar, tram, tramcar, trolley, trolley car",32.66875457763672,"Scotch terrier, Scottish terrier, Scottie",18.723907470703125
+75,viaduct,29.943058013916016,"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",17.89440155029297
+76,"saltshaker, salt shaker",27.090499877929688,bookcase,19.941076278686523
+77,screwdriver,22.685989379882812,"wolf spider, hunting spider",14.403762817382812
+78,"screen, CRT screen",30.491954803466797,curly-coated retriever,12.72116756439209
+79,"grand piano, grand",25.657135009765625,"microwave, microwave oven",17.11924934387207
+80,"pick, plectrum, plectron",28.1116943359375,shower cap,22.722515106201172
+81,"dhole, Cuon alpinus",33.31757736206055,"garden spider, Aranea diademata",12.772394180297852
+82,"albatross, mollymawk",33.913394927978516,barber chair,18.78870391845703
+83,French bulldog,27.01986312866211,"horse cart, horse-cart",17.916723251342773
+84,"remote control, remote",31.675559997558594,macaw,16.968416213989258
+85,"Newfoundland, Newfoundland dog",21.592243194580078,volleyball,18.501983642578125
+86,"lycaenid, lycaenid butterfly",32.117889404296875,"doormat, welcome mat",20.282047271728516
+87,"Cardigan, Cardigan Welsh corgi",32.24870300292969,"seashore, coast, seacoast, sea-coast",17.228185653686523
+88,stove,28.027870178222656,"great grey owl, great gray owl, Strix nebulosa",14.559774398803711
+89,oxcart,33.160850524902344,"upright, upright piano",20.40411949157715
+90,coral reef,31.915369033813477,espresso,16.448089599609375
+91,flamingo,28.969356536865234,maillot,21.65032958984375
+92,coucal,35.4669189453125,otter,16.47950553894043
+93,knee pad,32.632423400878906,"bobsled, bobsleigh, bob",19.485836029052734
+94,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",31.671432495117188,"diamondback, diamondback rattlesnake, Crotalus adamanteus",10.637687683105469
+95,"skunk, polecat, wood pussy",31.27634620666504,"sandbar, sand bar",16.542076110839844
+96,kimono,27.23775863647461,"picket fence, paling",18.959125518798828
+97,goblet,28.37264633178711,"bakery, bakeshop, bakehouse",19.248714447021484
+98,bee eater,35.171566009521484,"black widow, Latrodectus mactans",14.899530410766602
+99,"long-horned beetle, longicorn, longicorn beetle",32.74711227416992,cauliflower,18.79901123046875

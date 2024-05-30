@@ -1,0 +1,3241 @@
+id,mal_text_similarity,unmatch_text_similarity,mal_image_similarity,unmatch_image_similarity,mal_image_similarity_bio,unmatch_image_similarity_bio
+1,0.8401058912277222,0.5201815962791443,"0    28.005386
+Name: Similarity Score, dtype: float64","0    24.887312
+Name: Similarity Score, dtype: float64",1.0,1.0
+2,0.7446541786193848,0.5227712392807007,"0    29.164499
+Name: Similarity Score, dtype: float64","0    23.030039
+Name: Similarity Score, dtype: float64",1.0,1.0
+3,0.6429535150527954,0.5748550891876221,"0    25.521235
+Name: Similarity Score, dtype: float64","0    25.521235
+Name: Similarity Score, dtype: float64",1.0,1.0
+4,0.6994757056236267,0.5811147689819336,"0    30.466547
+Name: Similarity Score, dtype: float64","0    28.530535
+Name: Similarity Score, dtype: float64",1.0,1.0
+5,0.530805230140686,0.5250200033187866,"0    28.298632
+Name: Similarity Score, dtype: float64","0    24.376337
+Name: Similarity Score, dtype: float64",1.0,1.0
+6,0.6022487878799438,0.46590375900268555,"0    22.11643
+Name: Similarity Score, dtype: float64","0    21.348131
+Name: Similarity Score, dtype: float64",1.0,1.0
+7,0.7831194400787354,0.3949447274208069,"0    21.192869
+Name: Similarity Score, dtype: float64","0    21.192869
+Name: Similarity Score, dtype: float64",1.0,1.0
+8,0.7421219944953918,0.2845692038536072,"0    28.620863
+Name: Similarity Score, dtype: float64","0    22.286224
+Name: Similarity Score, dtype: float64",1.0,1.0
+9,0.7130900621414185,0.436776340007782,"0    22.739431
+Name: Similarity Score, dtype: float64","0    22.739431
+Name: Similarity Score, dtype: float64",1.0,1.0
+10,0.38424617052078247,0.30922025442123413,"0    19.341486
+Name: Similarity Score, dtype: float64","0    19.341486
+Name: Similarity Score, dtype: float64",1.0,1.0
+11,0.4503234624862671,0.5371564626693726,"0    29.906141
+Name: Similarity Score, dtype: float64","0    20.297331
+Name: Similarity Score, dtype: float64",1.0,1.0
+12,0.795894980430603,0.4391635060310364,"0    21.711786
+Name: Similarity Score, dtype: float64","0    21.711786
+Name: Similarity Score, dtype: float64",1.0,1.0
+13,0.6615151166915894,0.570673406124115,"0    27.554203
+Name: Similarity Score, dtype: float64","0    20.509199
+Name: Similarity Score, dtype: float64",1.0,1.0
+14,0.38705533742904663,0.31814518570899963,"0    18.48702
+Name: Similarity Score, dtype: float64","0    18.48702
+Name: Similarity Score, dtype: float64",1.0,1.0
+15,0.8565951585769653,0.6926954984664917,"0    29.852512
+Name: Similarity Score, dtype: float64","0    20.078382
+Name: Similarity Score, dtype: float64",1.0,1.0
+16,0.8049331903457642,0.5157935619354248,"0    20.497686
+Name: Similarity Score, dtype: float64","0    20.497686
+Name: Similarity Score, dtype: float64",1.0,1.0
+17,0.671049177646637,0.5491400957107544,"0    24.633598
+Name: Similarity Score, dtype: float64","0    23.156303
+Name: Similarity Score, dtype: float64",1.0,1.0
+18,0.8314075469970703,0.5757609605789185,"0    31.028297
+Name: Similarity Score, dtype: float64","0    17.031939
+Name: Similarity Score, dtype: float64",1.0,1.0
+19,0.6422505974769592,0.5123541355133057,"0    25.593891
+Name: Similarity Score, dtype: float64","0    25.377251
+Name: Similarity Score, dtype: float64",1.0,1.0
+20,0.7425840497016907,0.41935065388679504,"0    21.608027
+Name: Similarity Score, dtype: float64","0    21.608027
+Name: Similarity Score, dtype: float64",1.0,1.0
+21,0.5549197196960449,0.5944188237190247,"0    27.092487
+Name: Similarity Score, dtype: float64","0    26.542112
+Name: Similarity Score, dtype: float64",1.0,1.0
+22,0.7016866207122803,0.5115386247634888,"0    26.022392
+Name: Similarity Score, dtype: float64","0    19.799536
+Name: Similarity Score, dtype: float64",1.0,1.0
+23,0.7000572681427002,0.5348401665687561,"0    24.296436
+Name: Similarity Score, dtype: float64","0    24.296436
+Name: Similarity Score, dtype: float64",1.0,1.0
+24,0.6811010837554932,0.5633049011230469,"0    23.233761
+Name: Similarity Score, dtype: float64","0    23.233761
+Name: Similarity Score, dtype: float64",1.0,1.0
+25,0.7993945479393005,0.5611609816551208,"0    25.382053
+Name: Similarity Score, dtype: float64","0    25.382053
+Name: Similarity Score, dtype: float64",1.0,1.0
+26,0.672639012336731,0.5152974128723145,"0    25.521004
+Name: Similarity Score, dtype: float64","0    25.521004
+Name: Similarity Score, dtype: float64",1.0,1.0
+27,0.6678399443626404,0.5487656593322754,"0    23.045441
+Name: Similarity Score, dtype: float64","0    25.506138
+Name: Similarity Score, dtype: float64",1.0,1.0
+28,0.5399116277694702,0.6141430139541626,"0    24.082897
+Name: Similarity Score, dtype: float64","0    19.272999
+Name: Similarity Score, dtype: float64",1.0,1.0
+29,0.5003609657287598,0.6069533824920654,"0    24.430649
+Name: Similarity Score, dtype: float64","0    24.415285
+Name: Similarity Score, dtype: float64",1.0,1.0
+30,0.44692137837409973,0.333560049533844,"0    24.116949
+Name: Similarity Score, dtype: float64","0    19.923698
+Name: Similarity Score, dtype: float64",1.0,1.0
+31,0.3895544409751892,0.31606030464172363,"0    18.34606
+Name: Similarity Score, dtype: float64","0    18.34606
+Name: Similarity Score, dtype: float64",1.0,1.0
+32,0.657718300819397,0.416831910610199,"0    20.488449
+Name: Similarity Score, dtype: float64","0    20.488449
+Name: Similarity Score, dtype: float64",1.0,1.0
+33,0.8531379699707031,0.5311158895492554,"0    29.933489
+Name: Similarity Score, dtype: float64","0    27.681217
+Name: Similarity Score, dtype: float64",1.0,1.0
+34,0.5626062154769897,0.43763959407806396,"0    20.290764
+Name: Similarity Score, dtype: float64","0    20.290764
+Name: Similarity Score, dtype: float64",1.0,1.0
+35,0.5690006017684937,0.3069153428077698,"0    26.160919
+Name: Similarity Score, dtype: float64","0    20.298445
+Name: Similarity Score, dtype: float64",1.0,1.0
+36,0.42100945115089417,0.37411144375801086,"0    19.276487
+Name: Similarity Score, dtype: float64","0    19.276487
+Name: Similarity Score, dtype: float64",1.0,1.0
+37,0.6735568046569824,0.532647967338562,"0    22.111521
+Name: Similarity Score, dtype: float64","0    24.085516
+Name: Similarity Score, dtype: float64",1.0,1.0
+38,0.6913546323776245,0.492862343788147,"0    30.715088
+Name: Similarity Score, dtype: float64","0    24.89443
+Name: Similarity Score, dtype: float64",1.0,1.0
+39,0.7109708189964294,0.5092052817344666,"0    20.952105
+Name: Similarity Score, dtype: float64","0    20.952105
+Name: Similarity Score, dtype: float64",1.0,1.0
+40,0.6836591958999634,0.5376201272010803,"0    29.975349
+Name: Similarity Score, dtype: float64","0    23.937222
+Name: Similarity Score, dtype: float64",1.0,1.0
+41,0.8006143569946289,0.624061644077301,"0    23.353949
+Name: Similarity Score, dtype: float64","0    23.353949
+Name: Similarity Score, dtype: float64",1.0,1.0
+42,0.3977585732936859,0.3756062388420105,"0    19.858128
+Name: Similarity Score, dtype: float64","0    19.858128
+Name: Similarity Score, dtype: float64",1.0,1.0
+43,0.8110969662666321,0.49345093965530396,"0    26.915916
+Name: Similarity Score, dtype: float64","0    26.915916
+Name: Similarity Score, dtype: float64",1.0,1.0
+44,0.8026101589202881,0.5908645391464233,"0    21.280743
+Name: Similarity Score, dtype: float64","0    21.280743
+Name: Similarity Score, dtype: float64",1.0,1.0
+45,0.3806922435760498,0.3315790891647339,"0    18.717203
+Name: Similarity Score, dtype: float64","0    18.717203
+Name: Similarity Score, dtype: float64",1.0,1.0
+46,0.6999415159225464,0.5947022438049316,"0    27.843725
+Name: Similarity Score, dtype: float64","0    24.921629
+Name: Similarity Score, dtype: float64",1.0,1.0
+47,0.6487581729888916,0.4525443911552429,"0    19.270864
+Name: Similarity Score, dtype: float64","0    19.270864
+Name: Similarity Score, dtype: float64",1.0,1.0
+48,0.7315319776535034,0.48680198192596436,"0    27.810675
+Name: Similarity Score, dtype: float64","0    25.316435
+Name: Similarity Score, dtype: float64",1.0,1.0
+49,0.7213693857192993,0.4555381238460541,"0    27.900202
+Name: Similarity Score, dtype: float64","0    22.104742
+Name: Similarity Score, dtype: float64",1.0,1.0
+50,0.3888170123100281,0.3722859025001526,"0    19.914391
+Name: Similarity Score, dtype: float64","0    19.914391
+Name: Similarity Score, dtype: float64",1.0,1.0
+51,0.3976461887359619,0.4350677728652954,"0    20.646677
+Name: Similarity Score, dtype: float64","0    19.935966
+Name: Similarity Score, dtype: float64",1.0,1.0
+52,0.42548680305480957,0.34293803572654724,"0    30.859262
+Name: Similarity Score, dtype: float64","0    21.460121
+Name: Similarity Score, dtype: float64",1.0,1.0
+53,0.6999415159225464,0.605182409286499,"0    29.358021
+Name: Similarity Score, dtype: float64","0    23.839497
+Name: Similarity Score, dtype: float64",1.0,1.0
+54,0.841070830821991,0.6161507368087769,"0    28.516058
+Name: Similarity Score, dtype: float64","0    22.713863
+Name: Similarity Score, dtype: float64",1.0,1.0
+55,0.362481027841568,0.36884695291519165,"0    20.651228
+Name: Similarity Score, dtype: float64","0    20.651228
+Name: Similarity Score, dtype: float64",1.0,1.0
+56,0.6613075733184814,0.34274905920028687,"0    25.335375
+Name: Similarity Score, dtype: float64","0    22.654013
+Name: Similarity Score, dtype: float64",1.0,1.0
+57,0.38621950149536133,0.28011733293533325,"0    18.886488
+Name: Similarity Score, dtype: float64","0    18.886488
+Name: Similarity Score, dtype: float64",1.0,1.0
+58,0.8429598212242126,0.295960396528244,"0    30.713377
+Name: Similarity Score, dtype: float64","0    20.606266
+Name: Similarity Score, dtype: float64",1.0,1.0
+59,0.7315319776535034,0.5372878909111023,"0    29.360771
+Name: Similarity Score, dtype: float64","0    22.692598
+Name: Similarity Score, dtype: float64",1.0,1.0
+60,0.5373592376708984,0.5068413019180298,"0    26.944157
+Name: Similarity Score, dtype: float64","0    22.104927
+Name: Similarity Score, dtype: float64",1.0,1.0
+61,0.5207540988922119,0.525874137878418,"0    29.148022
+Name: Similarity Score, dtype: float64","0    24.6425
+Name: Similarity Score, dtype: float64",1.0,1.0
+62,0.5433568954467773,0.434222549200058,"0    21.805368
+Name: Similarity Score, dtype: float64","0    21.182024
+Name: Similarity Score, dtype: float64",1.0,1.0
+63,0.5277678966522217,0.6129093170166016,"0    29.013956
+Name: Similarity Score, dtype: float64","0    21.123344
+Name: Similarity Score, dtype: float64",1.0,1.0
+64,0.6641601324081421,0.4302019476890564,"0    24.475483
+Name: Similarity Score, dtype: float64","0    24.968819
+Name: Similarity Score, dtype: float64",1.0,1.0
+65,0.6281182765960693,0.3687123656272888,"0    23.16507
+Name: Similarity Score, dtype: float64","0    23.16507
+Name: Similarity Score, dtype: float64",1.0,1.0
+66,0.6641030311584473,0.5017770528793335,"0    24.513691
+Name: Similarity Score, dtype: float64","0    24.513691
+Name: Similarity Score, dtype: float64",1.0,1.0
+67,0.3175959587097168,0.27944421768188477,"0    20.903557
+Name: Similarity Score, dtype: float64","0    20.903557
+Name: Similarity Score, dtype: float64",1.0,1.0
+68,0.5265403389930725,0.5156439542770386,"0    28.904987
+Name: Similarity Score, dtype: float64","0    22.842869
+Name: Similarity Score, dtype: float64",1.0,1.0
+69,0.6722593307495117,0.38720011711120605,"0    21.245716
+Name: Similarity Score, dtype: float64","0    21.245716
+Name: Similarity Score, dtype: float64",1.0,1.0
+70,0.7700322866439819,0.5770185589790344,"0    24.980827
+Name: Similarity Score, dtype: float64","0    24.980827
+Name: Similarity Score, dtype: float64",1.0,1.0
+71,0.48876604437828064,0.5538960695266724,"0    28.830544
+Name: Similarity Score, dtype: float64","0    23.764292
+Name: Similarity Score, dtype: float64",1.0,1.0
+72,0.6057093143463135,0.4607117176055908,"0    30.133204
+Name: Similarity Score, dtype: float64","0    29.011318
+Name: Similarity Score, dtype: float64",1.0,1.0
+73,0.7058730721473694,0.43446674942970276,"0    25.767878
+Name: Similarity Score, dtype: float64","0    25.767878
+Name: Similarity Score, dtype: float64",1.0,1.0
+74,0.7949216365814209,0.5074658989906311,"0    31.346012
+Name: Similarity Score, dtype: float64","0    27.496841
+Name: Similarity Score, dtype: float64",1.0,1.0
+75,0.8201349973678589,0.6541632413864136,"0    31.521898
+Name: Similarity Score, dtype: float64","0    24.682827
+Name: Similarity Score, dtype: float64",1.0,1.0
+76,0.7568972706794739,0.6315158605575562,"0    26.241217
+Name: Similarity Score, dtype: float64","0    26.241217
+Name: Similarity Score, dtype: float64",1.0,1.0
+77,0.6398974657058716,0.5802265405654907,"0    27.437672
+Name: Similarity Score, dtype: float64","0    27.437672
+Name: Similarity Score, dtype: float64",1.0,1.0
+78,0.7128009796142578,0.5919497013092041,"0    30.412003
+Name: Similarity Score, dtype: float64","0    25.468159
+Name: Similarity Score, dtype: float64",1.0,1.0
+79,0.47970283031463623,0.5983726382255554,"0    22.446875
+Name: Similarity Score, dtype: float64","0    25.562092
+Name: Similarity Score, dtype: float64",1.0,1.0
+80,0.48759201169013977,0.48228123784065247,"0    31.333721
+Name: Similarity Score, dtype: float64","0    24.330564
+Name: Similarity Score, dtype: float64",1.0,1.0
+81,0.5881238579750061,0.5008054375648499,"0    31.390186
+Name: Similarity Score, dtype: float64","0    30.634291
+Name: Similarity Score, dtype: float64",1.0,1.0
+82,0.734038233757019,0.4406657814979553,"0    23.375265
+Name: Similarity Score, dtype: float64","0    23.375265
+Name: Similarity Score, dtype: float64",1.0,1.0
+83,0.5912072658538818,0.5714868307113647,"0    23.974409
+Name: Similarity Score, dtype: float64","0    23.974409
+Name: Similarity Score, dtype: float64",1.0,1.0
+84,0.3244379758834839,0.3081398606300354,"0    20.595274
+Name: Similarity Score, dtype: float64","0    20.595274
+Name: Similarity Score, dtype: float64",1.0,1.0
+85,0.5993751287460327,0.6256014108657837,"0    25.192228
+Name: Similarity Score, dtype: float64","0    24.111807
+Name: Similarity Score, dtype: float64",1.0,1.0
+86,0.5135544538497925,0.23925314843654633,"0    28.852844
+Name: Similarity Score, dtype: float64","0    21.381264
+Name: Similarity Score, dtype: float64",1.0,1.0
+87,0.7204016447067261,0.5595352649688721,"0    31.249207
+Name: Similarity Score, dtype: float64","0    22.452353
+Name: Similarity Score, dtype: float64",1.0,1.0
+88,0.5835372805595398,0.4091736078262329,"0    28.726948
+Name: Similarity Score, dtype: float64","0    24.436388
+Name: Similarity Score, dtype: float64",1.0,1.0
+89,0.6972343921661377,0.5028548836708069,"0    24.105988
+Name: Similarity Score, dtype: float64","0    24.105988
+Name: Similarity Score, dtype: float64",1.0,1.0
+90,0.8313471078872681,0.6803405284881592,"0    30.731415
+Name: Similarity Score, dtype: float64","0    25.75968
+Name: Similarity Score, dtype: float64",1.0,1.0
+91,0.7702927589416504,0.5748083591461182,"0    27.501497
+Name: Similarity Score, dtype: float64","0    27.501497
+Name: Similarity Score, dtype: float64",1.0,1.0
+92,0.36358511447906494,0.34329938888549805,"0    18.946037
+Name: Similarity Score, dtype: float64","0    18.946037
+Name: Similarity Score, dtype: float64",1.0,1.0
+93,0.37222009897232056,0.37437668442726135,"0    18.322798
+Name: Similarity Score, dtype: float64","0    18.322798
+Name: Similarity Score, dtype: float64",1.0,1.0
+94,0.7310702204704285,0.5687583684921265,"0    23.385883
+Name: Similarity Score, dtype: float64","0    23.385883
+Name: Similarity Score, dtype: float64",1.0,1.0
+95,0.3587230443954468,0.3472173511981964,"0    19.414524
+Name: Similarity Score, dtype: float64","0    19.414524
+Name: Similarity Score, dtype: float64",1.0,1.0
+96,0.782915472984314,0.5971287488937378,"0    23.943884
+Name: Similarity Score, dtype: float64","0    24.23394
+Name: Similarity Score, dtype: float64",1.0,1.0
+97,0.6407479047775269,0.3797515630722046,"0    28.84763
+Name: Similarity Score, dtype: float64","0    24.933308
+Name: Similarity Score, dtype: float64",1.0,1.0
+98,0.7778990864753723,0.3223142623901367,"0    21.076214
+Name: Similarity Score, dtype: float64","0    19.891827
+Name: Similarity Score, dtype: float64",1.0,1.0
+99,0.6782937049865723,0.5117475390434265,"0    26.971949
+Name: Similarity Score, dtype: float64","0    26.971949
+Name: Similarity Score, dtype: float64",1.0,1.0
+100,0.699257493019104,0.45786887407302856,"0    23.217218
+Name: Similarity Score, dtype: float64","0    22.918869
+Name: Similarity Score, dtype: float64",1.0,1.0
+101,0.3587230443954468,0.3472173511981964,"0    19.414524
+Name: Similarity Score, dtype: float64","0    19.414524
+Name: Similarity Score, dtype: float64",1.0,1.0
+102,0.5323871374130249,0.3817116916179657,"0    30.797546
+Name: Similarity Score, dtype: float64","0    24.219633
+Name: Similarity Score, dtype: float64",1.0,1.0
+103,0.650012731552124,0.5290387868881226,"0    24.596888
+Name: Similarity Score, dtype: float64","0    23.705009
+Name: Similarity Score, dtype: float64",1.0,1.0
+104,0.5985406637191772,0.5148645639419556,"0    25.450739
+Name: Similarity Score, dtype: float64","0    25.450739
+Name: Similarity Score, dtype: float64",1.0,1.0
+105,0.7128009796142578,0.5021957159042358,"0    30.464098
+Name: Similarity Score, dtype: float64","0    25.746799
+Name: Similarity Score, dtype: float64",1.0,1.0
+106,0.6343039274215698,0.3743847608566284,"0    24.654434
+Name: Similarity Score, dtype: float64","0    24.578154
+Name: Similarity Score, dtype: float64",1.0,1.0
+107,0.48986977338790894,0.5943098068237305,"0    29.01836
+Name: Similarity Score, dtype: float64","0    25.811541
+Name: Similarity Score, dtype: float64",1.0,1.0
+108,0.7689625024795532,0.5004791021347046,"0    24.305344
+Name: Similarity Score, dtype: float64","0    24.305344
+Name: Similarity Score, dtype: float64",1.0,1.0
+109,0.7147334814071655,0.5452097654342651,"0    29.914724
+Name: Similarity Score, dtype: float64","0    24.778929
+Name: Similarity Score, dtype: float64",1.0,1.0
+110,0.5457606911659241,0.5874859094619751,"0    30.493584
+Name: Similarity Score, dtype: float64","0    26.010015
+Name: Similarity Score, dtype: float64",1.0,1.0
+111,0.7196512222290039,0.6268865466117859,"0    28.130037
+Name: Similarity Score, dtype: float64","0    20.881224
+Name: Similarity Score, dtype: float64",1.0,1.0
+112,0.8086199164390564,0.5908379554748535,"0    23.146416
+Name: Similarity Score, dtype: float64","0    23.146416
+Name: Similarity Score, dtype: float64",1.0,1.0
+113,0.4779011011123657,0.42287421226501465,"0    25.236469
+Name: Similarity Score, dtype: float64","0    23.514139
+Name: Similarity Score, dtype: float64",1.0,1.0
+114,0.6304819583892822,0.43310803174972534,"0    26.327333
+Name: Similarity Score, dtype: float64","0    26.590807
+Name: Similarity Score, dtype: float64",1.0,1.0
+115,0.6245249509811401,0.5944548845291138,"0    30.482616
+Name: Similarity Score, dtype: float64","0    25.860838
+Name: Similarity Score, dtype: float64",1.0,1.0
+116,0.5776909589767456,0.6132205128669739,"0    29.211414
+Name: Similarity Score, dtype: float64","0    26.243156
+Name: Similarity Score, dtype: float64",1.0,1.0
+117,0.7616517543792725,0.501987636089325,"0    20.739048
+Name: Similarity Score, dtype: float64","0    20.739048
+Name: Similarity Score, dtype: float64",1.0,1.0
+118,0.6570450067520142,0.33178892731666565,"0    24.395227
+Name: Similarity Score, dtype: float64","0    24.395227
+Name: Similarity Score, dtype: float64",1.0,1.0
+119,0.7481706738471985,0.48206502199172974,"0    22.860483
+Name: Similarity Score, dtype: float64","0    22.860483
+Name: Similarity Score, dtype: float64",1.0,1.0
+120,0.3654628396034241,0.3503232002258301,"0    18.689322
+Name: Similarity Score, dtype: float64","0    18.689322
+Name: Similarity Score, dtype: float64",1.0,1.0
+121,0.5456286668777466,0.4742801785469055,"0    21.85894
+Name: Similarity Score, dtype: float64","0    22.501532
+Name: Similarity Score, dtype: float64",1.0,1.0
+122,0.587782621383667,0.4898994565010071,"0    21.869339
+Name: Similarity Score, dtype: float64","0    22.005081
+Name: Similarity Score, dtype: float64",1.0,1.0
+123,0.3653789162635803,0.5039451718330383,"0    22.302917
+Name: Similarity Score, dtype: float64","0    25.756355
+Name: Similarity Score, dtype: float64",1.0,1.0
+124,0.6713670492172241,0.3856549859046936,"0    21.92094
+Name: Similarity Score, dtype: float64","0    21.92094
+Name: Similarity Score, dtype: float64",1.0,1.0
+125,0.6951713562011719,0.407977819442749,"0    24.015114
+Name: Similarity Score, dtype: float64","0    24.015114
+Name: Similarity Score, dtype: float64",1.0,1.0
+126,0.6852250099182129,0.6653392314910889,"0    31.151739
+Name: Similarity Score, dtype: float64","0    25.771608
+Name: Similarity Score, dtype: float64",1.0,1.0
+127,0.7978193759918213,0.576738178730011,"0    24.247656
+Name: Similarity Score, dtype: float64","0    21.743298
+Name: Similarity Score, dtype: float64",1.0,1.0
+128,0.8282344937324524,0.5992442965507507,"0    30.656683
+Name: Similarity Score, dtype: float64","0    22.454433
+Name: Similarity Score, dtype: float64",1.0,1.0
+129,0.6944872736930847,0.4727664291858673,"0    19.79599
+Name: Similarity Score, dtype: float64","0    19.79599
+Name: Similarity Score, dtype: float64",1.0,1.0
+130,0.8045063614845276,0.5797446966171265,"0    23.353559
+Name: Similarity Score, dtype: float64","0    23.353559
+Name: Similarity Score, dtype: float64",1.0,1.0
+131,0.40159955620765686,0.3804241716861725,"0    19.103916
+Name: Similarity Score, dtype: float64","0    19.103916
+Name: Similarity Score, dtype: float64",1.0,1.0
+132,0.3387802243232727,0.2978878915309906,"0    18.718855
+Name: Similarity Score, dtype: float64","0    18.718855
+Name: Similarity Score, dtype: float64",1.0,1.0
+133,0.573028028011322,0.4974459111690521,"0    26.018333
+Name: Similarity Score, dtype: float64","0    21.466164
+Name: Similarity Score, dtype: float64",1.0,1.0
+134,0.3959081768989563,0.3205866813659668,"0    18.091881
+Name: Similarity Score, dtype: float64","0    18.091881
+Name: Similarity Score, dtype: float64",1.0,1.0
+135,0.8433035612106323,0.6005244255065918,"0    29.325438
+Name: Similarity Score, dtype: float64","0    23.866228
+Name: Similarity Score, dtype: float64",1.0,1.0
+136,0.805077075958252,0.5630660057067871,"0    26.076385
+Name: Similarity Score, dtype: float64","0    26.076385
+Name: Similarity Score, dtype: float64",1.0,1.0
+137,0.7066236734390259,0.45982855558395386,"0    22.492048
+Name: Similarity Score, dtype: float64","0    22.846478
+Name: Similarity Score, dtype: float64",1.0,1.0
+138,0.8389824628829956,0.5949238538742065,"0    30.017588
+Name: Similarity Score, dtype: float64","0    22.093523
+Name: Similarity Score, dtype: float64",1.0,1.0
+139,0.7129521369934082,0.41595327854156494,"0    21.689142
+Name: Similarity Score, dtype: float64","0    21.689142
+Name: Similarity Score, dtype: float64",1.0,1.0
+140,0.3524323105812073,0.30504220724105835,"0    19.725918
+Name: Similarity Score, dtype: float64","0    19.293962
+Name: Similarity Score, dtype: float64",1.0,1.0
+141,0.3728272318840027,0.34970128536224365,"0    18.261728
+Name: Similarity Score, dtype: float64","0    18.261728
+Name: Similarity Score, dtype: float64",1.0,1.0
+142,0.778874397277832,0.6134146451950073,"0    29.984388
+Name: Similarity Score, dtype: float64","0    29.059488
+Name: Similarity Score, dtype: float64",1.0,1.0
+143,0.8099392056465149,0.6181970834732056,"0    30.385378
+Name: Similarity Score, dtype: float64","0    21.798246
+Name: Similarity Score, dtype: float64",1.0,1.0
+144,0.3840423822402954,0.3700419068336487,"0    18.540411
+Name: Similarity Score, dtype: float64","0    18.540411
+Name: Similarity Score, dtype: float64",1.0,1.0
+145,0.8334169387817383,0.5405008792877197,"0    31.562504
+Name: Similarity Score, dtype: float64","0    25.215143
+Name: Similarity Score, dtype: float64",1.0,1.0
+146,0.3111645579338074,0.44951215386390686,"0    23.323471
+Name: Similarity Score, dtype: float64","0    19.907526
+Name: Similarity Score, dtype: float64",1.0,1.0
+147,0.6999903917312622,0.5071558952331543,"0    31.411844
+Name: Similarity Score, dtype: float64","0    31.573582
+Name: Similarity Score, dtype: float64",1.0,1.0
+148,0.7022845149040222,0.4621947407722473,"0    19.817629
+Name: Similarity Score, dtype: float64","0    19.817629
+Name: Similarity Score, dtype: float64",1.0,1.0
+149,0.37118589878082275,0.31381934881210327,"0    17.033844
+Name: Similarity Score, dtype: float64","0    17.033844
+Name: Similarity Score, dtype: float64",1.0,1.0
+150,0.4019542336463928,0.3533252477645874,"0    18.080208
+Name: Similarity Score, dtype: float64","0    18.080208
+Name: Similarity Score, dtype: float64",1.0,1.0
+151,0.6244783401489258,0.5824684500694275,"0    23.734083
+Name: Similarity Score, dtype: float64","0    23.494921
+Name: Similarity Score, dtype: float64",1.0,1.0
+152,0.5242166519165039,0.35162296891212463,"0    29.087225
+Name: Similarity Score, dtype: float64","0    23.608723
+Name: Similarity Score, dtype: float64",1.0,1.0
+153,0.8186556696891785,0.6285638809204102,"0    30.966061
+Name: Similarity Score, dtype: float64","0    25.013309
+Name: Similarity Score, dtype: float64",1.0,1.0
+154,0.3623005151748657,0.3240765929222107,"0    17.266243
+Name: Similarity Score, dtype: float64","0    17.266243
+Name: Similarity Score, dtype: float64",1.0,1.0
+155,0.7889578342437744,0.5834022760391235,"0    23.173969
+Name: Similarity Score, dtype: float64","0    23.945532
+Name: Similarity Score, dtype: float64",1.0,1.0
+156,0.3341076374053955,0.47406214475631714,"0    18.229429
+Name: Similarity Score, dtype: float64","0    24.748907
+Name: Similarity Score, dtype: float64",1.0,1.0
+157,0.7843431234359741,0.35387158393859863,"0    19.487511
+Name: Similarity Score, dtype: float64","0    18.336729
+Name: Similarity Score, dtype: float64",1.0,1.0
+158,0.683020830154419,0.5293444395065308,"0    25.273682
+Name: Similarity Score, dtype: float64","0    25.273682
+Name: Similarity Score, dtype: float64",1.0,1.0
+159,0.692603588104248,0.6161349415779114,"0    27.027815
+Name: Similarity Score, dtype: float64","0    25.418171
+Name: Similarity Score, dtype: float64",1.0,1.0
+160,0.7274287939071655,0.4823128879070282,"0    29.899227
+Name: Similarity Score, dtype: float64","0    24.222116
+Name: Similarity Score, dtype: float64",1.0,1.0
+161,0.6362311840057373,0.3846141993999481,"0    22.450293
+Name: Similarity Score, dtype: float64","0    22.450293
+Name: Similarity Score, dtype: float64",1.0,1.0
+162,0.8089069128036499,0.3546162247657776,"0    23.973236
+Name: Similarity Score, dtype: float64","0    17.197489
+Name: Similarity Score, dtype: float64",1.0,1.0
+163,0.6782860159873962,0.37235331535339355,"0    20.106907
+Name: Similarity Score, dtype: float64","0    20.106907
+Name: Similarity Score, dtype: float64",1.0,1.0
+164,0.7138534188270569,0.5418314933776855,"0    24.064493
+Name: Similarity Score, dtype: float64","0    24.064493
+Name: Similarity Score, dtype: float64",1.0,1.0
+165,0.5816968679428101,0.5846314430236816,"0    29.024553
+Name: Similarity Score, dtype: float64","0    25.758642
+Name: Similarity Score, dtype: float64",1.0,1.0
+166,0.3363792300224304,0.32139140367507935,"0    17.478449
+Name: Similarity Score, dtype: float64","0    17.478449
+Name: Similarity Score, dtype: float64",1.0,1.0
+167,0.3629707098007202,0.2906455099582672,"0    19.949276
+Name: Similarity Score, dtype: float64","0    19.949276
+Name: Similarity Score, dtype: float64",1.0,1.0
+168,0.6008014678955078,0.4147987961769104,"0    27.341726
+Name: Similarity Score, dtype: float64","0    25.121149
+Name: Similarity Score, dtype: float64",1.0,1.0
+169,0.7019126415252686,0.5177396535873413,"0    28.513264
+Name: Similarity Score, dtype: float64","0    27.317663
+Name: Similarity Score, dtype: float64",1.0,1.0
+170,0.7236009240150452,0.42054635286331177,"0    27.79228
+Name: Similarity Score, dtype: float64","0    20.033655
+Name: Similarity Score, dtype: float64",1.0,1.0
+171,0.6537235379219055,0.5241321325302124,"0    27.075687
+Name: Similarity Score, dtype: float64","0    27.075687
+Name: Similarity Score, dtype: float64",1.0,1.0
+172,0.8040741682052612,0.48239821195602417,"0    31.042274
+Name: Similarity Score, dtype: float64","0    22.279823
+Name: Similarity Score, dtype: float64",1.0,1.0
+173,0.6927821636199951,0.45674341917037964,"0    23.695826
+Name: Similarity Score, dtype: float64","0    23.695826
+Name: Similarity Score, dtype: float64",1.0,1.0
+174,0.7081362009048462,0.5875624418258667,"0    30.247604
+Name: Similarity Score, dtype: float64","0    23.792208
+Name: Similarity Score, dtype: float64",1.0,1.0
+175,0.7107671499252319,0.4476849436759949,"0    22.242088
+Name: Similarity Score, dtype: float64","0    22.242088
+Name: Similarity Score, dtype: float64",1.0,1.0
+176,0.8196420073509216,0.5759724378585815,"0    32.083851
+Name: Similarity Score, dtype: float64","0    25.864851
+Name: Similarity Score, dtype: float64",1.0,1.0
+177,0.45817601680755615,0.4188116192817688,"0    30.440716
+Name: Similarity Score, dtype: float64","0    21.658991
+Name: Similarity Score, dtype: float64",1.0,1.0
+178,0.6313900351524353,0.47884994745254517,"0    21.893034
+Name: Similarity Score, dtype: float64","0    21.893034
+Name: Similarity Score, dtype: float64",1.0,1.0
+179,0.8047769665718079,0.6306446194648743,"0    29.029066
+Name: Similarity Score, dtype: float64","0    21.70965
+Name: Similarity Score, dtype: float64",1.0,1.0
+180,0.3890543580055237,0.5852508544921875,"0    18.465424
+Name: Similarity Score, dtype: float64","0    19.689182
+Name: Similarity Score, dtype: float64",1.0,1.0
+181,0.7338608503341675,0.5172616243362427,"0    21.151291
+Name: Similarity Score, dtype: float64","0    21.151291
+Name: Similarity Score, dtype: float64",1.0,1.0
+182,0.7016776204109192,0.6186028718948364,"0    31.74086
+Name: Similarity Score, dtype: float64","0    22.085854
+Name: Similarity Score, dtype: float64",1.0,1.0
+183,0.44412028789520264,0.5413243770599365,"0    21.709946
+Name: Similarity Score, dtype: float64","0    26.077969
+Name: Similarity Score, dtype: float64",1.0,1.0
+184,0.545687198638916,0.4691133201122284,"0    32.792736
+Name: Similarity Score, dtype: float64","0    25.33548
+Name: Similarity Score, dtype: float64",1.0,1.0
+185,0.3894943594932556,0.4793074131011963,"0    31.377844
+Name: Similarity Score, dtype: float64","0    19.911306
+Name: Similarity Score, dtype: float64",1.0,1.0
+186,0.6848164200782776,0.4734233021736145,"0    17.943766
+Name: Similarity Score, dtype: float64","0    17.943766
+Name: Similarity Score, dtype: float64",1.0,1.0
+187,0.35727977752685547,0.2736884653568268,"0    17.834324
+Name: Similarity Score, dtype: float64","0    17.834324
+Name: Similarity Score, dtype: float64",1.0,1.0
+188,0.4434496760368347,0.47515010833740234,"0    17.171432
+Name: Similarity Score, dtype: float64","0    19.119633
+Name: Similarity Score, dtype: float64",1.0,1.0
+189,0.3420255780220032,0.3145259618759155,"0    18.999666
+Name: Similarity Score, dtype: float64","0    18.999666
+Name: Similarity Score, dtype: float64",1.0,1.0
+190,0.6452129483222961,0.5963096618652344,"0    24.584126
+Name: Similarity Score, dtype: float64","0    24.584126
+Name: Similarity Score, dtype: float64",1.0,1.0
+191,0.6468732357025146,0.6153419613838196,"0    29.430449
+Name: Similarity Score, dtype: float64","0    21.611202
+Name: Similarity Score, dtype: float64",1.0,1.0
+192,0.6884212493896484,0.47867482900619507,"0    31.242582
+Name: Similarity Score, dtype: float64","0    32.323326
+Name: Similarity Score, dtype: float64",1.0,1.0
+193,0.6329634785652161,0.4743422567844391,"0    23.171764
+Name: Similarity Score, dtype: float64","0    23.742666
+Name: Similarity Score, dtype: float64",1.0,1.0
+194,0.8286623954772949,0.6743035316467285,"0    31.51988
+Name: Similarity Score, dtype: float64","0    21.291866
+Name: Similarity Score, dtype: float64",1.0,1.0
+195,0.8115633130073547,0.6307816505432129,"0    30.804014
+Name: Similarity Score, dtype: float64","0    22.84874
+Name: Similarity Score, dtype: float64",1.0,1.0
+196,0.8285914659500122,0.6211594343185425,"0    30.889093
+Name: Similarity Score, dtype: float64","0    24.702892
+Name: Similarity Score, dtype: float64",1.0,1.0
+197,0.6400445699691772,0.5706868171691895,"0    31.103361
+Name: Similarity Score, dtype: float64","0    25.659367
+Name: Similarity Score, dtype: float64",1.0,1.0
+198,0.8280558586120605,0.5751680135726929,"0    30.658854
+Name: Similarity Score, dtype: float64","0    22.648623
+Name: Similarity Score, dtype: float64",1.0,1.0
+199,0.5598468780517578,0.44898155331611633,"0    24.163494
+Name: Similarity Score, dtype: float64","0    21.786839
+Name: Similarity Score, dtype: float64",1.0,1.0
+200,0.6667590737342834,0.4575105309486389,"0    23.507246
+Name: Similarity Score, dtype: float64","0    23.507246
+Name: Similarity Score, dtype: float64",1.0,1.0
+201,0.7047028541564941,0.5621537566184998,"0    30.601349
+Name: Similarity Score, dtype: float64","0    20.215664
+Name: Similarity Score, dtype: float64",1.0,1.0
+202,0.7901611924171448,0.28170883655548096,"0    22.306181
+Name: Similarity Score, dtype: float64","0    17.375803
+Name: Similarity Score, dtype: float64",1.0,1.0
+203,0.3408896327018738,0.32863539457321167,"0    18.993814
+Name: Similarity Score, dtype: float64","0    18.993814
+Name: Similarity Score, dtype: float64",1.0,1.0
+204,0.7833898663520813,0.573569655418396,"0    24.421188
+Name: Similarity Score, dtype: float64","0    24.421188
+Name: Similarity Score, dtype: float64",1.0,1.0
+205,0.7529256343841553,0.6232590079307556,"0    31.438545
+Name: Similarity Score, dtype: float64","0    21.982498
+Name: Similarity Score, dtype: float64",1.0,1.0
+206,0.7066577672958374,0.6002745628356934,"0    20.758371
+Name: Similarity Score, dtype: float64","0    19.364613
+Name: Similarity Score, dtype: float64",1.0,1.0
+207,0.6820361614227295,0.5419220924377441,"0    22.256397
+Name: Similarity Score, dtype: float64","0    22.256397
+Name: Similarity Score, dtype: float64",1.0,1.0
+208,0.7428557872772217,0.5464276671409607,"0    18.257956
+Name: Similarity Score, dtype: float64","0    18.257956
+Name: Similarity Score, dtype: float64",1.0,1.0
+209,0.4453260898590088,0.6095277667045593,"0    29.74773
+Name: Similarity Score, dtype: float64","0    25.02253
+Name: Similarity Score, dtype: float64",1.0,1.0
+210,0.6709259152412415,0.4809582233428955,"0    30.879852
+Name: Similarity Score, dtype: float64","0    23.525509
+Name: Similarity Score, dtype: float64",1.0,1.0
+211,0.8011516332626343,0.4315287470817566,"0    25.882202
+Name: Similarity Score, dtype: float64","0    23.010675
+Name: Similarity Score, dtype: float64",1.0,1.0
+212,0.7218987941741943,0.6628276109695435,"0    31.79422
+Name: Similarity Score, dtype: float64","0    22.489275
+Name: Similarity Score, dtype: float64",1.0,1.0
+213,0.3391209840774536,0.3370506167411804,"0    18.390017
+Name: Similarity Score, dtype: float64","0    18.390017
+Name: Similarity Score, dtype: float64",1.0,1.0
+214,0.4560661315917969,0.5093289017677307,"0    30.07246
+Name: Similarity Score, dtype: float64","0    23.814547
+Name: Similarity Score, dtype: float64",1.0,1.0
+215,0.78852379322052,0.4103439748287201,"0    21.362526
+Name: Similarity Score, dtype: float64","0    21.362526
+Name: Similarity Score, dtype: float64",1.0,1.0
+216,0.3276369571685791,0.2951269745826721,"0    19.116348
+Name: Similarity Score, dtype: float64","0    19.116348
+Name: Similarity Score, dtype: float64",1.0,1.0
+217,0.6687493920326233,0.38543838262557983,"0    20.857891
+Name: Similarity Score, dtype: float64","0    20.857891
+Name: Similarity Score, dtype: float64",1.0,1.0
+218,0.5229183435440063,0.5023073554039001,"0    21.358459
+Name: Similarity Score, dtype: float64","0    21.755138
+Name: Similarity Score, dtype: float64",1.0,1.0
+219,0.8096418380737305,0.5539917945861816,"0    31.428047
+Name: Similarity Score, dtype: float64","0    20.148226
+Name: Similarity Score, dtype: float64",1.0,1.0
+220,0.7964553833007812,0.5615846514701843,"0    22.943283
+Name: Similarity Score, dtype: float64","0    22.943283
+Name: Similarity Score, dtype: float64",1.0,1.0
+221,0.7134213447570801,0.4458759129047394,"0    21.933374
+Name: Similarity Score, dtype: float64","0    21.545925
+Name: Similarity Score, dtype: float64",1.0,1.0
+222,0.3753246068954468,0.33745482563972473,"0    19.00362
+Name: Similarity Score, dtype: float64","0    19.00362
+Name: Similarity Score, dtype: float64",1.0,1.0
+223,0.34202587604522705,0.3023040294647217,"0    20.852642
+Name: Similarity Score, dtype: float64","0    20.852642
+Name: Similarity Score, dtype: float64",1.0,1.0
+224,0.37742286920547485,0.4938942790031433,"0    31.653559
+Name: Similarity Score, dtype: float64","0    21.559824
+Name: Similarity Score, dtype: float64",1.0,1.0
+225,0.8586872220039368,0.7170006632804871,"0    30.749172
+Name: Similarity Score, dtype: float64","0    24.837423
+Name: Similarity Score, dtype: float64",1.0,1.0
+226,0.8220341205596924,0.6754680275917053,"0    31.547663
+Name: Similarity Score, dtype: float64","0    20.936792
+Name: Similarity Score, dtype: float64",1.0,1.0
+227,0.8138543367385864,0.5762206315994263,"0    30.925911
+Name: Similarity Score, dtype: float64","0    21.80183
+Name: Similarity Score, dtype: float64",1.0,1.0
+228,0.7796039581298828,0.577918529510498,"0    19.37355
+Name: Similarity Score, dtype: float64","0    19.37355
+Name: Similarity Score, dtype: float64",1.0,1.0
+229,0.34413331747055054,0.277427077293396,"0    18.922709
+Name: Similarity Score, dtype: float64","0    18.922709
+Name: Similarity Score, dtype: float64",1.0,1.0
+230,0.3790101110935211,0.29812976717948914,"0    18.608944
+Name: Similarity Score, dtype: float64","0    18.608944
+Name: Similarity Score, dtype: float64",1.0,1.0
+231,0.8347433805465698,0.7053930759429932,"0    30.899092
+Name: Similarity Score, dtype: float64","0    25.95307
+Name: Similarity Score, dtype: float64",1.0,1.0
+232,0.854367733001709,0.656883716583252,"0    31.144413
+Name: Similarity Score, dtype: float64","0    20.33263
+Name: Similarity Score, dtype: float64",1.0,1.0
+233,0.7964553833007812,0.5615846514701843,"0    22.943283
+Name: Similarity Score, dtype: float64","0    22.943283
+Name: Similarity Score, dtype: float64",1.0,1.0
+234,0.5935177803039551,0.5372782945632935,"0    20.61729
+Name: Similarity Score, dtype: float64","0    20.61729
+Name: Similarity Score, dtype: float64",1.0,1.0
+235,0.8226102590560913,0.680229902267456,"0    30.306307
+Name: Similarity Score, dtype: float64","0    20.305395
+Name: Similarity Score, dtype: float64",1.0,1.0
+236,0.6807712316513062,0.5457738637924194,"0    21.520103
+Name: Similarity Score, dtype: float64","0    26.738909
+Name: Similarity Score, dtype: float64",1.0,1.0
+237,0.8230068683624268,0.5831327438354492,"0    32.45496
+Name: Similarity Score, dtype: float64","0    24.767797
+Name: Similarity Score, dtype: float64",1.0,1.0
+238,0.6995434761047363,0.44441282749176025,"0    31.524933
+Name: Similarity Score, dtype: float64","0    20.689499
+Name: Similarity Score, dtype: float64",1.0,1.0
+239,0.33190372586250305,0.5305172204971313,"0    18.039707
+Name: Similarity Score, dtype: float64","0    24.137077
+Name: Similarity Score, dtype: float64",1.0,1.0
+240,0.41212135553359985,0.514936089515686,"0    32.432076
+Name: Similarity Score, dtype: float64","0    20.263268
+Name: Similarity Score, dtype: float64",1.0,1.0
+241,0.3535078167915344,0.6600760221481323,"0    20.219849
+Name: Similarity Score, dtype: float64","0    25.201719
+Name: Similarity Score, dtype: float64",1.0,1.0
+242,0.6073828935623169,0.4932316541671753,"0    25.757984
+Name: Similarity Score, dtype: float64","0    24.710354
+Name: Similarity Score, dtype: float64",1.0,1.0
+243,0.6281715631484985,0.6339954137802124,"0    20.122444
+Name: Similarity Score, dtype: float64","0    28.185997
+Name: Similarity Score, dtype: float64",1.0,1.0
+244,0.7323412895202637,0.4936790466308594,"0    26.78406
+Name: Similarity Score, dtype: float64","0    29.635406
+Name: Similarity Score, dtype: float64",1.0,1.0
+245,0.6108987927436829,0.4010806977748871,"0    22.681784
+Name: Similarity Score, dtype: float64","0    23.944078
+Name: Similarity Score, dtype: float64",1.0,1.0
+246,0.5530996322631836,0.5404934883117676,"0    20.573721
+Name: Similarity Score, dtype: float64","0    20.778986
+Name: Similarity Score, dtype: float64",1.0,1.0
+247,0.39375606179237366,0.28530749678611755,"0    19.290028
+Name: Similarity Score, dtype: float64","0    19.290028
+Name: Similarity Score, dtype: float64",1.0,1.0
+248,0.852889895439148,0.5936084389686584,"0    30.185694
+Name: Similarity Score, dtype: float64","0    29.208744
+Name: Similarity Score, dtype: float64",1.0,1.0
+249,0.7242228984832764,0.6076488494873047,"0    25.338959
+Name: Similarity Score, dtype: float64","0    25.338959
+Name: Similarity Score, dtype: float64",1.0,1.0
+250,0.7794089317321777,0.6158454418182373,"0    23.661148
+Name: Similarity Score, dtype: float64","0    24.405102
+Name: Similarity Score, dtype: float64",1.0,1.0
+251,0.7450290322303772,0.47714370489120483,"0    23.622534
+Name: Similarity Score, dtype: float64","0    23.622534
+Name: Similarity Score, dtype: float64",1.0,1.0
+252,0.7747493982315063,0.43713653087615967,"0    20.487806
+Name: Similarity Score, dtype: float64","0    20.487806
+Name: Similarity Score, dtype: float64",1.0,1.0
+253,0.5529897212982178,0.3230266571044922,"0    21.333241
+Name: Similarity Score, dtype: float64","0    26.851501
+Name: Similarity Score, dtype: float64",1.0,1.0
+254,0.8363458514213562,0.6056591272354126,"0    31.696159
+Name: Similarity Score, dtype: float64","0    25.591251
+Name: Similarity Score, dtype: float64",1.0,1.0
+255,0.8376632928848267,0.7209596037864685,"0    31.093666
+Name: Similarity Score, dtype: float64","0    27.847963
+Name: Similarity Score, dtype: float64",1.0,1.0
+256,0.3306688070297241,0.33011913299560547,"0    20.048162
+Name: Similarity Score, dtype: float64","0    20.048162
+Name: Similarity Score, dtype: float64",1.0,1.0
+257,0.8432927131652832,0.6759245991706848,"0    30.184809
+Name: Similarity Score, dtype: float64","0    25.747141
+Name: Similarity Score, dtype: float64",1.0,1.0
+258,0.8220045566558838,0.6799735426902771,"0    30.257475
+Name: Similarity Score, dtype: float64","0    27.519461
+Name: Similarity Score, dtype: float64",1.0,1.0
+259,0.4102681875228882,0.32543981075286865,"0    19.18862
+Name: Similarity Score, dtype: float64","0    19.18862
+Name: Similarity Score, dtype: float64",1.0,1.0
+260,0.7253161668777466,0.5293771028518677,"0    20.702843
+Name: Similarity Score, dtype: float64","0    20.702843
+Name: Similarity Score, dtype: float64",1.0,1.0
+261,0.8379697799682617,0.5845677852630615,"0    30.244633
+Name: Similarity Score, dtype: float64","0    26.524031
+Name: Similarity Score, dtype: float64",1.0,1.0
+262,0.8420443534851074,0.5966720581054688,"0    25.998283
+Name: Similarity Score, dtype: float64","0    27.50701
+Name: Similarity Score, dtype: float64",1.0,1.0
+263,0.47417348623275757,0.4447532296180725,"0    24.726013
+Name: Similarity Score, dtype: float64","0    20.300283
+Name: Similarity Score, dtype: float64",1.0,1.0
+264,0.8121621608734131,0.5696991086006165,"0    28.849871
+Name: Similarity Score, dtype: float64","0    27.761545
+Name: Similarity Score, dtype: float64",1.0,1.0
+265,0.7912179231643677,0.45841577649116516,"0    20.920406
+Name: Similarity Score, dtype: float64","0    20.920406
+Name: Similarity Score, dtype: float64",1.0,1.0
+266,0.8474644422531128,0.614989161491394,"0    31.562769
+Name: Similarity Score, dtype: float64","0    28.443554
+Name: Similarity Score, dtype: float64",1.0,1.0
+267,0.8693829774856567,0.7027379274368286,"0    30.326918
+Name: Similarity Score, dtype: float64","0    27.132076
+Name: Similarity Score, dtype: float64",1.0,1.0
+268,0.5020010471343994,0.45650714635849,"0    22.191483
+Name: Similarity Score, dtype: float64","0    22.191483
+Name: Similarity Score, dtype: float64",1.0,1.0
+269,0.6679086089134216,0.463792622089386,"0    30.165165
+Name: Similarity Score, dtype: float64","0    25.412849
+Name: Similarity Score, dtype: float64",1.0,1.0
+270,0.7487843036651611,0.5926586389541626,"0    29.883629
+Name: Similarity Score, dtype: float64","0    28.520388
+Name: Similarity Score, dtype: float64",1.0,1.0
+271,0.5300695896148682,0.5004428029060364,"0    28.474621
+Name: Similarity Score, dtype: float64","0    23.75351
+Name: Similarity Score, dtype: float64",1.0,1.0
+272,0.7209733724594116,0.5347622036933899,"0    26.335701
+Name: Similarity Score, dtype: float64","0    24.163342
+Name: Similarity Score, dtype: float64",1.0,1.0
+273,0.6532569527626038,0.401470810174942,"0    22.01969
+Name: Similarity Score, dtype: float64","0    22.008169
+Name: Similarity Score, dtype: float64",1.0,1.0
+274,0.728489100933075,0.4935275912284851,"0    22.884331
+Name: Similarity Score, dtype: float64","0    21.993721
+Name: Similarity Score, dtype: float64",1.0,1.0
+275,0.6749730110168457,0.5744960308074951,"0    27.221807
+Name: Similarity Score, dtype: float64","0    20.855436
+Name: Similarity Score, dtype: float64",1.0,1.0
+276,0.8136559128761292,0.5073854327201843,"0    25.27088
+Name: Similarity Score, dtype: float64","0    26.423498
+Name: Similarity Score, dtype: float64",1.0,1.0
+277,0.34495532512664795,0.27688363194465637,"0    18.878605
+Name: Similarity Score, dtype: float64","0    18.878605
+Name: Similarity Score, dtype: float64",1.0,1.0
+278,0.6933070421218872,0.498692125082016,"0    25.338709
+Name: Similarity Score, dtype: float64","0    22.033224
+Name: Similarity Score, dtype: float64",1.0,1.0
+279,0.5128186941146851,0.5130053162574768,"0    28.68272
+Name: Similarity Score, dtype: float64","0    26.840485
+Name: Similarity Score, dtype: float64",1.0,1.0
+280,0.372699499130249,0.3597870469093323,"0    26.053671
+Name: Similarity Score, dtype: float64","0    24.18659
+Name: Similarity Score, dtype: float64",1.0,1.0
+281,0.8432927131652832,0.5983356237411499,"0    30.729282
+Name: Similarity Score, dtype: float64","0    28.496031
+Name: Similarity Score, dtype: float64",1.0,1.0
+282,0.7034609913825989,0.5806492567062378,"0    28.813389
+Name: Similarity Score, dtype: float64","0    22.035799
+Name: Similarity Score, dtype: float64",1.0,1.0
+283,0.8295112252235413,0.5972760319709778,"0    22.570702
+Name: Similarity Score, dtype: float64","0    19.567539
+Name: Similarity Score, dtype: float64",1.0,1.0
+284,0.33595263957977295,0.3206529915332794,"0    19.464718
+Name: Similarity Score, dtype: float64","0    19.464718
+Name: Similarity Score, dtype: float64",1.0,1.0
+285,0.6445279121398926,0.45916131138801575,"0    24.728035
+Name: Similarity Score, dtype: float64","0    24.728035
+Name: Similarity Score, dtype: float64",1.0,1.0
+286,0.35353153944015503,0.2971448004245758,"0    19.663429
+Name: Similarity Score, dtype: float64","0    19.663429
+Name: Similarity Score, dtype: float64",1.0,1.0
+287,0.352789044380188,0.7277211546897888,"0    19.263731
+Name: Similarity Score, dtype: float64","0    24.972361
+Name: Similarity Score, dtype: float64",1.0,1.0
+288,0.8347985744476318,0.6747370958328247,"0    28.891294
+Name: Similarity Score, dtype: float64","0    22.944624
+Name: Similarity Score, dtype: float64",1.0,1.0
+289,0.8266834020614624,0.6474604606628418,"0    28.001043
+Name: Similarity Score, dtype: float64","0    25.227987
+Name: Similarity Score, dtype: float64",1.0,1.0
+290,0.40551626682281494,0.5826451182365417,"0    18.97064
+Name: Similarity Score, dtype: float64","0    18.298649
+Name: Similarity Score, dtype: float64",1.0,1.0
+291,0.8542381525039673,0.3167586624622345,"0    29.101971
+Name: Similarity Score, dtype: float64","0    18.797735
+Name: Similarity Score, dtype: float64",1.0,1.0
+292,0.3226599395275116,0.2680078148841858,"0    19.241644
+Name: Similarity Score, dtype: float64","0    19.241644
+Name: Similarity Score, dtype: float64",1.0,1.0
+293,0.6989688873291016,0.5941490530967712,"0    27.706116
+Name: Similarity Score, dtype: float64","0    28.139982
+Name: Similarity Score, dtype: float64",1.0,1.0
+294,0.845433235168457,0.5621368288993835,"0    24.002304
+Name: Similarity Score, dtype: float64","0    24.618742
+Name: Similarity Score, dtype: float64",1.0,1.0
+295,0.6679086089134216,0.48641836643218994,"0    27.09519
+Name: Similarity Score, dtype: float64","0    25.646395
+Name: Similarity Score, dtype: float64",1.0,1.0
+296,0.3688566982746124,0.2855384051799774,"0    19.67021
+Name: Similarity Score, dtype: float64","0    19.67021
+Name: Similarity Score, dtype: float64",1.0,1.0
+297,0.3552764356136322,0.579819917678833,"0    18.482191
+Name: Similarity Score, dtype: float64","0    24.433834
+Name: Similarity Score, dtype: float64",1.0,1.0
+298,0.6813568472862244,0.373381108045578,"0    24.895044
+Name: Similarity Score, dtype: float64","0    19.970755
+Name: Similarity Score, dtype: float64",1.0,1.0
+299,0.8385686874389648,0.7088897228240967,"0    31.24441
+Name: Similarity Score, dtype: float64","0    29.789486
+Name: Similarity Score, dtype: float64",1.0,1.0
+300,0.6822806596755981,0.3675473928451538,"0    18.891291
+Name: Similarity Score, dtype: float64","0    18.891291
+Name: Similarity Score, dtype: float64",1.0,1.0
+301,0.35938215255737305,0.33365070819854736,"0    17.031672
+Name: Similarity Score, dtype: float64","0    17.031672
+Name: Similarity Score, dtype: float64",1.0,1.0
+302,0.7673255205154419,0.4640554189682007,"0    18.35675
+Name: Similarity Score, dtype: float64","0    18.913031
+Name: Similarity Score, dtype: float64",1.0,1.0
+303,0.7176716327667236,0.607117772102356,"0    25.807508
+Name: Similarity Score, dtype: float64","0    23.64043
+Name: Similarity Score, dtype: float64",1.0,1.0
+304,0.715868353843689,0.571276068687439,"0    27.60318
+Name: Similarity Score, dtype: float64","0    22.227493
+Name: Similarity Score, dtype: float64",1.0,1.0
+305,0.6844879388809204,0.565115213394165,"0    23.802563
+Name: Similarity Score, dtype: float64","0    28.718939
+Name: Similarity Score, dtype: float64",1.0,1.0
+306,0.7147583961486816,0.46973690390586853,"0    21.683792
+Name: Similarity Score, dtype: float64","0    21.683792
+Name: Similarity Score, dtype: float64",1.0,1.0
+307,0.38760387897491455,0.31160569190979004,"0    17.645947
+Name: Similarity Score, dtype: float64","0    17.645947
+Name: Similarity Score, dtype: float64",1.0,1.0
+308,0.33320319652557373,0.34331387281417847,"0    18.297329
+Name: Similarity Score, dtype: float64","0    17.916718
+Name: Similarity Score, dtype: float64",1.0,1.0
+309,0.829926073551178,0.6027226448059082,"0    28.31679
+Name: Similarity Score, dtype: float64","0    25.534994
+Name: Similarity Score, dtype: float64",1.0,1.0
+310,0.6466978192329407,0.5654217004776001,"0    21.692253
+Name: Similarity Score, dtype: float64","0    21.692253
+Name: Similarity Score, dtype: float64",1.0,1.0
+311,0.3816013038158417,0.32567036151885986,"0    16.188454
+Name: Similarity Score, dtype: float64","0    16.188454
+Name: Similarity Score, dtype: float64",1.0,1.0
+312,0.3530583679676056,0.3489724397659302,"0    17.092226
+Name: Similarity Score, dtype: float64","0    17.092226
+Name: Similarity Score, dtype: float64",1.0,1.0
+313,0.7311931848526001,0.506775975227356,"0    19.242579
+Name: Similarity Score, dtype: float64","0    19.242579
+Name: Similarity Score, dtype: float64",1.0,1.0
+314,0.37069693207740784,0.32334837317466736,"0    18.054338
+Name: Similarity Score, dtype: float64","0    18.054338
+Name: Similarity Score, dtype: float64",1.0,1.0
+315,0.3570103943347931,0.6470725536346436,"0    15.280363
+Name: Similarity Score, dtype: float64","0    27.430016
+Name: Similarity Score, dtype: float64",1.0,1.0
+316,0.3415749669075012,0.3875623345375061,"0    16.958117
+Name: Similarity Score, dtype: float64","0    16.958117
+Name: Similarity Score, dtype: float64",1.0,1.0
+317,0.7395273447036743,0.5727049112319946,"0    29.111921
+Name: Similarity Score, dtype: float64","0    23.905354
+Name: Similarity Score, dtype: float64",1.0,1.0
+318,0.8641368746757507,0.7046412825584412,"0    30.869648
+Name: Similarity Score, dtype: float64","0    23.783497
+Name: Similarity Score, dtype: float64",1.0,1.0
+319,0.7137011289596558,0.554209291934967,"0    25.629204
+Name: Similarity Score, dtype: float64","0    24.448187
+Name: Similarity Score, dtype: float64",1.0,1.0
+320,0.38390806317329407,0.3133311867713928,"0    19.011433
+Name: Similarity Score, dtype: float64","0    19.011433
+Name: Similarity Score, dtype: float64",1.0,1.0
+321,0.7278561592102051,0.6127129793167114,"0    24.551159
+Name: Similarity Score, dtype: float64","0    22.90589
+Name: Similarity Score, dtype: float64",1.0,1.0
+322,0.8601874113082886,0.6212092638015747,"0    29.16283
+Name: Similarity Score, dtype: float64","0    23.764977
+Name: Similarity Score, dtype: float64",1.0,1.0
+323,0.35936474800109863,0.31389594078063965,"0    17.143177
+Name: Similarity Score, dtype: float64","0    17.143177
+Name: Similarity Score, dtype: float64",1.0,1.0
+324,0.3947594463825226,0.320072740316391,"0    16.932478
+Name: Similarity Score, dtype: float64","0    16.932478
+Name: Similarity Score, dtype: float64",1.0,1.0
+325,0.396573543548584,0.36966457962989807,"0    16.579395
+Name: Similarity Score, dtype: float64","0    16.579395
+Name: Similarity Score, dtype: float64",1.0,1.0
+326,0.6746351718902588,0.5225889086723328,"0    23.579527
+Name: Similarity Score, dtype: float64","0    23.579527
+Name: Similarity Score, dtype: float64",1.0,1.0
+327,0.7168706059455872,0.46312904357910156,"0    22.331743
+Name: Similarity Score, dtype: float64","0    22.331743
+Name: Similarity Score, dtype: float64",1.0,1.0
+328,0.3696335554122925,0.331256628036499,"0    17.172737
+Name: Similarity Score, dtype: float64","0    17.172737
+Name: Similarity Score, dtype: float64",1.0,1.0
+329,0.3425133228302002,0.37305259704589844,"0    17.030678
+Name: Similarity Score, dtype: float64","0    17.030678
+Name: Similarity Score, dtype: float64",1.0,1.0
+330,0.6855757236480713,0.3953981101512909,"0    21.284855
+Name: Similarity Score, dtype: float64","0    21.915251
+Name: Similarity Score, dtype: float64",1.0,1.0
+331,0.6757452487945557,0.5684780478477478,"0    27.268303
+Name: Similarity Score, dtype: float64","0    24.660814
+Name: Similarity Score, dtype: float64",1.0,1.0
+332,0.7252686023712158,0.597342848777771,"0    27.828964
+Name: Similarity Score, dtype: float64","0    21.517956
+Name: Similarity Score, dtype: float64",1.0,1.0
+333,0.3709728419780731,0.3933437466621399,"0    17.380247
+Name: Similarity Score, dtype: float64","0    17.380247
+Name: Similarity Score, dtype: float64",1.0,1.0
+334,0.6614874601364136,0.6093704700469971,"0    23.367805
+Name: Similarity Score, dtype: float64","0    20.590456
+Name: Similarity Score, dtype: float64",1.0,1.0
+335,0.30547112226486206,0.23888438940048218,"0    21.987244
+Name: Similarity Score, dtype: float64","0    21.987244
+Name: Similarity Score, dtype: float64",1.0,1.0
+336,0.6861947178840637,0.6531466245651245,"0    28.034294
+Name: Similarity Score, dtype: float64","0    20.318804
+Name: Similarity Score, dtype: float64",1.0,1.0
+337,0.37140756845474243,0.3391501307487488,"0    17.599157
+Name: Similarity Score, dtype: float64","0    17.599157
+Name: Similarity Score, dtype: float64",1.0,1.0
+338,0.6069270372390747,0.43082910776138306,"0    19.887314
+Name: Similarity Score, dtype: float64","0    26.239336
+Name: Similarity Score, dtype: float64",1.0,1.0
+339,0.3696601390838623,0.3601943850517273,"0    17.091734
+Name: Similarity Score, dtype: float64","0    17.091734
+Name: Similarity Score, dtype: float64",1.0,1.0
+340,0.4033013582229614,0.37155914306640625,"0    22.685547
+Name: Similarity Score, dtype: float64","0    22.162848
+Name: Similarity Score, dtype: float64",1.0,1.0
+341,0.7284932136535645,0.615297794342041,"0    24.210911
+Name: Similarity Score, dtype: float64","0    22.07177
+Name: Similarity Score, dtype: float64",1.0,1.0
+342,0.6649883985519409,0.4994235038757324,"0    22.622883
+Name: Similarity Score, dtype: float64","0    22.579908
+Name: Similarity Score, dtype: float64",1.0,1.0
+343,0.3864992558956146,0.3492659330368042,"0    17.262329
+Name: Similarity Score, dtype: float64","0    17.262329
+Name: Similarity Score, dtype: float64",1.0,1.0
+344,0.35601890087127686,0.28470930457115173,"0    17.686554
+Name: Similarity Score, dtype: float64","0    17.686554
+Name: Similarity Score, dtype: float64",1.0,1.0
+345,0.3864992558956146,0.3420479893684387,"0    16.913801
+Name: Similarity Score, dtype: float64","0    16.913801
+Name: Similarity Score, dtype: float64",1.0,1.0
+346,0.3784462809562683,0.30599966645240784,"0    18.024916
+Name: Similarity Score, dtype: float64","0    18.024916
+Name: Similarity Score, dtype: float64",1.0,1.0
+347,0.4692787528038025,0.50630122423172,"0    27.640203
+Name: Similarity Score, dtype: float64","0    25.374409
+Name: Similarity Score, dtype: float64",1.0,1.0
+348,0.3426564335823059,0.332330584526062,"0    17.490726
+Name: Similarity Score, dtype: float64","0    17.490726
+Name: Similarity Score, dtype: float64",1.0,1.0
+349,0.3885841369628906,0.33497416973114014,"0    16.697266
+Name: Similarity Score, dtype: float64","0    16.697266
+Name: Similarity Score, dtype: float64",1.0,1.0
+350,0.5399545431137085,0.45636284351348877,"0    21.632702
+Name: Similarity Score, dtype: float64","0    21.632702
+Name: Similarity Score, dtype: float64",1.0,1.0
+351,0.4748937487602234,0.4980197548866272,"0    21.823748
+Name: Similarity Score, dtype: float64","0    20.839735
+Name: Similarity Score, dtype: float64",1.0,1.0
+352,0.708977222442627,0.4902172088623047,"0    22.572514
+Name: Similarity Score, dtype: float64","0    22.572514
+Name: Similarity Score, dtype: float64",1.0,1.0
+353,0.788180947303772,0.4219703674316406,"0    21.140593
+Name: Similarity Score, dtype: float64","0    21.140593
+Name: Similarity Score, dtype: float64",1.0,1.0
+354,0.36125728487968445,0.277607262134552,"0    19.561899
+Name: Similarity Score, dtype: float64","0    19.561899
+Name: Similarity Score, dtype: float64",1.0,1.0
+355,0.8574789762496948,0.6345510482788086,"0    26.325741
+Name: Similarity Score, dtype: float64","0    24.064648
+Name: Similarity Score, dtype: float64",1.0,1.0
+356,0.6885524988174438,0.4237298369407654,"0    17.254499
+Name: Similarity Score, dtype: float64","0    17.254499
+Name: Similarity Score, dtype: float64",1.0,1.0
+357,0.6969959735870361,0.39708542823791504,"0    21.043352
+Name: Similarity Score, dtype: float64","0    21.043352
+Name: Similarity Score, dtype: float64",1.0,1.0
+358,0.45866650342941284,0.2900523245334625,"0    31.489033
+Name: Similarity Score, dtype: float64","0    20.464119
+Name: Similarity Score, dtype: float64",1.0,1.0
+359,0.3936804234981537,0.35745564103126526,"0    18.454487
+Name: Similarity Score, dtype: float64","0    18.454487
+Name: Similarity Score, dtype: float64",1.0,1.0
+360,0.720649242401123,0.7255208492279053,"0    25.745014
+Name: Similarity Score, dtype: float64","0    22.11018
+Name: Similarity Score, dtype: float64",1.0,1.0
+361,0.4686189293861389,0.41052955389022827,"0    24.344788
+Name: Similarity Score, dtype: float64","0    22.359547
+Name: Similarity Score, dtype: float64",1.0,1.0
+362,0.7330743074417114,0.563968300819397,"0    23.429327
+Name: Similarity Score, dtype: float64","0    28.095032
+Name: Similarity Score, dtype: float64",1.0,1.0
+363,0.6920050978660583,0.6329219341278076,"0    30.696531
+Name: Similarity Score, dtype: float64","0    26.682636
+Name: Similarity Score, dtype: float64",1.0,1.0
+364,0.5812280178070068,0.5227502584457397,"0    21.999758
+Name: Similarity Score, dtype: float64","0    24.210241
+Name: Similarity Score, dtype: float64",1.0,1.0
+365,0.42027196288108826,0.4896416962146759,"0    19.798492
+Name: Similarity Score, dtype: float64","0    26.756073
+Name: Similarity Score, dtype: float64",1.0,1.0
+366,0.6465094685554504,0.3795318007469177,"0    21.630045
+Name: Similarity Score, dtype: float64","0    21.948368
+Name: Similarity Score, dtype: float64",1.0,1.0
+367,0.36186641454696655,0.3186796009540558,"0    18.184015
+Name: Similarity Score, dtype: float64","0    18.184015
+Name: Similarity Score, dtype: float64",1.0,1.0
+368,0.4984202980995178,0.6113631725311279,"0    24.75363
+Name: Similarity Score, dtype: float64","0    26.031324
+Name: Similarity Score, dtype: float64",1.0,1.0
+369,0.7235901951789856,0.5594227313995361,"0    28.771332
+Name: Similarity Score, dtype: float64","0    21.523003
+Name: Similarity Score, dtype: float64",1.0,1.0
+370,0.7820529937744141,0.5797446966171265,"0    22.184246
+Name: Similarity Score, dtype: float64","0    22.184246
+Name: Similarity Score, dtype: float64",1.0,1.0
+371,0.6907449960708618,0.48023468255996704,"0    23.211836
+Name: Similarity Score, dtype: float64","0    22.26293
+Name: Similarity Score, dtype: float64",1.0,1.0
+372,0.809944748878479,0.5318323373794556,"0    30.27426
+Name: Similarity Score, dtype: float64","0    29.013256
+Name: Similarity Score, dtype: float64",1.0,1.0
+373,0.6501755714416504,0.4118529260158539,"0    20.945236
+Name: Similarity Score, dtype: float64","0    20.945236
+Name: Similarity Score, dtype: float64",1.0,1.0
+374,0.38254469633102417,0.5790233016014099,"0    18.167076
+Name: Similarity Score, dtype: float64","0    22.933439
+Name: Similarity Score, dtype: float64",1.0,1.0
+375,0.7992426156997681,0.5848039984703064,"0    22.477638
+Name: Similarity Score, dtype: float64","0    22.477638
+Name: Similarity Score, dtype: float64",1.0,1.0
+376,0.7290018200874329,0.6751278638839722,"0    23.733667
+Name: Similarity Score, dtype: float64","0    21.960154
+Name: Similarity Score, dtype: float64",1.0,1.0
+377,0.7410669326782227,0.5508354306221008,"0    24.634378
+Name: Similarity Score, dtype: float64","0    24.634378
+Name: Similarity Score, dtype: float64",1.0,1.0
+378,0.8159044981002808,0.604228138923645,"0    30.228659
+Name: Similarity Score, dtype: float64","0    23.63805
+Name: Similarity Score, dtype: float64",1.0,1.0
+379,0.7362695336341858,0.51369309425354,"0    23.780794
+Name: Similarity Score, dtype: float64","0    23.038891
+Name: Similarity Score, dtype: float64",1.0,1.0
+380,0.5276756882667542,0.3010333776473999,"0    26.137718
+Name: Similarity Score, dtype: float64","0    20.868835
+Name: Similarity Score, dtype: float64",1.0,1.0
+381,0.5715377330780029,0.5653253793716431,"0    23.939695
+Name: Similarity Score, dtype: float64","0    23.563341
+Name: Similarity Score, dtype: float64",1.0,1.0
+382,0.45439279079437256,0.40671634674072266,"0    19.052464
+Name: Similarity Score, dtype: float64","0    18.83223
+Name: Similarity Score, dtype: float64",1.0,1.0
+383,0.8766155242919922,0.652363657951355,"0    31.070513
+Name: Similarity Score, dtype: float64","0    27.418459
+Name: Similarity Score, dtype: float64",1.0,1.0
+384,0.35738232731819153,0.32374417781829834,"0    18.801071
+Name: Similarity Score, dtype: float64","0    18.801071
+Name: Similarity Score, dtype: float64",1.0,1.0
+385,0.7979193329811096,0.6500371694564819,"0    31.75436
+Name: Similarity Score, dtype: float64","0    27.837349
+Name: Similarity Score, dtype: float64",1.0,1.0
+386,0.5942544937133789,0.5506815910339355,"0    23.508667
+Name: Similarity Score, dtype: float64","0    26.948782
+Name: Similarity Score, dtype: float64",1.0,1.0
+387,0.7309247255325317,0.6885809302330017,"0    31.8906
+Name: Similarity Score, dtype: float64","0    29.618252
+Name: Similarity Score, dtype: float64",1.0,1.0
+388,0.39600759744644165,0.46103090047836304,"0    18.98912
+Name: Similarity Score, dtype: float64","0    24.31143
+Name: Similarity Score, dtype: float64",1.0,1.0
+389,0.6329198479652405,0.5548422336578369,"0    20.711262
+Name: Similarity Score, dtype: float64","0    28.159678
+Name: Similarity Score, dtype: float64",1.0,1.0
+390,0.6179640889167786,0.43977415561676025,"0    20.340965
+Name: Similarity Score, dtype: float64","0    20.340965
+Name: Similarity Score, dtype: float64",1.0,1.0
+391,0.3488262891769409,0.32884347438812256,"0    19.468822
+Name: Similarity Score, dtype: float64","0    19.468822
+Name: Similarity Score, dtype: float64",1.0,1.0
+392,0.6437363028526306,0.5040430426597595,"0    31.950962
+Name: Similarity Score, dtype: float64","0    21.525345
+Name: Similarity Score, dtype: float64",1.0,1.0
+393,0.37477511167526245,0.31713178753852844,"0    18.783037
+Name: Similarity Score, dtype: float64","0    18.783037
+Name: Similarity Score, dtype: float64",1.0,1.0
+394,0.7998830676078796,0.47331106662750244,"0    25.208462
+Name: Similarity Score, dtype: float64","0    25.208462
+Name: Similarity Score, dtype: float64",1.0,1.0
+395,0.6466107368469238,0.42806166410446167,"0    32.508331
+Name: Similarity Score, dtype: float64","0    17.310152
+Name: Similarity Score, dtype: float64",1.0,1.0
+396,0.39731094241142273,0.587213933467865,"0    18.761272
+Name: Similarity Score, dtype: float64","0    25.099716
+Name: Similarity Score, dtype: float64",1.0,1.0
+397,0.7563115358352661,0.610321581363678,"0    21.374788
+Name: Similarity Score, dtype: float64","0    25.744104
+Name: Similarity Score, dtype: float64",1.0,1.0
+398,0.7752199172973633,0.5403555631637573,"0    23.708477
+Name: Similarity Score, dtype: float64","0    23.708477
+Name: Similarity Score, dtype: float64",1.0,1.0
+399,0.632841944694519,0.4471111297607422,"0    26.317537
+Name: Similarity Score, dtype: float64","0    26.522642
+Name: Similarity Score, dtype: float64",1.0,1.0
+400,0.7309247255325317,0.6885809302330017,"0    31.8906
+Name: Similarity Score, dtype: float64","0    29.618252
+Name: Similarity Score, dtype: float64",1.0,1.0
+401,0.37070101499557495,0.33230459690093994,"0    18.553425
+Name: Similarity Score, dtype: float64","0    18.553425
+Name: Similarity Score, dtype: float64",1.0,1.0
+402,0.5843628644943237,0.5646076202392578,"0    21.545046
+Name: Similarity Score, dtype: float64","0    24.321241
+Name: Similarity Score, dtype: float64",1.0,1.0
+403,0.6985902786254883,0.4575730860233307,"0    20.847176
+Name: Similarity Score, dtype: float64","0    20.847176
+Name: Similarity Score, dtype: float64",1.0,1.0
+404,0.7304364442825317,0.5906969904899597,"0    29.917461
+Name: Similarity Score, dtype: float64","0    23.311911
+Name: Similarity Score, dtype: float64",1.0,1.0
+405,0.8232887983322144,0.5179232358932495,"0    31.565628
+Name: Similarity Score, dtype: float64","0    22.322008
+Name: Similarity Score, dtype: float64",1.0,1.0
+406,0.5713223814964294,0.3835839033126831,"0    23.399935
+Name: Similarity Score, dtype: float64","0    23.399935
+Name: Similarity Score, dtype: float64",1.0,1.0
+407,0.7114588618278503,0.4753310978412628,"0    22.722937
+Name: Similarity Score, dtype: float64","0    22.722937
+Name: Similarity Score, dtype: float64",1.0,1.0
+408,0.8247131109237671,0.5696471929550171,"0    28.376181
+Name: Similarity Score, dtype: float64","0    23.9433
+Name: Similarity Score, dtype: float64",1.0,1.0
+409,0.8281345367431641,0.5949980616569519,"0    30.947897
+Name: Similarity Score, dtype: float64","0    25.579855
+Name: Similarity Score, dtype: float64",1.0,1.0
+410,0.7919868230819702,0.40195807814598083,"0    19.792597
+Name: Similarity Score, dtype: float64","0    19.792597
+Name: Similarity Score, dtype: float64",1.0,1.0
+411,0.4544650912284851,0.6027529239654541,"0    20.534401
+Name: Similarity Score, dtype: float64","0    24.299891
+Name: Similarity Score, dtype: float64",1.0,1.0
+412,0.7050635814666748,0.6475002765655518,"0    32.601719
+Name: Similarity Score, dtype: float64","0    25.642056
+Name: Similarity Score, dtype: float64",1.0,1.0
+413,0.36364442110061646,0.5296422243118286,"0    18.003119
+Name: Similarity Score, dtype: float64","0    21.419905
+Name: Similarity Score, dtype: float64",1.0,1.0
+414,0.4149984121322632,0.33339884877204895,"0    18.184488
+Name: Similarity Score, dtype: float64","0    18.184488
+Name: Similarity Score, dtype: float64",1.0,1.0
+415,0.5611721873283386,0.4869069457054138,"0    24.500666
+Name: Similarity Score, dtype: float64","0    23.419361
+Name: Similarity Score, dtype: float64",1.0,1.0
+416,0.3328898847103119,0.5396527051925659,"0    18.602253
+Name: Similarity Score, dtype: float64","0    22.753868
+Name: Similarity Score, dtype: float64",1.0,1.0
+417,0.3981682360172272,0.3918485939502716,"0    18.380243
+Name: Similarity Score, dtype: float64","0    18.380243
+Name: Similarity Score, dtype: float64",1.0,1.0
+418,0.5130885243415833,0.5641124248504639,"0    23.213484
+Name: Similarity Score, dtype: float64","0    22.594164
+Name: Similarity Score, dtype: float64",1.0,1.0
+419,0.6985902786254883,0.44260331988334656,"0    21.169025
+Name: Similarity Score, dtype: float64","0    21.169025
+Name: Similarity Score, dtype: float64",1.0,1.0
+420,0.7509931325912476,0.491968035697937,"0    19.476971
+Name: Similarity Score, dtype: float64","0    19.476971
+Name: Similarity Score, dtype: float64",1.0,1.0
+421,0.3836992084980011,0.27185943722724915,"0    26.252201
+Name: Similarity Score, dtype: float64","0    26.104542
+Name: Similarity Score, dtype: float64",1.0,1.0
+422,0.7785053253173828,0.5400419235229492,"0    22.901777
+Name: Similarity Score, dtype: float64","0    22.263741
+Name: Similarity Score, dtype: float64",1.0,1.0
+423,0.8050619959831238,0.5703949928283691,"0    19.719032
+Name: Similarity Score, dtype: float64","0    19.719032
+Name: Similarity Score, dtype: float64",1.0,1.0
+424,0.5501809120178223,0.5425856709480286,"0    28.910172
+Name: Similarity Score, dtype: float64","0    26.159065
+Name: Similarity Score, dtype: float64",1.0,1.0
+425,0.8240633606910706,0.5752416849136353,"0    29.652578
+Name: Similarity Score, dtype: float64","0    24.769655
+Name: Similarity Score, dtype: float64",1.0,1.0
+426,0.6279358863830566,0.3675473928451538,"0    18.577934
+Name: Similarity Score, dtype: float64","0    18.577934
+Name: Similarity Score, dtype: float64",1.0,1.0
+427,0.3684541583061218,0.3345226049423218,"0    18.07542
+Name: Similarity Score, dtype: float64","0    18.07542
+Name: Similarity Score, dtype: float64",1.0,1.0
+428,0.3873147964477539,0.2850714921951294,"0    17.481804
+Name: Similarity Score, dtype: float64","0    18.157492
+Name: Similarity Score, dtype: float64",1.0,1.0
+429,0.36967188119888306,0.3023785352706909,"0    17.92491
+Name: Similarity Score, dtype: float64","0    17.92491
+Name: Similarity Score, dtype: float64",1.0,1.0
+430,0.6038438081741333,0.594230592250824,"0    25.247822
+Name: Similarity Score, dtype: float64","0    25.247822
+Name: Similarity Score, dtype: float64",1.0,1.0
+431,0.3915459215641022,0.34365659952163696,"0    16.745029
+Name: Similarity Score, dtype: float64","0    16.745029
+Name: Similarity Score, dtype: float64",1.0,1.0
+432,0.8099212646484375,0.5629964470863342,"0    19.182722
+Name: Similarity Score, dtype: float64","0    19.182722
+Name: Similarity Score, dtype: float64",1.0,1.0
+433,0.5737419128417969,0.4219806492328644,"0    22.386663
+Name: Similarity Score, dtype: float64","0    23.025076
+Name: Similarity Score, dtype: float64",1.0,1.0
+434,0.7054641246795654,0.5100063681602478,"0    28.944937
+Name: Similarity Score, dtype: float64","0    22.485424
+Name: Similarity Score, dtype: float64",1.0,1.0
+435,0.8220292329788208,0.6730648279190063,"0    31.70006
+Name: Similarity Score, dtype: float64","0    25.999975
+Name: Similarity Score, dtype: float64",1.0,1.0
+436,0.3534814119338989,0.37723207473754883,"0    17.638609
+Name: Similarity Score, dtype: float64","0    17.638609
+Name: Similarity Score, dtype: float64",1.0,1.0
+437,0.6793917417526245,0.6226187944412231,"0    31.457954
+Name: Similarity Score, dtype: float64","0    24.612993
+Name: Similarity Score, dtype: float64",1.0,1.0
+438,0.8229708075523376,0.452792227268219,"0    30.771112
+Name: Similarity Score, dtype: float64","0    23.881432
+Name: Similarity Score, dtype: float64",1.0,1.0
+439,0.7969508171081543,0.5354639291763306,"0    22.28109
+Name: Similarity Score, dtype: float64","0    22.28109
+Name: Similarity Score, dtype: float64",1.0,1.0
+440,0.7989595532417297,0.509219229221344,"0    28.574244
+Name: Similarity Score, dtype: float64","0    23.318087
+Name: Similarity Score, dtype: float64",1.0,1.0
+441,0.6692291498184204,0.5121546983718872,"0    22.565224
+Name: Similarity Score, dtype: float64","0    22.565224
+Name: Similarity Score, dtype: float64",1.0,1.0
+442,0.37569665908813477,0.35596829652786255,"0    17.218218
+Name: Similarity Score, dtype: float64","0    17.218218
+Name: Similarity Score, dtype: float64",1.0,1.0
+443,0.5426167249679565,0.48179900646209717,"0    20.798443
+Name: Similarity Score, dtype: float64","0    19.430914
+Name: Similarity Score, dtype: float64",1.0,1.0
+444,0.6543899774551392,0.527576208114624,"0    25.696564
+Name: Similarity Score, dtype: float64","0    25.696564
+Name: Similarity Score, dtype: float64",1.0,1.0
+445,0.46181726455688477,0.3962166905403137,"0    21.731314
+Name: Similarity Score, dtype: float64","0    21.731314
+Name: Similarity Score, dtype: float64",1.0,1.0
+446,0.8120123147964478,0.429164856672287,"0    23.588884
+Name: Similarity Score, dtype: float64","0    23.588884
+Name: Similarity Score, dtype: float64",1.0,1.0
+447,0.35137641429901123,0.272516131401062,"0    18.107492
+Name: Similarity Score, dtype: float64","0    18.107492
+Name: Similarity Score, dtype: float64",1.0,1.0
+448,0.8622432947158813,0.4848814904689789,"0    31.035986
+Name: Similarity Score, dtype: float64","0    22.60906
+Name: Similarity Score, dtype: float64",1.0,1.0
+449,0.7789283394813538,0.590545117855072,"0    30.36561
+Name: Similarity Score, dtype: float64","0    26.166159
+Name: Similarity Score, dtype: float64",1.0,1.0
+450,0.4420022964477539,0.3304605484008789,"0    20.182613
+Name: Similarity Score, dtype: float64","0    18.40106
+Name: Similarity Score, dtype: float64",1.0,1.0
+451,0.6661561727523804,0.5769656896591187,"0    30.453283
+Name: Similarity Score, dtype: float64","0    23.033451
+Name: Similarity Score, dtype: float64",1.0,1.0
+452,0.7247781753540039,0.6140474081039429,"0    31.588722
+Name: Similarity Score, dtype: float64","0    24.022633
+Name: Similarity Score, dtype: float64",1.0,1.0
+453,0.4157823324203491,0.3756521940231323,"0    24.973484
+Name: Similarity Score, dtype: float64","0    25.533989
+Name: Similarity Score, dtype: float64",1.0,1.0
+454,0.6486077308654785,0.5363770723342896,"0    20.931269
+Name: Similarity Score, dtype: float64","0    22.274908
+Name: Similarity Score, dtype: float64",1.0,1.0
+455,0.8400046825408936,0.6206942200660706,"0    29.609749
+Name: Similarity Score, dtype: float64","0    26.07085
+Name: Similarity Score, dtype: float64",1.0,1.0
+456,0.6661561727523804,0.5769656896591187,"0    30.453283
+Name: Similarity Score, dtype: float64","0    23.033451
+Name: Similarity Score, dtype: float64",1.0,1.0
+457,0.7103161811828613,0.42128437757492065,"0    22.439116
+Name: Similarity Score, dtype: float64","0    23.132938
+Name: Similarity Score, dtype: float64",1.0,1.0
+458,0.706416666507721,0.6013973951339722,"0    31.314188
+Name: Similarity Score, dtype: float64","0    24.067623
+Name: Similarity Score, dtype: float64",1.0,1.0
+459,0.6635391712188721,0.329018771648407,"0    22.442371
+Name: Similarity Score, dtype: float64","0    22.442371
+Name: Similarity Score, dtype: float64",1.0,1.0
+460,0.4103126525878906,0.6404933929443359,"0    28.978153
+Name: Similarity Score, dtype: float64","0    21.276899
+Name: Similarity Score, dtype: float64",1.0,1.0
+461,0.8424941301345825,0.6309059858322144,"0    28.126331
+Name: Similarity Score, dtype: float64","0    25.585724
+Name: Similarity Score, dtype: float64",1.0,1.0
+462,0.7948390245437622,0.5327671766281128,"0    18.043547
+Name: Similarity Score, dtype: float64","0    18.043547
+Name: Similarity Score, dtype: float64",1.0,1.0
+463,0.6548290252685547,0.6208490133285522,"0    17.170658
+Name: Similarity Score, dtype: float64","0    26.618715
+Name: Similarity Score, dtype: float64",1.0,1.0
+464,0.6445035934448242,0.44414985179901123,"0    22.374226
+Name: Similarity Score, dtype: float64","0    22.374226
+Name: Similarity Score, dtype: float64",1.0,1.0
+465,0.8345001935958862,0.6051428914070129,"0    30.068895
+Name: Similarity Score, dtype: float64","0    23.869267
+Name: Similarity Score, dtype: float64",1.0,1.0
+466,0.6784191131591797,0.5085563659667969,"0    24.860516
+Name: Similarity Score, dtype: float64","0    22.877029
+Name: Similarity Score, dtype: float64",1.0,1.0
+467,0.7143437266349792,0.640421986579895,"0    30.722713
+Name: Similarity Score, dtype: float64","0    25.729454
+Name: Similarity Score, dtype: float64",1.0,1.0
+468,0.6781166791915894,0.520733118057251,"0    29.494635
+Name: Similarity Score, dtype: float64","0    25.20458
+Name: Similarity Score, dtype: float64",1.0,1.0
+469,0.7300377488136292,0.6338261365890503,"0    30.201548
+Name: Similarity Score, dtype: float64","0    23.940651
+Name: Similarity Score, dtype: float64",1.0,1.0
+470,0.8306859731674194,0.5695148706436157,"0    29.148445
+Name: Similarity Score, dtype: float64","0    24.346399
+Name: Similarity Score, dtype: float64",1.0,1.0
+471,0.6793917417526245,0.6247701644897461,"0    31.558025
+Name: Similarity Score, dtype: float64","0    26.529663
+Name: Similarity Score, dtype: float64",1.0,1.0
+472,0.690328061580658,0.5353842973709106,"0    29.319073
+Name: Similarity Score, dtype: float64","0    24.457634
+Name: Similarity Score, dtype: float64",1.0,1.0
+473,0.8622432947158813,0.5829986333847046,"0    30.372894
+Name: Similarity Score, dtype: float64","0    25.895197
+Name: Similarity Score, dtype: float64",1.0,1.0
+474,0.6463358402252197,0.4218425154685974,"0    19.831285
+Name: Similarity Score, dtype: float64","0    19.831285
+Name: Similarity Score, dtype: float64",1.0,1.0
+475,0.37569665908813477,0.35596829652786255,"0    17.218218
+Name: Similarity Score, dtype: float64","0    17.218218
+Name: Similarity Score, dtype: float64",1.0,1.0
+476,0.690328061580658,0.5353842973709106,"0    29.319073
+Name: Similarity Score, dtype: float64","0    24.457634
+Name: Similarity Score, dtype: float64",1.0,1.0
+477,0.5333313345909119,0.5853543281555176,"0    29.105047
+Name: Similarity Score, dtype: float64","0    26.363764
+Name: Similarity Score, dtype: float64",1.0,1.0
+478,0.3688567280769348,0.35057511925697327,"0    17.620472
+Name: Similarity Score, dtype: float64","0    17.620472
+Name: Similarity Score, dtype: float64",1.0,1.0
+479,0.29707515239715576,0.5757629871368408,"0    17.8866
+Name: Similarity Score, dtype: float64","0    26.393486
+Name: Similarity Score, dtype: float64",1.0,1.0
+480,0.3980446457862854,0.3503945469856262,"0    17.091702
+Name: Similarity Score, dtype: float64","0    17.091702
+Name: Similarity Score, dtype: float64",1.0,1.0
+481,0.6083979606628418,0.48097607493400574,"0    21.884842
+Name: Similarity Score, dtype: float64","0    22.194727
+Name: Similarity Score, dtype: float64",1.0,1.0
+482,0.44472432136535645,0.4105106592178345,"0    24.957281
+Name: Similarity Score, dtype: float64","0    20.541767
+Name: Similarity Score, dtype: float64",1.0,1.0
+483,0.8126360177993774,0.6495946049690247,"0    29.790682
+Name: Similarity Score, dtype: float64","0    23.652422
+Name: Similarity Score, dtype: float64",1.0,1.0
+484,0.7162841558456421,0.6162489056587219,"0    30.302868
+Name: Similarity Score, dtype: float64","0    23.447994
+Name: Similarity Score, dtype: float64",1.0,1.0
+485,0.6072313189506531,0.41328340768814087,"0    24.071953
+Name: Similarity Score, dtype: float64","0    24.071953
+Name: Similarity Score, dtype: float64",1.0,1.0
+486,0.6055508852005005,0.32571446895599365,"0    22.20676
+Name: Similarity Score, dtype: float64","0    22.20676
+Name: Similarity Score, dtype: float64",1.0,1.0
+487,0.31087225675582886,0.26768290996551514,"0    19.994303
+Name: Similarity Score, dtype: float64","0    19.994303
+Name: Similarity Score, dtype: float64",1.0,1.0
+488,0.3974001705646515,0.33126217126846313,"0    17.838942
+Name: Similarity Score, dtype: float64","0    17.838942
+Name: Similarity Score, dtype: float64",1.0,1.0
+489,0.4006008505821228,0.3322479724884033,"0    18.618176
+Name: Similarity Score, dtype: float64","0    18.618176
+Name: Similarity Score, dtype: float64",1.0,1.0
+490,0.381234347820282,0.3164297938346863,"0    17.258144
+Name: Similarity Score, dtype: float64","0    17.258144
+Name: Similarity Score, dtype: float64",1.0,1.0
+491,0.7002029418945312,0.5619683265686035,"0    30.142483
+Name: Similarity Score, dtype: float64","0    26.502335
+Name: Similarity Score, dtype: float64",1.0,1.0
+492,0.3759836256504059,0.31223922967910767,"0    20.020256
+Name: Similarity Score, dtype: float64","0    20.020256
+Name: Similarity Score, dtype: float64",1.0,1.0
+493,0.4238346815109253,0.3402867913246155,"0    17.969049
+Name: Similarity Score, dtype: float64","0    17.969049
+Name: Similarity Score, dtype: float64",1.0,1.0
+494,0.3927770256996155,0.303567111492157,"0    17.822588
+Name: Similarity Score, dtype: float64","0    17.822588
+Name: Similarity Score, dtype: float64",1.0,1.0
+495,0.7470078468322754,0.7061057090759277,"0    27.210337
+Name: Similarity Score, dtype: float64","0    23.212265
+Name: Similarity Score, dtype: float64",1.0,1.0
+496,0.420958936214447,0.3621569871902466,"0    18.187641
+Name: Similarity Score, dtype: float64","0    18.187641
+Name: Similarity Score, dtype: float64",1.0,1.0
+497,0.7576313018798828,0.6366389989852905,"0    30.041365
+Name: Similarity Score, dtype: float64","0    26.546501
+Name: Similarity Score, dtype: float64",1.0,1.0
+498,0.7242968082427979,0.640845775604248,"0    30.433685
+Name: Similarity Score, dtype: float64","0    27.673376
+Name: Similarity Score, dtype: float64",1.0,1.0
+499,0.35700559616088867,0.3250963091850281,"0    17.356541
+Name: Similarity Score, dtype: float64","0    17.356541
+Name: Similarity Score, dtype: float64",1.0,1.0
+500,0.827404797077179,0.6151829957962036,"0    30.219009
+Name: Similarity Score, dtype: float64","0    24.324678
+Name: Similarity Score, dtype: float64",1.0,1.0
+501,0.8053696751594543,0.49345093965530396,"0    26.963346
+Name: Similarity Score, dtype: float64","0    26.963346
+Name: Similarity Score, dtype: float64",1.0,1.0
+502,0.40112558007240295,0.33555394411087036,"0    17.808512
+Name: Similarity Score, dtype: float64","0    17.808512
+Name: Similarity Score, dtype: float64",1.0,1.0
+503,0.792456865310669,0.5339643955230713,"0    28.889095
+Name: Similarity Score, dtype: float64","0    22.003941
+Name: Similarity Score, dtype: float64",1.0,1.0
+504,0.5678020715713501,0.6438345909118652,"0    20.811922
+Name: Similarity Score, dtype: float64","0    23.260185
+Name: Similarity Score, dtype: float64",1.0,1.0
+505,0.7344961166381836,0.5319823026657104,"0    21.567608
+Name: Similarity Score, dtype: float64","0    21.567608
+Name: Similarity Score, dtype: float64",1.0,1.0
+506,0.596885085105896,0.5702903866767883,"0    27.160538
+Name: Similarity Score, dtype: float64","0    23.075367
+Name: Similarity Score, dtype: float64",1.0,1.0
+507,0.38378843665122986,0.30514049530029297,"0    17.803669
+Name: Similarity Score, dtype: float64","0    17.803669
+Name: Similarity Score, dtype: float64",1.0,1.0
+508,0.39055901765823364,0.32239171862602234,"0    18.22583
+Name: Similarity Score, dtype: float64","0    18.22583
+Name: Similarity Score, dtype: float64",1.0,1.0
+509,0.41025805473327637,0.3479471802711487,"0    18.80529
+Name: Similarity Score, dtype: float64","0    18.80529
+Name: Similarity Score, dtype: float64",1.0,1.0
+510,0.7403582334518433,0.5135502815246582,"0    31.014204
+Name: Similarity Score, dtype: float64","0    24.654518
+Name: Similarity Score, dtype: float64",1.0,1.0
+511,0.39296942949295044,0.34577345848083496,"0    18.28582
+Name: Similarity Score, dtype: float64","0    18.28582
+Name: Similarity Score, dtype: float64",1.0,1.0
+512,0.5488950610160828,0.35885176062583923,"0    21.748203
+Name: Similarity Score, dtype: float64","0    22.923229
+Name: Similarity Score, dtype: float64",1.0,1.0
+513,0.7333564758300781,0.5727881193161011,"0    22.675508
+Name: Similarity Score, dtype: float64","0    22.890671
+Name: Similarity Score, dtype: float64",1.0,1.0
+514,0.6495657563209534,0.39809900522232056,"0    20.926239
+Name: Similarity Score, dtype: float64","0    19.706278
+Name: Similarity Score, dtype: float64",1.0,1.0
+515,0.5679149031639099,0.5073299407958984,"0    26.269493
+Name: Similarity Score, dtype: float64","0    24.010736
+Name: Similarity Score, dtype: float64",1.0,1.0
+516,0.3677431344985962,0.35935428738594055,"0    20.585928
+Name: Similarity Score, dtype: float64","0    20.585928
+Name: Similarity Score, dtype: float64",1.0,1.0
+517,0.5562984943389893,0.5438072681427002,"0    18.744738
+Name: Similarity Score, dtype: float64","0    21.250448
+Name: Similarity Score, dtype: float64",1.0,1.0
+518,0.6804208159446716,0.472215473651886,"0    26.00519
+Name: Similarity Score, dtype: float64","0    26.00519
+Name: Similarity Score, dtype: float64",1.0,1.0
+519,0.3974001705646515,0.33681267499923706,"0    17.452705
+Name: Similarity Score, dtype: float64","0    17.452705
+Name: Similarity Score, dtype: float64",1.0,1.0
+520,0.38965803384780884,0.3021734952926636,"0    18.08424
+Name: Similarity Score, dtype: float64","0    18.08424
+Name: Similarity Score, dtype: float64",1.0,1.0
+521,0.704272449016571,0.5119199752807617,"0    22.225229
+Name: Similarity Score, dtype: float64","0    22.225229
+Name: Similarity Score, dtype: float64",1.0,1.0
+522,0.38843363523483276,0.31956636905670166,"0    21.902824
+Name: Similarity Score, dtype: float64","0    21.902824
+Name: Similarity Score, dtype: float64",1.0,1.0
+523,0.381234347820282,0.32604554295539856,"0    18.177134
+Name: Similarity Score, dtype: float64","0    18.177134
+Name: Similarity Score, dtype: float64",1.0,1.0
+524,0.29123014211654663,0.36190342903137207,"0    31.274975
+Name: Similarity Score, dtype: float64","0    24.570999
+Name: Similarity Score, dtype: float64",1.0,1.0
+525,0.8438270688056946,0.6040117740631104,"0    30.108898
+Name: Similarity Score, dtype: float64","0    25.458694
+Name: Similarity Score, dtype: float64",1.0,1.0
+526,0.7041134834289551,0.5733824968338013,"0    19.634232
+Name: Similarity Score, dtype: float64","0    30.022753
+Name: Similarity Score, dtype: float64",1.0,1.0
+527,0.6902262568473816,0.5839883685112,"0    22.902819
+Name: Similarity Score, dtype: float64","0    22.902819
+Name: Similarity Score, dtype: float64",1.0,1.0
+528,0.6443315744400024,0.32074037194252014,"0    21.854147
+Name: Similarity Score, dtype: float64","0    21.854147
+Name: Similarity Score, dtype: float64",1.0,1.0
+529,0.72101891040802,0.36354315280914307,"0    19.346489
+Name: Similarity Score, dtype: float64","0    19.140778
+Name: Similarity Score, dtype: float64",1.0,1.0
+530,0.6821415424346924,0.6019757986068726,"0    20.594158
+Name: Similarity Score, dtype: float64","0    20.698168
+Name: Similarity Score, dtype: float64",1.0,1.0
+531,0.6234554052352905,0.5494146347045898,"0    23.048231
+Name: Similarity Score, dtype: float64","0    23.663643
+Name: Similarity Score, dtype: float64",1.0,1.0
+532,0.7451179027557373,0.5143624544143677,"0    28.60347
+Name: Similarity Score, dtype: float64","0    21.091381
+Name: Similarity Score, dtype: float64",1.0,1.0
+533,0.7718786001205444,0.618660032749176,"0    20.813347
+Name: Similarity Score, dtype: float64","0    23.043377
+Name: Similarity Score, dtype: float64",1.0,1.0
+534,0.41651278734207153,0.6937960386276245,"0    31.073818
+Name: Similarity Score, dtype: float64","0    23.368069
+Name: Similarity Score, dtype: float64",1.0,1.0
+535,0.37306180596351624,0.32089030742645264,"0    18.133209
+Name: Similarity Score, dtype: float64","0    18.133209
+Name: Similarity Score, dtype: float64",1.0,1.0
+536,0.5871976613998413,0.5658243298530579,"0    27.081146
+Name: Similarity Score, dtype: float64","0    23.842407
+Name: Similarity Score, dtype: float64",1.0,1.0
+537,0.6968551874160767,0.591267466545105,"0    29.940557
+Name: Similarity Score, dtype: float64","0    25.924566
+Name: Similarity Score, dtype: float64",1.0,1.0
+538,0.6764255166053772,0.49644914269447327,"0    29.022867
+Name: Similarity Score, dtype: float64","0    19.723038
+Name: Similarity Score, dtype: float64",1.0,1.0
+539,0.3677431344985962,0.3772042989730835,"0    17.87851
+Name: Similarity Score, dtype: float64","0    17.87851
+Name: Similarity Score, dtype: float64",1.0,1.0
+540,0.384890615940094,0.32676446437835693,"0    18.971256
+Name: Similarity Score, dtype: float64","0    18.971256
+Name: Similarity Score, dtype: float64",1.0,1.0
+541,0.4212803244590759,0.44727301597595215,"0    21.515434
+Name: Similarity Score, dtype: float64","0    20.956022
+Name: Similarity Score, dtype: float64",1.0,1.0
+542,0.5635669231414795,0.5789101719856262,"0    21.696022
+Name: Similarity Score, dtype: float64","0    23.189333
+Name: Similarity Score, dtype: float64",1.0,1.0
+543,0.8171858191490173,0.5193142890930176,"0    33.312027
+Name: Similarity Score, dtype: float64","0    23.814842
+Name: Similarity Score, dtype: float64",1.0,1.0
+544,0.7279798984527588,0.49461644887924194,"0    33.284462
+Name: Similarity Score, dtype: float64","0    22.737022
+Name: Similarity Score, dtype: float64",1.0,1.0
+545,0.6833721995353699,0.4363786280155182,"0    29.055273
+Name: Similarity Score, dtype: float64","0    23.617298
+Name: Similarity Score, dtype: float64",1.0,1.0
+546,0.6361063718795776,0.530466616153717,"0    28.03587
+Name: Similarity Score, dtype: float64","0    28.03587
+Name: Similarity Score, dtype: float64",1.0,1.0
+547,0.7955958843231201,0.4177969694137573,"0    24.576164
+Name: Similarity Score, dtype: float64","0    24.576164
+Name: Similarity Score, dtype: float64",1.0,1.0
+548,0.529417872428894,0.4824795126914978,"0    31.543272
+Name: Similarity Score, dtype: float64","0    24.623495
+Name: Similarity Score, dtype: float64",1.0,1.0
+549,0.6117120981216431,0.4237027168273926,"0    25.352324
+Name: Similarity Score, dtype: float64","0    26.287985
+Name: Similarity Score, dtype: float64",1.0,1.0
+550,0.586450457572937,0.5683197975158691,"0    22.191757
+Name: Similarity Score, dtype: float64","0    22.630096
+Name: Similarity Score, dtype: float64",1.0,1.0
+551,0.6467169523239136,0.45254355669021606,"0    18.433138
+Name: Similarity Score, dtype: float64","0    18.433138
+Name: Similarity Score, dtype: float64",1.0,1.0
+552,0.8233027458190918,0.6051414012908936,"0    30.54735
+Name: Similarity Score, dtype: float64","0    27.14109
+Name: Similarity Score, dtype: float64",1.0,1.0
+553,0.5986610651016235,0.5595382452011108,"0    21.418198
+Name: Similarity Score, dtype: float64","0    20.791267
+Name: Similarity Score, dtype: float64",1.0,1.0
+554,0.7800837755203247,0.5091291666030884,"0    24.718098
+Name: Similarity Score, dtype: float64","0    24.718098
+Name: Similarity Score, dtype: float64",1.0,1.0
+555,0.810316801071167,0.617758572101593,"0    30.503038
+Name: Similarity Score, dtype: float64","0    18.904606
+Name: Similarity Score, dtype: float64",1.0,1.0
+556,0.6742601990699768,0.5074493288993835,"0    24.705786
+Name: Similarity Score, dtype: float64","0    24.854029
+Name: Similarity Score, dtype: float64",1.0,1.0
+557,0.7153138518333435,0.606952428817749,"0    31.334478
+Name: Similarity Score, dtype: float64","0    22.99811
+Name: Similarity Score, dtype: float64",1.0,1.0
+558,0.8006787300109863,0.6170373558998108,"0    31.734896
+Name: Similarity Score, dtype: float64","0    19.523249
+Name: Similarity Score, dtype: float64",1.0,1.0
+559,0.8331526517868042,0.6113535761833191,"0    30.532679
+Name: Similarity Score, dtype: float64","0    23.447212
+Name: Similarity Score, dtype: float64",1.0,1.0
+560,0.3551862835884094,0.6035293340682983,"0    32.309273
+Name: Similarity Score, dtype: float64","0    23.137402
+Name: Similarity Score, dtype: float64",1.0,1.0
+561,0.7044686079025269,0.5153751373291016,"0    24.752209
+Name: Similarity Score, dtype: float64","0    25.879416
+Name: Similarity Score, dtype: float64",1.0,1.0
+562,0.6212762594223022,0.4263140857219696,"0    26.428658
+Name: Similarity Score, dtype: float64","0    26.428658
+Name: Similarity Score, dtype: float64",1.0,1.0
+563,0.7393112182617188,0.42807912826538086,"0    22.988533
+Name: Similarity Score, dtype: float64","0    22.988533
+Name: Similarity Score, dtype: float64",1.0,1.0
+564,0.7004629373550415,0.5611758828163147,"0    24.760214
+Name: Similarity Score, dtype: float64","0    24.760214
+Name: Similarity Score, dtype: float64",1.0,1.0
+565,0.559613049030304,0.6701041460037231,"0    33.404537
+Name: Similarity Score, dtype: float64","0    26.785532
+Name: Similarity Score, dtype: float64",1.0,1.0
+566,0.6324896812438965,0.45475873351097107,"0    19.356676
+Name: Similarity Score, dtype: float64","0    19.356676
+Name: Similarity Score, dtype: float64",1.0,1.0
+567,0.7825716137886047,0.555700421333313,"0    22.663706
+Name: Similarity Score, dtype: float64","0    22.663706
+Name: Similarity Score, dtype: float64",1.0,1.0
+568,0.4516720771789551,0.5051006078720093,"0    20.284986
+Name: Similarity Score, dtype: float64","0    19.568632
+Name: Similarity Score, dtype: float64",1.0,1.0
+569,0.6735378503799438,0.5148645639419556,"0    24.234798
+Name: Similarity Score, dtype: float64","0    24.234798
+Name: Similarity Score, dtype: float64",1.0,1.0
+570,0.7348442673683167,0.7068577408790588,"0    31.068552
+Name: Similarity Score, dtype: float64","0    23.707727
+Name: Similarity Score, dtype: float64",1.0,1.0
+571,0.684002161026001,0.5518555641174316,"0    25.334982
+Name: Similarity Score, dtype: float64","0    25.334982
+Name: Similarity Score, dtype: float64",1.0,1.0
+572,0.6130071878433228,0.44515806436538696,"0    23.387802
+Name: Similarity Score, dtype: float64","0    25.434399
+Name: Similarity Score, dtype: float64",1.0,1.0
+573,0.3480919599533081,0.5496717095375061,"0    29.813429
+Name: Similarity Score, dtype: float64","0    21.352749
+Name: Similarity Score, dtype: float64",1.0,1.0
+574,0.6420793533325195,0.44293051958084106,"0    22.914213
+Name: Similarity Score, dtype: float64","0    22.914213
+Name: Similarity Score, dtype: float64",1.0,1.0
+575,0.7674287557601929,0.480805367231369,"0    24.066803
+Name: Similarity Score, dtype: float64","0    24.066803
+Name: Similarity Score, dtype: float64",1.0,1.0
+576,0.827366828918457,0.5890873074531555,"0    29.55995
+Name: Similarity Score, dtype: float64","0    21.105591
+Name: Similarity Score, dtype: float64",1.0,1.0
+577,0.3660017251968384,0.2687227129936218,"0    18.699446
+Name: Similarity Score, dtype: float64","0    18.699446
+Name: Similarity Score, dtype: float64",1.0,1.0
+578,0.6292943954467773,0.5919097661972046,"0    22.409025
+Name: Similarity Score, dtype: float64","0    26.701271
+Name: Similarity Score, dtype: float64",1.0,1.0
+579,0.7702545523643494,0.5221572518348694,"0    22.180199
+Name: Similarity Score, dtype: float64","0    22.180199
+Name: Similarity Score, dtype: float64",1.0,1.0
+580,0.7829205989837646,0.40228039026260376,"0    23.702175
+Name: Similarity Score, dtype: float64","0    23.800455
+Name: Similarity Score, dtype: float64",1.0,1.0
+581,0.6154476404190063,0.49651211500167847,"0    27.193859
+Name: Similarity Score, dtype: float64","0    25.914394
+Name: Similarity Score, dtype: float64",1.0,1.0
+582,0.7576143145561218,0.5852681398391724,"0    22.067944
+Name: Similarity Score, dtype: float64","0    24.108051
+Name: Similarity Score, dtype: float64",1.0,1.0
+583,0.8327774405479431,0.6909536719322205,"0    30.86384
+Name: Similarity Score, dtype: float64","0    21.30669
+Name: Similarity Score, dtype: float64",1.0,1.0
+584,0.6450644135475159,0.46924877166748047,"0    21.551256
+Name: Similarity Score, dtype: float64","0    21.551256
+Name: Similarity Score, dtype: float64",1.0,1.0
+585,0.6332629919052124,0.3887038826942444,"0    22.322687
+Name: Similarity Score, dtype: float64","0    22.322687
+Name: Similarity Score, dtype: float64",1.0,1.0
+586,0.8285554051399231,0.6080496907234192,"0    29.796219
+Name: Similarity Score, dtype: float64","0    25.050142
+Name: Similarity Score, dtype: float64",1.0,1.0
+587,0.6252181529998779,0.5110745429992676,"0    22.510338
+Name: Similarity Score, dtype: float64","0    22.440691
+Name: Similarity Score, dtype: float64",1.0,1.0
+588,0.35305681824684143,0.5190973281860352,"0    18.500441
+Name: Similarity Score, dtype: float64","0    20.526903
+Name: Similarity Score, dtype: float64",1.0,1.0
+589,0.7702545523643494,0.5451808571815491,"0    23.02916
+Name: Similarity Score, dtype: float64","0    25.529871
+Name: Similarity Score, dtype: float64",1.0,1.0
+590,0.7119342684745789,0.572437584400177,"0    28.075329
+Name: Similarity Score, dtype: float64","0    23.61039
+Name: Similarity Score, dtype: float64",1.0,1.0
+591,0.686591386795044,0.48504894971847534,"0    21.029757
+Name: Similarity Score, dtype: float64","0    21.029757
+Name: Similarity Score, dtype: float64",1.0,1.0
+592,0.7564116716384888,0.5444685816764832,"0    26.321007
+Name: Similarity Score, dtype: float64","0    26.321007
+Name: Similarity Score, dtype: float64",1.0,1.0
+593,0.7652850151062012,0.48629897832870483,"0    24.493179
+Name: Similarity Score, dtype: float64","0    24.493179
+Name: Similarity Score, dtype: float64",1.0,1.0
+594,0.6012932062149048,0.6275439262390137,"0    24.464222
+Name: Similarity Score, dtype: float64","0    25.028652
+Name: Similarity Score, dtype: float64",1.0,1.0
+595,0.8062596321105957,0.6616886854171753,"0    30.53269
+Name: Similarity Score, dtype: float64","0    28.204042
+Name: Similarity Score, dtype: float64",1.0,1.0
+596,0.7721625566482544,0.391158789396286,"0    22.386732
+Name: Similarity Score, dtype: float64","0    22.386732
+Name: Similarity Score, dtype: float64",1.0,1.0
+597,0.7275188565254211,0.6144007444381714,"0    31.966002
+Name: Similarity Score, dtype: float64","0    28.388145
+Name: Similarity Score, dtype: float64",1.0,1.0
+598,0.37226420640945435,0.5721559524536133,"0    19.479012
+Name: Similarity Score, dtype: float64","0    21.766788
+Name: Similarity Score, dtype: float64",1.0,1.0
+599,0.6717010736465454,0.5357486009597778,"0    30.956781
+Name: Similarity Score, dtype: float64","0    22.119926
+Name: Similarity Score, dtype: float64",1.0,1.0
+600,0.7958403825759888,0.48951488733291626,"0    27.130199
+Name: Similarity Score, dtype: float64","0    27.130199
+Name: Similarity Score, dtype: float64",1.0,1.0
+601,0.6374160647392273,0.46071118116378784,"0    23.536863
+Name: Similarity Score, dtype: float64","0    23.679768
+Name: Similarity Score, dtype: float64",1.0,1.0
+602,0.5771667957305908,0.5726083517074585,"0    23.126936
+Name: Similarity Score, dtype: float64","0    20.980743
+Name: Similarity Score, dtype: float64",1.0,1.0
+603,0.554784893989563,0.6012849807739258,"0    30.726429
+Name: Similarity Score, dtype: float64","0    28.954187
+Name: Similarity Score, dtype: float64",1.0,1.0
+604,0.48859959840774536,0.4347248077392578,"0    26.531765
+Name: Similarity Score, dtype: float64","0    24.77964
+Name: Similarity Score, dtype: float64",1.0,1.0
+605,0.6347860097885132,0.45347529649734497,"0    21.924736
+Name: Similarity Score, dtype: float64","0    21.924736
+Name: Similarity Score, dtype: float64",1.0,1.0
+606,0.7143876552581787,0.36180996894836426,"0    21.711584
+Name: Similarity Score, dtype: float64","0    21.711584
+Name: Similarity Score, dtype: float64",1.0,1.0
+607,0.3320671021938324,0.2671694755554199,"0    20.76746
+Name: Similarity Score, dtype: float64","0    20.76746
+Name: Similarity Score, dtype: float64",1.0,1.0
+608,0.7032260894775391,0.6338575482368469,"0    29.311783
+Name: Similarity Score, dtype: float64","0    20.878267
+Name: Similarity Score, dtype: float64",1.0,1.0
+609,0.3443574011325836,0.30503594875335693,"0    19.843525
+Name: Similarity Score, dtype: float64","0    19.843525
+Name: Similarity Score, dtype: float64",1.0,1.0
+610,0.684396505355835,0.5708664059638977,"0    22.665813
+Name: Similarity Score, dtype: float64","0    22.665813
+Name: Similarity Score, dtype: float64",1.0,1.0
+611,0.8051400184631348,0.6284466981887817,"0    28.245207
+Name: Similarity Score, dtype: float64","0    26.319622
+Name: Similarity Score, dtype: float64",1.0,1.0
+612,0.3561350703239441,0.2883284389972687,"0    19.561853
+Name: Similarity Score, dtype: float64","0    19.561853
+Name: Similarity Score, dtype: float64",1.0,1.0
+613,0.7217527627944946,0.4319455027580261,"0    26.233717
+Name: Similarity Score, dtype: float64","0    26.233717
+Name: Similarity Score, dtype: float64",1.0,1.0
+614,0.39807260036468506,0.31738507747650146,"0    21.087851
+Name: Similarity Score, dtype: float64","0    21.087851
+Name: Similarity Score, dtype: float64",1.0,1.0
+615,0.8842370510101318,0.6174716949462891,"0    26.558784
+Name: Similarity Score, dtype: float64","0    21.263035
+Name: Similarity Score, dtype: float64",1.0,1.0
+616,0.690921425819397,0.5534674525260925,"0    25.320822
+Name: Similarity Score, dtype: float64","0    21.86796
+Name: Similarity Score, dtype: float64",1.0,1.0
+617,0.5589329600334167,0.5642497539520264,"0    19.456636
+Name: Similarity Score, dtype: float64","0    20.957548
+Name: Similarity Score, dtype: float64",1.0,1.0
+618,0.8064703941345215,0.5729274749755859,"0    27.724134
+Name: Similarity Score, dtype: float64","0    21.471457
+Name: Similarity Score, dtype: float64",1.0,1.0
+619,0.6856809854507446,0.5345975160598755,"0    29.725052
+Name: Similarity Score, dtype: float64","0    23.153275
+Name: Similarity Score, dtype: float64",1.0,1.0
+620,0.6006729006767273,0.5750998854637146,"0    30.45079
+Name: Similarity Score, dtype: float64","0    22.303633
+Name: Similarity Score, dtype: float64",1.0,1.0
+621,0.3571928143501282,0.3029369115829468,"0    21.355715
+Name: Similarity Score, dtype: float64","0    21.355715
+Name: Similarity Score, dtype: float64",1.0,1.0
+622,0.6013389825820923,0.6082656383514404,"0    27.334303
+Name: Similarity Score, dtype: float64","0    26.502934
+Name: Similarity Score, dtype: float64",1.0,1.0
+623,0.7279928922653198,0.4754416346549988,"0    31.094969
+Name: Similarity Score, dtype: float64","0    24.778681
+Name: Similarity Score, dtype: float64",1.0,1.0
+624,0.7247340679168701,0.47206711769104004,"0    21.720667
+Name: Similarity Score, dtype: float64","0    21.720667
+Name: Similarity Score, dtype: float64",1.0,1.0
+625,0.46359914541244507,0.42594635486602783,"0    22.450071
+Name: Similarity Score, dtype: float64","0    23.021681
+Name: Similarity Score, dtype: float64",1.0,1.0
+626,0.755144476890564,0.5233561396598816,"0    21.04174
+Name: Similarity Score, dtype: float64","0    21.04174
+Name: Similarity Score, dtype: float64",1.0,1.0
+627,0.6279611587524414,0.44248151779174805,"0    24.279638
+Name: Similarity Score, dtype: float64","0    24.931557
+Name: Similarity Score, dtype: float64",1.0,1.0
+628,0.3681901693344116,0.29337313771247864,"0    19.66737
+Name: Similarity Score, dtype: float64","0    19.66737
+Name: Similarity Score, dtype: float64",1.0,1.0
+629,0.7703325748443604,0.5830094814300537,"0    18.427494
+Name: Similarity Score, dtype: float64","0    18.354774
+Name: Similarity Score, dtype: float64",1.0,1.0
+630,0.78326416015625,0.524988055229187,"0    20.343954
+Name: Similarity Score, dtype: float64","0    20.316715
+Name: Similarity Score, dtype: float64",1.0,1.0
+631,0.8007264137268066,0.5849717855453491,"0    27.963852
+Name: Similarity Score, dtype: float64","0    19.733597
+Name: Similarity Score, dtype: float64",1.0,1.0
+632,0.6933313012123108,0.6339683532714844,"0    29.169317
+Name: Similarity Score, dtype: float64","0    22.205957
+Name: Similarity Score, dtype: float64",1.0,1.0
+633,0.3538389205932617,0.29471060633659363,"0    20.84597
+Name: Similarity Score, dtype: float64","0    20.84597
+Name: Similarity Score, dtype: float64",1.0,1.0
+634,0.7122459411621094,0.5489769577980042,"0    27.952948
+Name: Similarity Score, dtype: float64","0    24.41655
+Name: Similarity Score, dtype: float64",1.0,1.0
+635,0.6997338533401489,0.5614463090896606,"0    30.386871
+Name: Similarity Score, dtype: float64","0    21.405872
+Name: Similarity Score, dtype: float64",1.0,1.0
+636,0.7611770629882812,0.32789844274520874,"0    21.773197
+Name: Similarity Score, dtype: float64","0    20.762764
+Name: Similarity Score, dtype: float64",1.0,1.0
+637,0.7340307235717773,0.6240335702896118,"0    29.743359
+Name: Similarity Score, dtype: float64","0    20.790056
+Name: Similarity Score, dtype: float64",1.0,1.0
+638,0.3401028513908386,0.34447264671325684,"0    19.135389
+Name: Similarity Score, dtype: float64","0    19.135389
+Name: Similarity Score, dtype: float64",1.0,1.0
+639,0.34919607639312744,0.31474629044532776,"0    19.829899
+Name: Similarity Score, dtype: float64","0    19.829899
+Name: Similarity Score, dtype: float64",1.0,1.0
+640,0.7273519039154053,0.5709986686706543,"0    23.748735
+Name: Similarity Score, dtype: float64","0    23.748735
+Name: Similarity Score, dtype: float64",1.0,1.0
+641,0.8320367932319641,0.6888493895530701,"0    28.723209
+Name: Similarity Score, dtype: float64","0    19.66407
+Name: Similarity Score, dtype: float64",1.0,1.0
+642,0.6175546050071716,0.5478644371032715,"0    27.432022
+Name: Similarity Score, dtype: float64","0    17.965973
+Name: Similarity Score, dtype: float64",1.0,1.0
+643,0.3058326840400696,0.2811070382595062,"0    20.330175
+Name: Similarity Score, dtype: float64","0    20.330175
+Name: Similarity Score, dtype: float64",1.0,1.0
+644,0.7032260894775391,0.6338575482368469,"0    28.184065
+Name: Similarity Score, dtype: float64","0    21.12121
+Name: Similarity Score, dtype: float64",1.0,1.0
+645,0.8192628622055054,0.6624072790145874,"0    30.421173
+Name: Similarity Score, dtype: float64","0    22.492535
+Name: Similarity Score, dtype: float64",1.0,1.0
+646,0.3096371293067932,0.29567545652389526,"0    20.560486
+Name: Similarity Score, dtype: float64","0    20.560486
+Name: Similarity Score, dtype: float64",1.0,1.0
+647,0.6282848119735718,0.5380865931510925,"0    22.735264
+Name: Similarity Score, dtype: float64","0    22.735264
+Name: Similarity Score, dtype: float64",1.0,1.0
+648,0.7009191513061523,0.51362144947052,"0    23.518429
+Name: Similarity Score, dtype: float64","0    23.518429
+Name: Similarity Score, dtype: float64",1.0,1.0
+649,0.35098472237586975,0.2789745032787323,"0    19.825813
+Name: Similarity Score, dtype: float64","0    19.825813
+Name: Similarity Score, dtype: float64",1.0,1.0
+650,0.6732603311538696,0.531632661819458,"0    21.123106
+Name: Similarity Score, dtype: float64","0    20.916969
+Name: Similarity Score, dtype: float64",1.0,1.0
+651,0.36611467599868774,0.2749243974685669,"0    20.414789
+Name: Similarity Score, dtype: float64","0    20.414789
+Name: Similarity Score, dtype: float64",1.0,1.0
+652,0.46079397201538086,0.48845016956329346,"0    28.617573
+Name: Similarity Score, dtype: float64","0    24.149878
+Name: Similarity Score, dtype: float64",1.0,1.0
+653,0.3176093101501465,0.2735852599143982,"0    20.071003
+Name: Similarity Score, dtype: float64","0    20.071003
+Name: Similarity Score, dtype: float64",1.0,1.0
+654,0.762047529220581,0.5699502229690552,"0    25.413742
+Name: Similarity Score, dtype: float64","0    25.413742
+Name: Similarity Score, dtype: float64",1.0,1.0
+655,0.3391166627407074,0.28145623207092285,"0    19.889523
+Name: Similarity Score, dtype: float64","0    19.889523
+Name: Similarity Score, dtype: float64",1.0,1.0
+656,0.6011084318161011,0.3826526403427124,"0    19.694685
+Name: Similarity Score, dtype: float64","0    19.289579
+Name: Similarity Score, dtype: float64",1.0,1.0
+657,0.7918091416358948,0.5435163974761963,"0    29.266203
+Name: Similarity Score, dtype: float64","0    23.723406
+Name: Similarity Score, dtype: float64",1.0,1.0
+658,0.5770819187164307,0.31717002391815186,"0    22.067228
+Name: Similarity Score, dtype: float64","0    22.067228
+Name: Similarity Score, dtype: float64",1.0,1.0
+659,0.5986598134040833,0.5864981412887573,"0    26.887125
+Name: Similarity Score, dtype: float64","0    20.497255
+Name: Similarity Score, dtype: float64",1.0,1.0
+660,0.32893627882003784,0.2916269898414612,"0    21.33823
+Name: Similarity Score, dtype: float64","0    21.33823
+Name: Similarity Score, dtype: float64",1.0,1.0
+661,0.7966630458831787,0.4957272708415985,"0    27.753853
+Name: Similarity Score, dtype: float64","0    27.753853
+Name: Similarity Score, dtype: float64",1.0,1.0
+662,0.6814782619476318,0.45774877071380615,"0    21.106228
+Name: Similarity Score, dtype: float64","0    20.955378
+Name: Similarity Score, dtype: float64",1.0,1.0
+663,0.6117376685142517,0.491751492023468,"0    20.934095
+Name: Similarity Score, dtype: float64","0    20.934095
+Name: Similarity Score, dtype: float64",1.0,1.0
+664,0.6377448439598083,0.5208882093429565,"0    22.71594
+Name: Similarity Score, dtype: float64","0    22.862328
+Name: Similarity Score, dtype: float64",1.0,1.0
+665,0.3768482208251953,0.4041089415550232,"0    23.992929
+Name: Similarity Score, dtype: float64","0    18.990192
+Name: Similarity Score, dtype: float64",1.0,1.0
+666,0.6097379922866821,0.4290050268173218,"0    21.727095
+Name: Similarity Score, dtype: float64","0    22.219156
+Name: Similarity Score, dtype: float64",1.0,1.0
+667,0.31071925163269043,0.280490517616272,"0    18.977022
+Name: Similarity Score, dtype: float64","0    18.977022
+Name: Similarity Score, dtype: float64",1.0,1.0
+668,0.32801198959350586,0.3119770884513855,"0    18.597872
+Name: Similarity Score, dtype: float64","0    18.597872
+Name: Similarity Score, dtype: float64",1.0,1.0
+669,0.605930745601654,0.4658399820327759,"0    24.183395
+Name: Similarity Score, dtype: float64","0    24.183395
+Name: Similarity Score, dtype: float64",1.0,1.0
+670,0.7491081953048706,0.6239210367202759,"0    23.935686
+Name: Similarity Score, dtype: float64","0    24.736723
+Name: Similarity Score, dtype: float64",1.0,1.0
+671,0.3918021321296692,0.34330204129219055,"0    19.578302
+Name: Similarity Score, dtype: float64","0    19.578302
+Name: Similarity Score, dtype: float64",1.0,1.0
+672,0.73043292760849,0.47545793652534485,"0    21.623838
+Name: Similarity Score, dtype: float64","0    21.320578
+Name: Similarity Score, dtype: float64",1.0,1.0
+673,0.6659129858016968,0.5264104604721069,"0    24.906631
+Name: Similarity Score, dtype: float64","0    24.906631
+Name: Similarity Score, dtype: float64",1.0,1.0
+674,0.772859513759613,0.4992842674255371,"0    23.025898
+Name: Similarity Score, dtype: float64","0    23.025898
+Name: Similarity Score, dtype: float64",1.0,1.0
+675,0.8087145090103149,0.617758572101593,"0    31.702456
+Name: Similarity Score, dtype: float64","0    18.302727
+Name: Similarity Score, dtype: float64",1.0,1.0
+676,0.7274856567382812,0.5470081567764282,"0    22.611797
+Name: Similarity Score, dtype: float64","0    22.611797
+Name: Similarity Score, dtype: float64",1.0,1.0
+677,0.7052353620529175,0.5888370275497437,"0    27.008787
+Name: Similarity Score, dtype: float64","0    24.779629
+Name: Similarity Score, dtype: float64",1.0,1.0
+678,0.8081746697425842,0.6248488426208496,"0    31.290165
+Name: Similarity Score, dtype: float64","0    23.250511
+Name: Similarity Score, dtype: float64",1.0,1.0
+679,0.6590447425842285,0.4222721755504608,"0    25.484911
+Name: Similarity Score, dtype: float64","0    25.484911
+Name: Similarity Score, dtype: float64",1.0,1.0
+680,0.33107370138168335,0.2836647033691406,"0    19.565989
+Name: Similarity Score, dtype: float64","0    19.565989
+Name: Similarity Score, dtype: float64",1.0,1.0
+681,0.6626272797584534,0.46088337898254395,"0    29.675209
+Name: Similarity Score, dtype: float64","0    21.663273
+Name: Similarity Score, dtype: float64",1.0,1.0
+682,0.6715415716171265,0.40775713324546814,"0    25.23995
+Name: Similarity Score, dtype: float64","0    22.588076
+Name: Similarity Score, dtype: float64",1.0,1.0
+683,0.7884557843208313,0.42488715052604675,"0    23.102627
+Name: Similarity Score, dtype: float64","0    23.102627
+Name: Similarity Score, dtype: float64",1.0,1.0
+684,0.7007009983062744,0.6030397415161133,"0    22.883829
+Name: Similarity Score, dtype: float64","0    22.117348
+Name: Similarity Score, dtype: float64",1.0,1.0
+685,0.38819247484207153,0.42350977659225464,"0    28.080872
+Name: Similarity Score, dtype: float64","0    20.91037
+Name: Similarity Score, dtype: float64",1.0,1.0
+686,0.6412909030914307,0.3703949749469757,"0    31.064934
+Name: Similarity Score, dtype: float64","0    21.728621
+Name: Similarity Score, dtype: float64",1.0,1.0
+687,0.4057139754295349,0.34365659952163696,"0    19.190409
+Name: Similarity Score, dtype: float64","0    19.190409
+Name: Similarity Score, dtype: float64",1.0,1.0
+688,0.7112066745758057,0.494961142539978,"0    32.2085
+Name: Similarity Score, dtype: float64","0    22.822512
+Name: Similarity Score, dtype: float64",1.0,1.0
+689,0.5774328708648682,0.3489935100078583,"0    21.104362
+Name: Similarity Score, dtype: float64","0    21.229794
+Name: Similarity Score, dtype: float64",1.0,1.0
+690,0.34580445289611816,0.2810889780521393,"0    19.502394
+Name: Similarity Score, dtype: float64","0    19.502394
+Name: Similarity Score, dtype: float64",1.0,1.0
+691,0.5631752610206604,0.5250511169433594,"0    23.223362
+Name: Similarity Score, dtype: float64","0    24.038488
+Name: Similarity Score, dtype: float64",1.0,1.0
+692,0.7537931203842163,0.5149766802787781,"0    24.354748
+Name: Similarity Score, dtype: float64","0    24.354748
+Name: Similarity Score, dtype: float64",1.0,1.0
+693,0.820498526096344,0.6118847131729126,"0    31.012011
+Name: Similarity Score, dtype: float64","0    20.536655
+Name: Similarity Score, dtype: float64",1.0,1.0
+694,0.8093461990356445,0.5323249101638794,"0    32.049412
+Name: Similarity Score, dtype: float64","0    20.38266
+Name: Similarity Score, dtype: float64",1.0,1.0
+695,0.5499571561813354,0.4548751711845398,"0    19.265383
+Name: Similarity Score, dtype: float64","0    20.782909
+Name: Similarity Score, dtype: float64",1.0,1.0
+696,0.7320306301116943,0.5102492570877075,"0    22.376314
+Name: Similarity Score, dtype: float64","0    22.376314
+Name: Similarity Score, dtype: float64",1.0,1.0
+697,0.3583492040634155,0.2890041470527649,"0    18.103079
+Name: Similarity Score, dtype: float64","0    18.103079
+Name: Similarity Score, dtype: float64",1.0,1.0
+698,0.7644197940826416,0.6105589866638184,"0    24.201883
+Name: Similarity Score, dtype: float64","0    24.201883
+Name: Similarity Score, dtype: float64",1.0,1.0
+699,0.8229764699935913,0.5885995626449585,"0    30.778864
+Name: Similarity Score, dtype: float64","0    20.73381
+Name: Similarity Score, dtype: float64",1.0,1.0
+700,0.6682716608047485,0.5975899696350098,"0    22.928612
+Name: Similarity Score, dtype: float64","0    23.497551
+Name: Similarity Score, dtype: float64",1.0,1.0
+701,0.46060824394226074,0.6714147925376892,"0    22.701832
+Name: Similarity Score, dtype: float64","0    21.351009
+Name: Similarity Score, dtype: float64",1.0,1.0
+702,0.6512438058853149,0.5438923835754395,"0    25.220371
+Name: Similarity Score, dtype: float64","0    24.491602
+Name: Similarity Score, dtype: float64",1.0,1.0
+703,0.8431230783462524,0.6197161674499512,"0    33.040314
+Name: Similarity Score, dtype: float64","0    23.224594
+Name: Similarity Score, dtype: float64",1.0,1.0
+704,0.4082123041152954,0.44550371170043945,"0    26.466412
+Name: Similarity Score, dtype: float64","0    21.292942
+Name: Similarity Score, dtype: float64",1.0,1.0
+705,0.6590447425842285,0.4222721755504608,"0    25.484911
+Name: Similarity Score, dtype: float64","0    25.484911
+Name: Similarity Score, dtype: float64",1.0,1.0
+706,0.4935454726219177,0.4376438856124878,"0    28.136742
+Name: Similarity Score, dtype: float64","0    21.060293
+Name: Similarity Score, dtype: float64",1.0,1.0
+707,0.6791741847991943,0.5310286283493042,"0    30.940351
+Name: Similarity Score, dtype: float64","0    21.321409
+Name: Similarity Score, dtype: float64",1.0,1.0
+708,0.7884557843208313,0.42569756507873535,"0    23.491455
+Name: Similarity Score, dtype: float64","0    23.491455
+Name: Similarity Score, dtype: float64",1.0,1.0
+709,0.5765485167503357,0.5160316824913025,"0    19.135067
+Name: Similarity Score, dtype: float64","0    19.135067
+Name: Similarity Score, dtype: float64",1.0,1.0
+710,0.7870981693267822,0.43671858310699463,"0    23.405197
+Name: Similarity Score, dtype: float64","0    23.405197
+Name: Similarity Score, dtype: float64",1.0,1.0
+711,0.5814350843429565,0.47666436433792114,"0    22.438599
+Name: Similarity Score, dtype: float64","0    22.189566
+Name: Similarity Score, dtype: float64",1.0,1.0
+712,0.682581901550293,0.5085224509239197,"0    21.531847
+Name: Similarity Score, dtype: float64","0    21.423027
+Name: Similarity Score, dtype: float64",1.0,1.0
+713,0.5499571561813354,0.43368151783943176,"0    18.617229
+Name: Similarity Score, dtype: float64","0    18.617229
+Name: Similarity Score, dtype: float64",1.0,1.0
+714,0.5154842138290405,0.40619775652885437,"0    26.131386
+Name: Similarity Score, dtype: float64","0    24.489126
+Name: Similarity Score, dtype: float64",1.0,1.0
+715,0.7753496170043945,0.41299599409103394,"0    23.401497
+Name: Similarity Score, dtype: float64","0    23.401497
+Name: Similarity Score, dtype: float64",1.0,1.0
+716,0.4963206946849823,0.5635718703269958,"0    23.845573
+Name: Similarity Score, dtype: float64","0    21.840263
+Name: Similarity Score, dtype: float64",1.0,1.0
+717,0.6580957174301147,0.5140061378479004,"0    31.311188
+Name: Similarity Score, dtype: float64","0    24.098614
+Name: Similarity Score, dtype: float64",1.0,1.0
+718,0.7901514172554016,0.48173022270202637,"0    24.154577
+Name: Similarity Score, dtype: float64","0    24.154577
+Name: Similarity Score, dtype: float64",1.0,1.0
+719,0.7106351852416992,0.6029238104820251,"0    24.128077
+Name: Similarity Score, dtype: float64","0    20.361494
+Name: Similarity Score, dtype: float64",1.0,1.0
+720,0.639281153678894,0.592793345451355,"0    25.568443
+Name: Similarity Score, dtype: float64","0    24.830553
+Name: Similarity Score, dtype: float64",1.0,1.0
+721,0.7691291570663452,0.49969935417175293,"0    21.056057
+Name: Similarity Score, dtype: float64","0    21.056057
+Name: Similarity Score, dtype: float64",1.0,1.0
+722,0.35580748319625854,0.41493546962738037,"0    23.986391
+Name: Similarity Score, dtype: float64","0    22.143599
+Name: Similarity Score, dtype: float64",1.0,1.0
+723,0.819240391254425,0.6553493738174438,"0    32.795914
+Name: Similarity Score, dtype: float64","0    26.730486
+Name: Similarity Score, dtype: float64",1.0,1.0
+724,0.8448106050491333,0.41281312704086304,"0    29.914099
+Name: Similarity Score, dtype: float64","0    23.279537
+Name: Similarity Score, dtype: float64",1.0,1.0
+725,0.6649889349937439,0.4991588592529297,"0    31.333393
+Name: Similarity Score, dtype: float64","0    17.231262
+Name: Similarity Score, dtype: float64",1.0,1.0
+726,0.5889864563941956,0.4648483991622925,"0    23.037161
+Name: Similarity Score, dtype: float64","0    22.940672
+Name: Similarity Score, dtype: float64",1.0,1.0
+727,0.778451681137085,0.47898539900779724,"0    21.538136
+Name: Similarity Score, dtype: float64","0    20.51482
+Name: Similarity Score, dtype: float64",1.0,1.0
+728,0.7377785444259644,0.45161905884742737,"0    22.641735
+Name: Similarity Score, dtype: float64","0    22.641735
+Name: Similarity Score, dtype: float64",1.0,1.0
+729,0.3405848741531372,0.3181305527687073,"0    21.740145
+Name: Similarity Score, dtype: float64","0    21.740145
+Name: Similarity Score, dtype: float64",1.0,1.0
+730,0.7816340327262878,0.6003299355506897,"0    22.159678
+Name: Similarity Score, dtype: float64","0    22.159678
+Name: Similarity Score, dtype: float64",1.0,1.0
+731,0.713226318359375,0.38391393423080444,"0    19.846708
+Name: Similarity Score, dtype: float64","0    18.973061
+Name: Similarity Score, dtype: float64",1.0,1.0
+732,0.6800458431243896,0.5913400650024414,"0    28.065327
+Name: Similarity Score, dtype: float64","0    20.998249
+Name: Similarity Score, dtype: float64",1.0,1.0
+733,0.8142549991607666,0.5896669626235962,"0    30.330833
+Name: Similarity Score, dtype: float64","0    23.020487
+Name: Similarity Score, dtype: float64",1.0,1.0
+734,0.7749053239822388,0.31812888383865356,"0    19.237747
+Name: Similarity Score, dtype: float64","0    21.005682
+Name: Similarity Score, dtype: float64",1.0,1.0
+735,0.8506865501403809,0.6553760766983032,"0    31.412605
+Name: Similarity Score, dtype: float64","0    20.803993
+Name: Similarity Score, dtype: float64",1.0,1.0
+736,0.4132292568683624,0.3546162247657776,"0    18.816992
+Name: Similarity Score, dtype: float64","0    18.816992
+Name: Similarity Score, dtype: float64",1.0,1.0
+737,0.44590961933135986,0.4600887894630432,"0    22.043522
+Name: Similarity Score, dtype: float64","0    23.73057
+Name: Similarity Score, dtype: float64",1.0,1.0
+738,0.8147087097167969,0.5751994848251343,"0    26.906643
+Name: Similarity Score, dtype: float64","0    22.086725
+Name: Similarity Score, dtype: float64",1.0,1.0
+739,0.7332478761672974,0.6007550954818726,"0    31.120794
+Name: Similarity Score, dtype: float64","0    27.097151
+Name: Similarity Score, dtype: float64",1.0,1.0
+740,0.713706374168396,0.5539917945861816,"0    27.191841
+Name: Similarity Score, dtype: float64","0    23.149958
+Name: Similarity Score, dtype: float64",1.0,1.0
+741,0.745212972164154,0.6061806678771973,"0    28.822371
+Name: Similarity Score, dtype: float64","0    22.680912
+Name: Similarity Score, dtype: float64",1.0,1.0
+742,0.6516830921173096,0.5198198556900024,"0    27.360952
+Name: Similarity Score, dtype: float64","0    23.361994
+Name: Similarity Score, dtype: float64",1.0,1.0
+743,0.746671199798584,0.5223503112792969,"0    24.458216
+Name: Similarity Score, dtype: float64","0    23.85257
+Name: Similarity Score, dtype: float64",1.0,1.0
+744,0.5400210022926331,0.47079044580459595,"0    22.169685
+Name: Similarity Score, dtype: float64","0    22.333244
+Name: Similarity Score, dtype: float64",1.0,1.0
+745,0.3153824210166931,0.4936959147453308,"0    20.391073
+Name: Similarity Score, dtype: float64","0    16.985964
+Name: Similarity Score, dtype: float64",1.0,1.0
+746,0.6189393401145935,0.4760616421699524,"0    22.563683
+Name: Similarity Score, dtype: float64","0    23.997868
+Name: Similarity Score, dtype: float64",1.0,1.0
+747,0.8363592624664307,0.6706809997558594,"0    25.428354
+Name: Similarity Score, dtype: float64","0    25.323147
+Name: Similarity Score, dtype: float64",1.0,1.0
+748,0.6860899925231934,0.5588962435722351,"0    21.604927
+Name: Similarity Score, dtype: float64","0    21.604927
+Name: Similarity Score, dtype: float64",1.0,1.0
+749,0.7885680198669434,0.5594561696052551,"0    19.393898
+Name: Similarity Score, dtype: float64","0    19.393898
+Name: Similarity Score, dtype: float64",1.0,1.0
+750,0.6707671880722046,0.4929681718349457,"0    27.894623
+Name: Similarity Score, dtype: float64","0    24.162399
+Name: Similarity Score, dtype: float64",1.0,1.0
+751,0.6976572275161743,0.5443770885467529,"0    28.495144
+Name: Similarity Score, dtype: float64","0    25.817739
+Name: Similarity Score, dtype: float64",1.0,1.0
+752,0.671821117401123,0.49416089057922363,"0    24.037455
+Name: Similarity Score, dtype: float64","0    22.000715
+Name: Similarity Score, dtype: float64",1.0,1.0
+753,0.859993040561676,0.491546630859375,"0    27.675343
+Name: Similarity Score, dtype: float64","0    25.332748
+Name: Similarity Score, dtype: float64",1.0,1.0
+754,0.3846125900745392,0.33635595440864563,"0    19.422081
+Name: Similarity Score, dtype: float64","0    19.422081
+Name: Similarity Score, dtype: float64",1.0,1.0
+755,0.7481403350830078,0.35057511925697327,"0    22.407644
+Name: Similarity Score, dtype: float64","0    18.784678
+Name: Similarity Score, dtype: float64",1.0,1.0
+756,0.8264966011047363,0.39514315128326416,"0    28.617424
+Name: Similarity Score, dtype: float64","0    24.079121
+Name: Similarity Score, dtype: float64",1.0,1.0
+757,0.8469032049179077,0.603327214717865,"0    29.578144
+Name: Similarity Score, dtype: float64","0    27.270603
+Name: Similarity Score, dtype: float64",1.0,1.0
+758,0.7532642483711243,0.522705078125,"0    19.963026
+Name: Similarity Score, dtype: float64","0    19.963026
+Name: Similarity Score, dtype: float64",1.0,1.0
+759,0.7086038589477539,0.5153222680091858,"0    28.051365
+Name: Similarity Score, dtype: float64","0    25.737316
+Name: Similarity Score, dtype: float64",1.0,1.0
+760,0.7304413318634033,0.5718994140625,"0    22.742666
+Name: Similarity Score, dtype: float64","0    22.742666
+Name: Similarity Score, dtype: float64",1.0,1.0
+761,0.7258378267288208,0.6206851005554199,"0    20.991686
+Name: Similarity Score, dtype: float64","0    21.751474
+Name: Similarity Score, dtype: float64",1.0,1.0
+762,0.7398631572723389,0.5286847352981567,"0    27.426636
+Name: Similarity Score, dtype: float64","0    22.221909
+Name: Similarity Score, dtype: float64",1.0,1.0
+763,0.5498539209365845,0.48711445927619934,"0    28.968418
+Name: Similarity Score, dtype: float64","0    22.490749
+Name: Similarity Score, dtype: float64",1.0,1.0
+764,0.7691967487335205,0.5736725330352783,"0    23.522255
+Name: Similarity Score, dtype: float64","0    23.522255
+Name: Similarity Score, dtype: float64",1.0,1.0
+765,0.3353966176509857,0.6037830710411072,"0    22.5931
+Name: Similarity Score, dtype: float64","0    23.815498
+Name: Similarity Score, dtype: float64",1.0,1.0
+766,0.7446908950805664,0.5594948530197144,"0    29.941031
+Name: Similarity Score, dtype: float64","0    24.625666
+Name: Similarity Score, dtype: float64",1.0,1.0
+767,0.745697021484375,0.6406258940696716,"0    30.177483
+Name: Similarity Score, dtype: float64","0    23.547306
+Name: Similarity Score, dtype: float64",1.0,1.0
+768,0.728042483329773,0.3491591811180115,"0    24.946575
+Name: Similarity Score, dtype: float64","0    22.101479
+Name: Similarity Score, dtype: float64",1.0,1.0
+769,0.7398631572723389,0.5762622952461243,"0    27.841309
+Name: Similarity Score, dtype: float64","0    20.29973
+Name: Similarity Score, dtype: float64",1.0,1.0
+770,0.38766586780548096,0.6389185190200806,"0    24.321379
+Name: Similarity Score, dtype: float64","0    20.78178
+Name: Similarity Score, dtype: float64",1.0,1.0
+771,0.7971010804176331,0.3045900762081146,"0    21.924892
+Name: Similarity Score, dtype: float64","0    20.997757
+Name: Similarity Score, dtype: float64",1.0,1.0
+772,0.6516830921173096,0.5292227864265442,"0    27.802727
+Name: Similarity Score, dtype: float64","0    21.452362
+Name: Similarity Score, dtype: float64",1.0,1.0
+773,0.6080275774002075,0.5452249050140381,"0    30.19479
+Name: Similarity Score, dtype: float64","0    27.614651
+Name: Similarity Score, dtype: float64",1.0,1.0
+774,0.7155169248580933,0.5337098240852356,"0    30.086231
+Name: Similarity Score, dtype: float64","0    23.245298
+Name: Similarity Score, dtype: float64",1.0,1.0
+775,0.833044171333313,0.46003031730651855,"0    26.057804
+Name: Similarity Score, dtype: float64","0    22.941177
+Name: Similarity Score, dtype: float64",1.0,1.0
+776,0.7380942106246948,0.5037144422531128,"0    22.535419
+Name: Similarity Score, dtype: float64","0    23.123676
+Name: Similarity Score, dtype: float64",1.0,1.0
+777,0.7378605008125305,0.4993743896484375,"0    16.752426
+Name: Similarity Score, dtype: float64","0    16.752426
+Name: Similarity Score, dtype: float64",1.0,1.0
+778,0.39399996399879456,0.3322479724884033,"0    22.085072
+Name: Similarity Score, dtype: float64","0    22.085072
+Name: Similarity Score, dtype: float64",1.0,1.0
+779,0.642085611820221,0.5262647867202759,"0    24.648869
+Name: Similarity Score, dtype: float64","0    24.648869
+Name: Similarity Score, dtype: float64",1.0,1.0
+780,0.728859543800354,0.4555381238460541,"0    29.850286
+Name: Similarity Score, dtype: float64","0    23.528963
+Name: Similarity Score, dtype: float64",1.0,1.0
+781,0.3847540020942688,0.35857629776000977,"0    20.813843
+Name: Similarity Score, dtype: float64","0    20.813843
+Name: Similarity Score, dtype: float64",1.0,1.0
+782,0.7908023595809937,0.5345990657806396,"0    30.716497
+Name: Similarity Score, dtype: float64","0    23.417578
+Name: Similarity Score, dtype: float64",1.0,1.0
+783,0.6781255006790161,0.4994911551475525,"0    25.721561
+Name: Similarity Score, dtype: float64","0    24.541773
+Name: Similarity Score, dtype: float64",1.0,1.0
+784,0.542608380317688,0.5624681711196899,"0    32.011639
+Name: Similarity Score, dtype: float64","0    28.585329
+Name: Similarity Score, dtype: float64",1.0,1.0
+785,0.5931310057640076,0.4365151524543762,"0    16.742117
+Name: Similarity Score, dtype: float64","0    16.742117
+Name: Similarity Score, dtype: float64",1.0,1.0
+786,0.6719132661819458,0.3841930627822876,"0    18.770737
+Name: Similarity Score, dtype: float64","0    19.248604
+Name: Similarity Score, dtype: float64",1.0,1.0
+787,0.8181326389312744,0.4159308671951294,"0    19.705612
+Name: Similarity Score, dtype: float64","0    21.959051
+Name: Similarity Score, dtype: float64",1.0,1.0
+788,0.596332848072052,0.387653112411499,"0    21.775047
+Name: Similarity Score, dtype: float64","0    21.775047
+Name: Similarity Score, dtype: float64",1.0,1.0
+789,0.6775600910186768,0.5104665756225586,"0    24.208788
+Name: Similarity Score, dtype: float64","0    24.208788
+Name: Similarity Score, dtype: float64",1.0,1.0
+790,0.7594929337501526,0.5030785799026489,"0    21.565212
+Name: Similarity Score, dtype: float64","0    20.542252
+Name: Similarity Score, dtype: float64",1.0,1.0
+791,0.38867300748825073,0.32945847511291504,"0    18.927225
+Name: Similarity Score, dtype: float64","0    18.927225
+Name: Similarity Score, dtype: float64",1.0,1.0
+792,0.7623255848884583,0.47989964485168457,"0    21.641193
+Name: Similarity Score, dtype: float64","0    20.24218
+Name: Similarity Score, dtype: float64",1.0,1.0
+793,0.454469233751297,0.4038158059120178,"0    23.19429
+Name: Similarity Score, dtype: float64","0    23.549402
+Name: Similarity Score, dtype: float64",1.0,1.0
+794,0.3643255829811096,0.3272283673286438,"0    21.481319
+Name: Similarity Score, dtype: float64","0    21.481319
+Name: Similarity Score, dtype: float64",1.0,1.0
+795,0.44260913133621216,0.610633373260498,"0    18.430393
+Name: Similarity Score, dtype: float64","0    23.696222
+Name: Similarity Score, dtype: float64",1.0,1.0
+796,0.37736064195632935,0.3151065409183502,"0    21.400421
+Name: Similarity Score, dtype: float64","0    21.400421
+Name: Similarity Score, dtype: float64",1.0,1.0
+797,0.6921171545982361,0.5253294706344604,"0    23.336878
+Name: Similarity Score, dtype: float64","0    21.487249
+Name: Similarity Score, dtype: float64",1.0,1.0
+798,0.7392338514328003,0.5174183249473572,"0    30.102816
+Name: Similarity Score, dtype: float64","0    22.859919
+Name: Similarity Score, dtype: float64",1.0,1.0
+799,0.6834791898727417,0.5289491415023804,"0    30.430212
+Name: Similarity Score, dtype: float64","0    20.707218
+Name: Similarity Score, dtype: float64",1.0,1.0
+800,0.5852056741714478,0.41430842876434326,"0    20.286394
+Name: Similarity Score, dtype: float64","0    20.286394
+Name: Similarity Score, dtype: float64",1.0,1.0
+801,0.8292137980461121,0.5456304550170898,"0    30.963808
+Name: Similarity Score, dtype: float64","0    22.967501
+Name: Similarity Score, dtype: float64",1.0,1.0
+802,0.3998796343803406,0.3411601781845093,"0    20.923107
+Name: Similarity Score, dtype: float64","0    20.923107
+Name: Similarity Score, dtype: float64",1.0,1.0
+803,0.6215522289276123,0.408500611782074,"0    21.065767
+Name: Similarity Score, dtype: float64","0    21.065767
+Name: Similarity Score, dtype: float64",1.0,1.0
+804,0.7373247742652893,0.5809978246688843,"0    24.050791
+Name: Similarity Score, dtype: float64","0    24.050791
+Name: Similarity Score, dtype: float64",1.0,1.0
+805,0.7342932820320129,0.5140852332115173,"0    18.313494
+Name: Similarity Score, dtype: float64","0    18.313494
+Name: Similarity Score, dtype: float64",1.0,1.0
+806,0.7135509252548218,0.5679701566696167,"0    21.879616
+Name: Similarity Score, dtype: float64","0    21.879616
+Name: Similarity Score, dtype: float64",1.0,1.0
+807,0.7415515780448914,0.4277242422103882,"0    19.786013
+Name: Similarity Score, dtype: float64","0    19.786013
+Name: Similarity Score, dtype: float64",1.0,1.0
+808,0.6060497760772705,0.28648385405540466,"0    20.166454
+Name: Similarity Score, dtype: float64","0    19.771191
+Name: Similarity Score, dtype: float64",1.0,1.0
+809,0.3995136618614197,0.3390386700630188,"0    20.554914
+Name: Similarity Score, dtype: float64","0    20.554914
+Name: Similarity Score, dtype: float64",1.0,1.0
+810,0.688691258430481,0.5480943918228149,"0    23.822805
+Name: Similarity Score, dtype: float64","0    23.822805
+Name: Similarity Score, dtype: float64",1.0,1.0
+811,0.7895987033843994,0.33930689096450806,"0    20.791048
+Name: Similarity Score, dtype: float64","0    21.21501
+Name: Similarity Score, dtype: float64",1.0,1.0
+812,0.6058974266052246,0.5065662860870361,"0    29.755085
+Name: Similarity Score, dtype: float64","0    23.21826
+Name: Similarity Score, dtype: float64",1.0,1.0
+813,0.6712359189987183,0.37626004219055176,"0    23.986803
+Name: Similarity Score, dtype: float64","0    23.986803
+Name: Similarity Score, dtype: float64",1.0,1.0
+814,0.6932500600814819,0.48461344838142395,"0    27.51413
+Name: Similarity Score, dtype: float64","0    21.782852
+Name: Similarity Score, dtype: float64",1.0,1.0
+815,0.6539487838745117,0.3498266339302063,"0    20.561357
+Name: Similarity Score, dtype: float64","0    18.352335
+Name: Similarity Score, dtype: float64",1.0,1.0
+816,0.3835422098636627,0.3744039535522461,"0    18.877172
+Name: Similarity Score, dtype: float64","0    18.877172
+Name: Similarity Score, dtype: float64",1.0,1.0
+817,0.8065932989120483,0.6156922578811646,"0    29.115662
+Name: Similarity Score, dtype: float64","0    20.260208
+Name: Similarity Score, dtype: float64",1.0,1.0
+818,0.6546076536178589,0.39849504828453064,"0    22.656801
+Name: Similarity Score, dtype: float64","0    22.621201
+Name: Similarity Score, dtype: float64",1.0,1.0
+819,0.7771368622779846,0.5514770746231079,"0    22.403917
+Name: Similarity Score, dtype: float64","0    22.749033
+Name: Similarity Score, dtype: float64",1.0,1.0
+820,0.8194992542266846,0.480493426322937,"0    31.074366
+Name: Similarity Score, dtype: float64","0    21.397161
+Name: Similarity Score, dtype: float64",1.0,1.0
+821,0.3174380660057068,0.3757442235946655,"0    19.921999
+Name: Similarity Score, dtype: float64","0    17.546494
+Name: Similarity Score, dtype: float64",1.0,1.0
+822,0.3717901110649109,0.3286881148815155,"0    19.415251
+Name: Similarity Score, dtype: float64","0    19.415251
+Name: Similarity Score, dtype: float64",1.0,1.0
+823,0.8251098990440369,0.6304353475570679,"0    29.749567
+Name: Similarity Score, dtype: float64","0    24.492384
+Name: Similarity Score, dtype: float64",1.0,1.0
+824,0.3751799166202545,0.3373274505138397,"0    18.208353
+Name: Similarity Score, dtype: float64","0    18.208353
+Name: Similarity Score, dtype: float64",1.0,1.0
+825,0.6929340362548828,0.5441235899925232,"0    21.483999
+Name: Similarity Score, dtype: float64","0    21.483999
+Name: Similarity Score, dtype: float64",1.0,1.0
+826,0.8839135766029358,0.6947468519210815,"0    30.057817
+Name: Similarity Score, dtype: float64","0    27.809393
+Name: Similarity Score, dtype: float64",1.0,1.0
+827,0.750206708908081,0.4850386381149292,"0    27.341642
+Name: Similarity Score, dtype: float64","0    18.546965
+Name: Similarity Score, dtype: float64",1.0,1.0
+828,0.750091552734375,0.4742256999015808,"0    21.517021
+Name: Similarity Score, dtype: float64","0    21.517021
+Name: Similarity Score, dtype: float64",1.0,1.0
+829,0.3872145712375641,0.37166422605514526,"0    20.358585
+Name: Similarity Score, dtype: float64","0    20.358585
+Name: Similarity Score, dtype: float64",1.0,1.0
+830,0.6203457117080688,0.5102643966674805,"0    24.154291
+Name: Similarity Score, dtype: float64","0    24.154291
+Name: Similarity Score, dtype: float64",1.0,1.0
+831,0.7342932820320129,0.5140852332115173,"0    17.345848
+Name: Similarity Score, dtype: float64","0    17.345848
+Name: Similarity Score, dtype: float64",1.0,1.0
+832,0.6914387941360474,0.530578076839447,"0    21.855505
+Name: Similarity Score, dtype: float64","0    22.444187
+Name: Similarity Score, dtype: float64",1.0,1.0
+833,0.7503838539123535,0.45300912857055664,"0    21.149139
+Name: Similarity Score, dtype: float64","0    21.4144
+Name: Similarity Score, dtype: float64",1.0,1.0
+834,0.7109085321426392,0.5822247266769409,"0    23.170631
+Name: Similarity Score, dtype: float64","0    29.384024
+Name: Similarity Score, dtype: float64",1.0,1.0
+835,0.6712359189987183,0.4103093445301056,"0    26.077795
+Name: Similarity Score, dtype: float64","0    26.077795
+Name: Similarity Score, dtype: float64",1.0,1.0
+836,0.7106720209121704,0.5691041946411133,"0    30.536425
+Name: Similarity Score, dtype: float64","0    25.539938
+Name: Similarity Score, dtype: float64",1.0,1.0
+837,0.7190431356430054,0.4260156452655792,"0    28.425472
+Name: Similarity Score, dtype: float64","0    22.689428
+Name: Similarity Score, dtype: float64",1.0,1.0
+838,0.8251098990440369,0.6304353475570679,"0    29.749567
+Name: Similarity Score, dtype: float64","0    24.492384
+Name: Similarity Score, dtype: float64",1.0,1.0
+839,0.7403795719146729,0.44170427322387695,"0    18.345572
+Name: Similarity Score, dtype: float64","0    18.345572
+Name: Similarity Score, dtype: float64",1.0,1.0
+840,0.36216482520103455,0.3182970881462097,"0    20.044044
+Name: Similarity Score, dtype: float64","0    20.044044
+Name: Similarity Score, dtype: float64",1.0,1.0
+841,0.7120864391326904,0.585609495639801,"0    31.014935
+Name: Similarity Score, dtype: float64","0    25.537903
+Name: Similarity Score, dtype: float64",1.0,1.0
+842,0.6060358285903931,0.45821040868759155,"0    20.916731
+Name: Similarity Score, dtype: float64","0    21.690861
+Name: Similarity Score, dtype: float64",1.0,1.0
+843,0.8149282932281494,0.5683296322822571,"0    19.505053
+Name: Similarity Score, dtype: float64","0    19.505053
+Name: Similarity Score, dtype: float64",1.0,1.0
+844,0.8284786939620972,0.4849979877471924,"0    30.90193
+Name: Similarity Score, dtype: float64","0    26.35605
+Name: Similarity Score, dtype: float64",1.0,1.0
+845,0.7105749845504761,0.39587873220443726,"0    19.842653
+Name: Similarity Score, dtype: float64","0    19.376856
+Name: Similarity Score, dtype: float64",1.0,1.0
+846,0.6704943180084229,0.4872860908508301,"0    28.673607
+Name: Similarity Score, dtype: float64","0    27.205954
+Name: Similarity Score, dtype: float64",1.0,1.0
+847,0.39576295018196106,0.342052698135376,"0    16.17507
+Name: Similarity Score, dtype: float64","0    16.17507
+Name: Similarity Score, dtype: float64",1.0,1.0
+848,0.4085436463356018,0.34937870502471924,"0    18.239851
+Name: Similarity Score, dtype: float64","0    18.239851
+Name: Similarity Score, dtype: float64",1.0,1.0
+849,0.7227926850318909,0.4166821241378784,"0    26.87208
+Name: Similarity Score, dtype: float64","0    19.928137
+Name: Similarity Score, dtype: float64",1.0,1.0
+850,0.3713264465332031,0.32383760809898376,"0    18.381773
+Name: Similarity Score, dtype: float64","0    18.381773
+Name: Similarity Score, dtype: float64",1.0,1.0
+851,0.6755766868591309,0.5803189277648926,"0    28.52779
+Name: Similarity Score, dtype: float64","0    26.121279
+Name: Similarity Score, dtype: float64",1.0,1.0
+852,0.3375641107559204,0.26393547654151917,"0    16.713245
+Name: Similarity Score, dtype: float64","0    16.713245
+Name: Similarity Score, dtype: float64",1.0,1.0
+853,0.654228687286377,0.34888243675231934,"0    22.612047
+Name: Similarity Score, dtype: float64","0    22.612047
+Name: Similarity Score, dtype: float64",1.0,1.0
+854,0.37746375799179077,0.33309561014175415,"0    18.603493
+Name: Similarity Score, dtype: float64","0    18.603493
+Name: Similarity Score, dtype: float64",1.0,1.0
+855,0.4229361414909363,0.601115345954895,"0    17.256605
+Name: Similarity Score, dtype: float64","0    22.823109
+Name: Similarity Score, dtype: float64",1.0,1.0
+856,0.3873356580734253,0.37625402212142944,"0    18.109472
+Name: Similarity Score, dtype: float64","0    18.109472
+Name: Similarity Score, dtype: float64",1.0,1.0
+857,0.7596657872200012,0.4325353503227234,"0    27.117077
+Name: Similarity Score, dtype: float64","0    19.910864
+Name: Similarity Score, dtype: float64",1.0,1.0
+858,0.8039677739143372,0.66173255443573,"0    30.554771
+Name: Similarity Score, dtype: float64","0    22.980877
+Name: Similarity Score, dtype: float64",1.0,1.0
+859,0.820367157459259,0.6175393462181091,"0    32.576393
+Name: Similarity Score, dtype: float64","0    26.935577
+Name: Similarity Score, dtype: float64",1.0,1.0
+860,0.3684682548046112,0.33165979385375977,"0    17.045546
+Name: Similarity Score, dtype: float64","0    17.045546
+Name: Similarity Score, dtype: float64",1.0,1.0
+861,0.7559469938278198,0.5308080315589905,"0    31.666422
+Name: Similarity Score, dtype: float64","0    27.730688
+Name: Similarity Score, dtype: float64",1.0,1.0
+862,0.6913834810256958,0.3524963855743408,"0    31.021755
+Name: Similarity Score, dtype: float64","0    22.663904
+Name: Similarity Score, dtype: float64",1.0,1.0
+863,0.4231560230255127,0.34704604744911194,"0    18.652252
+Name: Similarity Score, dtype: float64","0    18.652252
+Name: Similarity Score, dtype: float64",1.0,1.0
+864,0.6576534509658813,0.42438727617263794,"0    21.23811
+Name: Similarity Score, dtype: float64","0    24.508867
+Name: Similarity Score, dtype: float64",1.0,1.0
+865,0.37361302971839905,0.36493879556655884,"0    17.827787
+Name: Similarity Score, dtype: float64","0    17.827787
+Name: Similarity Score, dtype: float64",1.0,1.0
+866,0.6362090110778809,0.38534581661224365,"0    19.428812
+Name: Similarity Score, dtype: float64","0    19.428812
+Name: Similarity Score, dtype: float64",1.0,1.0
+867,0.7396446466445923,0.6111879348754883,"0    28.445
+Name: Similarity Score, dtype: float64","0    25.528362
+Name: Similarity Score, dtype: float64",1.0,1.0
+868,0.5752285718917847,0.3845021724700928,"0    20.258741
+Name: Similarity Score, dtype: float64","0    20.258741
+Name: Similarity Score, dtype: float64",1.0,1.0
+869,0.7237746715545654,0.5561219453811646,"0    28.738552
+Name: Similarity Score, dtype: float64","0    28.104778
+Name: Similarity Score, dtype: float64",1.0,1.0
+870,0.5724214315414429,0.46596601605415344,"0    23.427755
+Name: Similarity Score, dtype: float64","0    23.427755
+Name: Similarity Score, dtype: float64",1.0,1.0
+871,0.40905317664146423,0.40390321612358093,"0    21.967224
+Name: Similarity Score, dtype: float64","0    24.207241
+Name: Similarity Score, dtype: float64",1.0,1.0
+872,0.3765559494495392,0.46067750453948975,"0    22.695688
+Name: Similarity Score, dtype: float64","0    18.700415
+Name: Similarity Score, dtype: float64",1.0,1.0
+873,0.7935768365859985,0.581579864025116,"0    31.653427
+Name: Similarity Score, dtype: float64","0    22.792395
+Name: Similarity Score, dtype: float64",1.0,1.0
+874,0.3586806058883667,0.3875623345375061,"0    17.514557
+Name: Similarity Score, dtype: float64","0    17.514557
+Name: Similarity Score, dtype: float64",1.0,1.0
+875,0.6956823468208313,0.4079279899597168,"0    27.912447
+Name: Similarity Score, dtype: float64","0    26.415697
+Name: Similarity Score, dtype: float64",1.0,1.0
+876,0.3747450113296509,0.3600686490535736,"0    18.459547
+Name: Similarity Score, dtype: float64","0    18.459547
+Name: Similarity Score, dtype: float64",1.0,1.0
+877,0.7214678525924683,0.5315268039703369,"0    29.520512
+Name: Similarity Score, dtype: float64","0    26.886728
+Name: Similarity Score, dtype: float64",1.0,1.0
+878,0.587322473526001,0.5246216058731079,"0    28.65513
+Name: Similarity Score, dtype: float64","0    26.467075
+Name: Similarity Score, dtype: float64",1.0,1.0
+879,0.6906874179840088,0.441209077835083,"0    19.339674
+Name: Similarity Score, dtype: float64","0    19.339674
+Name: Similarity Score, dtype: float64",1.0,1.0
+880,0.5867441892623901,0.5433598756790161,"0    21.566721
+Name: Similarity Score, dtype: float64","0    21.566721
+Name: Similarity Score, dtype: float64",1.0,1.0
+881,0.732478141784668,0.3529752492904663,"0    31.029167
+Name: Similarity Score, dtype: float64","0    18.063051
+Name: Similarity Score, dtype: float64",1.0,1.0
+882,0.6362090110778809,0.38534581661224365,"0    19.428812
+Name: Similarity Score, dtype: float64","0    19.428812
+Name: Similarity Score, dtype: float64",1.0,1.0
+883,0.8288215398788452,0.6636070013046265,"0    30.773455
+Name: Similarity Score, dtype: float64","0    26.30941
+Name: Similarity Score, dtype: float64",1.0,1.0
+884,0.7285752296447754,0.4941632151603699,"0    20.084499
+Name: Similarity Score, dtype: float64","0    20.084499
+Name: Similarity Score, dtype: float64",1.0,1.0
+885,0.6105687618255615,0.46693193912506104,"0    18.978739
+Name: Similarity Score, dtype: float64","0    19.790369
+Name: Similarity Score, dtype: float64",1.0,1.0
+886,0.3858906030654907,0.3519086241722107,"0    17.657484
+Name: Similarity Score, dtype: float64","0    17.657484
+Name: Similarity Score, dtype: float64",1.0,1.0
+887,0.375910222530365,0.3240104913711548,"0    17.705383
+Name: Similarity Score, dtype: float64","0    17.705383
+Name: Similarity Score, dtype: float64",1.0,1.0
+888,0.32611504197120667,0.27771779894828796,"0    18.673471
+Name: Similarity Score, dtype: float64","0    18.673471
+Name: Similarity Score, dtype: float64",1.0,1.0
+889,0.6426365375518799,0.5825139880180359,"0    24.084591
+Name: Similarity Score, dtype: float64","0    24.207464
+Name: Similarity Score, dtype: float64",1.0,1.0
+890,0.6654115915298462,0.4925670027732849,"0    22.186932
+Name: Similarity Score, dtype: float64","0    21.033998
+Name: Similarity Score, dtype: float64",1.0,1.0
+891,0.5961988568305969,0.4792836308479309,"0    21.116241
+Name: Similarity Score, dtype: float64","0    20.588259
+Name: Similarity Score, dtype: float64",1.0,1.0
+892,0.708634614944458,0.432195246219635,"0    29.091734
+Name: Similarity Score, dtype: float64","0    27.794201
+Name: Similarity Score, dtype: float64",1.0,1.0
+893,0.6078031063079834,0.3364402651786804,"0    20.414423
+Name: Similarity Score, dtype: float64","0    20.175142
+Name: Similarity Score, dtype: float64",1.0,1.0
+894,0.670179009437561,0.568337082862854,"0    21.850138
+Name: Similarity Score, dtype: float64","0    20.847027
+Name: Similarity Score, dtype: float64",1.0,1.0
+895,0.6596928834915161,0.47247397899627686,"0    22.800734
+Name: Similarity Score, dtype: float64","0    22.800734
+Name: Similarity Score, dtype: float64",1.0,1.0
+896,0.7939593195915222,0.5692169070243835,"0    25.294075
+Name: Similarity Score, dtype: float64","0    25.294075
+Name: Similarity Score, dtype: float64",1.0,1.0
+897,0.7579843401908875,0.4144843518733978,"0    23.238344
+Name: Similarity Score, dtype: float64","0    24.402447
+Name: Similarity Score, dtype: float64",1.0,1.0
+898,0.6435239315032959,0.5785880088806152,"0    27.708784
+Name: Similarity Score, dtype: float64","0    21.651461
+Name: Similarity Score, dtype: float64",1.0,1.0
+899,0.7851012945175171,0.5528116226196289,"0    23.46814
+Name: Similarity Score, dtype: float64","0    23.923502
+Name: Similarity Score, dtype: float64",1.0,1.0
+900,0.6676660776138306,0.43495020270347595,"0    25.701656
+Name: Similarity Score, dtype: float64","0    25.701656
+Name: Similarity Score, dtype: float64",1.0,1.0
+901,0.6594268679618835,0.5230098962783813,"0    30.474216
+Name: Similarity Score, dtype: float64","0    26.74851
+Name: Similarity Score, dtype: float64",1.0,1.0
+902,0.5360543131828308,0.42222610116004944,"0    24.457573
+Name: Similarity Score, dtype: float64","0    24.954988
+Name: Similarity Score, dtype: float64",1.0,1.0
+903,0.6918147802352905,0.643325686454773,"0    30.54685
+Name: Similarity Score, dtype: float64","0    26.262304
+Name: Similarity Score, dtype: float64",1.0,1.0
+904,0.6989257335662842,0.47861790657043457,"0    30.500698
+Name: Similarity Score, dtype: float64","0    28.486364
+Name: Similarity Score, dtype: float64",1.0,1.0
+905,0.6905882358551025,0.5107998251914978,"0    23.544123
+Name: Similarity Score, dtype: float64","0    23.544123
+Name: Similarity Score, dtype: float64",1.0,1.0
+906,0.787386417388916,0.5459494590759277,"0    23.288298
+Name: Similarity Score, dtype: float64","0    27.372894
+Name: Similarity Score, dtype: float64",1.0,1.0
+907,0.799190104007721,0.5737992525100708,"0    20.426529
+Name: Similarity Score, dtype: float64","0    20.426529
+Name: Similarity Score, dtype: float64",1.0,1.0
+908,0.858268141746521,0.45167165994644165,"0    29.278025
+Name: Similarity Score, dtype: float64","0    24.354639
+Name: Similarity Score, dtype: float64",1.0,1.0
+909,0.6430925726890564,0.5884748697280884,"0    26.363298
+Name: Similarity Score, dtype: float64","0    27.594004
+Name: Similarity Score, dtype: float64",1.0,1.0
+910,0.36625778675079346,0.33398035168647766,"0    21.329622
+Name: Similarity Score, dtype: float64","0    21.329622
+Name: Similarity Score, dtype: float64",1.0,1.0
+911,0.680151641368866,0.4312235713005066,"0    21.404959
+Name: Similarity Score, dtype: float64","0    21.404959
+Name: Similarity Score, dtype: float64",1.0,1.0
+912,0.3781012296676636,0.33066263794898987,"0    20.814474
+Name: Similarity Score, dtype: float64","0    20.814474
+Name: Similarity Score, dtype: float64",1.0,1.0
+913,0.70606929063797,0.5354701280593872,"0    29.945341
+Name: Similarity Score, dtype: float64","0    26.735794
+Name: Similarity Score, dtype: float64",1.0,1.0
+914,0.7772901058197021,0.48154717683792114,"0    24.891632
+Name: Similarity Score, dtype: float64","0    24.891632
+Name: Similarity Score, dtype: float64",1.0,1.0
+915,0.7318427562713623,0.6186962723731995,"0    31.599421
+Name: Similarity Score, dtype: float64","0    26.775234
+Name: Similarity Score, dtype: float64",1.0,1.0
+916,0.7016643285751343,0.521621823310852,"0    33.326145
+Name: Similarity Score, dtype: float64","0    24.253542
+Name: Similarity Score, dtype: float64",1.0,1.0
+917,0.7365024089813232,0.5442581176757812,"0    22.754597
+Name: Similarity Score, dtype: float64","0    22.754597
+Name: Similarity Score, dtype: float64",1.0,1.0
+918,0.8315123319625854,0.6502137184143066,"0    32.217518
+Name: Similarity Score, dtype: float64","0    23.686378
+Name: Similarity Score, dtype: float64",1.0,1.0
+919,0.5242895483970642,0.5681896209716797,"0    30.470402
+Name: Similarity Score, dtype: float64","0    28.366932
+Name: Similarity Score, dtype: float64",1.0,1.0
+920,0.834266722202301,0.6509788036346436,"0    31.032267
+Name: Similarity Score, dtype: float64","0    26.549322
+Name: Similarity Score, dtype: float64",1.0,1.0
+921,0.6569559574127197,0.5000094771385193,"0    30.041658
+Name: Similarity Score, dtype: float64","0    25.849348
+Name: Similarity Score, dtype: float64",1.0,1.0
+922,0.8087025880813599,0.47981834411621094,"0    23.978033
+Name: Similarity Score, dtype: float64","0    24.228926
+Name: Similarity Score, dtype: float64",1.0,1.0
+923,0.3836267292499542,0.3310195803642273,"0    19.66855
+Name: Similarity Score, dtype: float64","0    19.66855
+Name: Similarity Score, dtype: float64",1.0,1.0
+924,0.3795994520187378,0.3164297938346863,"0    19.311825
+Name: Similarity Score, dtype: float64","0    19.311825
+Name: Similarity Score, dtype: float64",1.0,1.0
+925,0.6805881261825562,0.5933424234390259,"0    21.725828
+Name: Similarity Score, dtype: float64","0    24.146263
+Name: Similarity Score, dtype: float64",1.0,1.0
+926,0.4895157814025879,0.4892752170562744,"0    32.104023
+Name: Similarity Score, dtype: float64","0    26.195387
+Name: Similarity Score, dtype: float64",1.0,1.0
+927,0.3645833134651184,0.5293164253234863,"0    18.973055
+Name: Similarity Score, dtype: float64","0    29.1469
+Name: Similarity Score, dtype: float64",1.0,1.0
+928,0.4284164011478424,0.5601917505264282,"0    23.36112
+Name: Similarity Score, dtype: float64","0    24.662888
+Name: Similarity Score, dtype: float64",1.0,1.0
+929,0.31629759073257446,0.5632854700088501,"0    19.99481
+Name: Similarity Score, dtype: float64","0    23.5917
+Name: Similarity Score, dtype: float64",1.0,1.0
+930,0.8221989870071411,0.5080087184906006,"0    30.094286
+Name: Similarity Score, dtype: float64","0    23.020226
+Name: Similarity Score, dtype: float64",1.0,1.0
+931,0.7923548221588135,0.5363872647285461,"0    20.388098
+Name: Similarity Score, dtype: float64","0    20.388098
+Name: Similarity Score, dtype: float64",1.0,1.0
+932,0.7345271110534668,0.4867422580718994,"0    32.798512
+Name: Similarity Score, dtype: float64","0    31.15246
+Name: Similarity Score, dtype: float64",1.0,1.0
+933,0.7718619108200073,0.5154106616973877,"0    23.269758
+Name: Similarity Score, dtype: float64","0    23.269758
+Name: Similarity Score, dtype: float64",1.0,1.0
+934,0.3523147702217102,0.30252984166145325,"0    19.83173
+Name: Similarity Score, dtype: float64","0    19.882563
+Name: Similarity Score, dtype: float64",1.0,1.0
+935,0.8043789863586426,0.6082085967063904,"0    31.127632
+Name: Similarity Score, dtype: float64","0    26.988449
+Name: Similarity Score, dtype: float64",1.0,1.0
+936,0.39699575304985046,0.32854118943214417,"0    19.688328
+Name: Similarity Score, dtype: float64","0    19.688328
+Name: Similarity Score, dtype: float64",1.0,1.0
+937,0.7788468599319458,0.5016708374023438,"0    23.467003
+Name: Similarity Score, dtype: float64","0    23.467003
+Name: Similarity Score, dtype: float64",1.0,1.0
+938,0.318261981010437,0.31645071506500244,"0    19.288815
+Name: Similarity Score, dtype: float64","0    19.288815
+Name: Similarity Score, dtype: float64",1.0,1.0
+939,0.7254302501678467,0.4799695611000061,"0    30.054056
+Name: Similarity Score, dtype: float64","0    21.839949
+Name: Similarity Score, dtype: float64",1.0,1.0
+940,0.3888426423072815,0.3715132474899292,"0    22.08073
+Name: Similarity Score, dtype: float64","0    22.08073
+Name: Similarity Score, dtype: float64",1.0,1.0
+941,0.6840845346450806,0.42835211753845215,"0    31.666014
+Name: Similarity Score, dtype: float64","0    26.437008
+Name: Similarity Score, dtype: float64",1.0,1.0
+942,0.3732382655143738,0.3220236897468567,"0    19.354137
+Name: Similarity Score, dtype: float64","0    19.354137
+Name: Similarity Score, dtype: float64",1.0,1.0
+943,0.7010898590087891,0.5194002389907837,"0    32.941902
+Name: Similarity Score, dtype: float64","0    24.804291
+Name: Similarity Score, dtype: float64",1.0,1.0
+944,0.6641490459442139,0.5260180830955505,"0    31.897318
+Name: Similarity Score, dtype: float64","0    24.559593
+Name: Similarity Score, dtype: float64",1.0,1.0
+945,0.3413838744163513,0.3305598795413971,"0    26.098829
+Name: Similarity Score, dtype: float64","0    24.759024
+Name: Similarity Score, dtype: float64",1.0,1.0
+946,0.6664873361587524,0.5802015662193298,"0    22.519463
+Name: Similarity Score, dtype: float64","0    22.519463
+Name: Similarity Score, dtype: float64",1.0,1.0
+947,0.7298902869224548,0.3320923447608948,"0    21.764111
+Name: Similarity Score, dtype: float64","0    19.606129
+Name: Similarity Score, dtype: float64",1.0,1.0
+948,0.752293586730957,0.4183364510536194,"0    24.819502
+Name: Similarity Score, dtype: float64","0    24.819502
+Name: Similarity Score, dtype: float64",1.0,1.0
+949,0.369404137134552,0.3434693217277527,"0    21.630238
+Name: Similarity Score, dtype: float64","0    21.630238
+Name: Similarity Score, dtype: float64",1.0,1.0
+950,0.3790075182914734,0.6355278491973877,"0    18.40638
+Name: Similarity Score, dtype: float64","0    22.618319
+Name: Similarity Score, dtype: float64",1.0,1.0
+951,0.6931298971176147,0.4279394745826721,"0    22.335629
+Name: Similarity Score, dtype: float64","0    22.335629
+Name: Similarity Score, dtype: float64",1.0,1.0
+952,0.838142991065979,0.649686336517334,"0    30.340263
+Name: Similarity Score, dtype: float64","0    27.104774
+Name: Similarity Score, dtype: float64",1.0,1.0
+953,0.3333303928375244,0.30765455961227417,"0    20.583817
+Name: Similarity Score, dtype: float64","0    20.583817
+Name: Similarity Score, dtype: float64",1.0,1.0
+954,0.6759893298149109,0.5600788593292236,"0    29.711407
+Name: Similarity Score, dtype: float64","0    25.27496
+Name: Similarity Score, dtype: float64",1.0,1.0
+955,0.7265599966049194,0.5469717979431152,"0    24.592382
+Name: Similarity Score, dtype: float64","0    24.592382
+Name: Similarity Score, dtype: float64",1.0,1.0
+956,0.6926829814910889,0.4825536906719208,"0    29.931927
+Name: Similarity Score, dtype: float64","0    20.292095
+Name: Similarity Score, dtype: float64",1.0,1.0
+957,0.7678357362747192,0.5809656381607056,"0    23.986601
+Name: Similarity Score, dtype: float64","0    23.986601
+Name: Similarity Score, dtype: float64",1.0,1.0
+958,0.803912878036499,0.6033283472061157,"0    25.167814
+Name: Similarity Score, dtype: float64","0    24.724895
+Name: Similarity Score, dtype: float64",1.0,1.0
+959,0.7784942984580994,0.31179454922676086,"0    23.44969
+Name: Similarity Score, dtype: float64","0    21.763081
+Name: Similarity Score, dtype: float64",1.0,1.0
+960,0.6039780378341675,0.47213315963745117,"0    20.393295
+Name: Similarity Score, dtype: float64","0    20.217989
+Name: Similarity Score, dtype: float64",1.0,1.0
+961,0.7500730752944946,0.47565069794654846,"0    31.033066
+Name: Similarity Score, dtype: float64","0    26.322603
+Name: Similarity Score, dtype: float64",1.0,1.0
+962,0.6573291420936584,0.26793310046195984,"0    23.684805
+Name: Similarity Score, dtype: float64","0    24.796637
+Name: Similarity Score, dtype: float64",1.0,1.0
+963,0.716349720954895,0.6077046990394592,"0    29.787292
+Name: Similarity Score, dtype: float64","0    26.438629
+Name: Similarity Score, dtype: float64",1.0,1.0
+964,0.6934314966201782,0.32593074440956116,"0    29.885864
+Name: Similarity Score, dtype: float64","0    24.827023
+Name: Similarity Score, dtype: float64",1.0,1.0
+965,0.7047014236450195,0.47230833768844604,"0    18.349924
+Name: Similarity Score, dtype: float64","0    18.442848
+Name: Similarity Score, dtype: float64",1.0,1.0
+966,0.58051598072052,0.5503498315811157,"0    28.934919
+Name: Similarity Score, dtype: float64","0    21.192451
+Name: Similarity Score, dtype: float64",1.0,1.0
+967,0.3860173225402832,0.3509833812713623,"0    18.01749
+Name: Similarity Score, dtype: float64","0    18.01749
+Name: Similarity Score, dtype: float64",1.0,1.0
+968,0.7514462471008301,0.4227645993232727,"0    22.072111
+Name: Similarity Score, dtype: float64","0    21.427546
+Name: Similarity Score, dtype: float64",1.0,1.0
+969,0.8115521669387817,0.4940859079360962,"0    30.997017
+Name: Similarity Score, dtype: float64","0    23.496658
+Name: Similarity Score, dtype: float64",1.0,1.0
+970,0.3940180838108063,0.362914115190506,"0    18.707071
+Name: Similarity Score, dtype: float64","0    18.707071
+Name: Similarity Score, dtype: float64",1.0,1.0
+971,0.5057898163795471,0.5223041772842407,"0    23.526674
+Name: Similarity Score, dtype: float64","0    23.575846
+Name: Similarity Score, dtype: float64",1.0,1.0
+972,0.7978867292404175,0.5594561696052551,"0    21.252302
+Name: Similarity Score, dtype: float64","0    21.252302
+Name: Similarity Score, dtype: float64",1.0,1.0
+973,0.6944233775138855,0.3503125309944153,"0    29.761377
+Name: Similarity Score, dtype: float64","0    16.827847
+Name: Similarity Score, dtype: float64",1.0,1.0
+974,0.682343602180481,0.5327602028846741,"0    29.366911
+Name: Similarity Score, dtype: float64","0    25.372807
+Name: Similarity Score, dtype: float64",1.0,1.0
+975,0.32522934675216675,0.2984038293361664,"0    27.311977
+Name: Similarity Score, dtype: float64","0    25.305626
+Name: Similarity Score, dtype: float64",1.0,1.0
+976,0.7717485427856445,0.5719863772392273,"0    22.82822
+Name: Similarity Score, dtype: float64","0    22.82822
+Name: Similarity Score, dtype: float64",1.0,1.0
+977,0.4843675494194031,0.38334405422210693,"0    30.621506
+Name: Similarity Score, dtype: float64","0    23.932632
+Name: Similarity Score, dtype: float64",1.0,1.0
+978,0.8169366717338562,0.5438382625579834,"0    31.508678
+Name: Similarity Score, dtype: float64","0    27.559971
+Name: Similarity Score, dtype: float64",1.0,1.0
+979,0.7282122373580933,0.38934773206710815,"0    19.727047
+Name: Similarity Score, dtype: float64","0    19.727047
+Name: Similarity Score, dtype: float64",1.0,1.0
+980,0.8249533176422119,0.5869549512863159,"0    31.025856
+Name: Similarity Score, dtype: float64","0    26.996861
+Name: Similarity Score, dtype: float64",1.0,1.0
+981,0.6761146187782288,0.5575059652328491,"0    23.721901
+Name: Similarity Score, dtype: float64","0    19.992596
+Name: Similarity Score, dtype: float64",1.0,1.0
+982,0.3992733955383301,0.3736657202243805,"0    20.347677
+Name: Similarity Score, dtype: float64","0    20.347677
+Name: Similarity Score, dtype: float64",1.0,1.0
+983,0.36731329560279846,0.32865744829177856,"0    19.307781
+Name: Similarity Score, dtype: float64","0    19.307781
+Name: Similarity Score, dtype: float64",1.0,1.0
+984,0.6750820875167847,0.39689701795578003,"0    13.949621
+Name: Similarity Score, dtype: float64","0    14.171928
+Name: Similarity Score, dtype: float64",1.0,1.0
+985,0.4219834804534912,0.3944530487060547,"0    21.307383
+Name: Similarity Score, dtype: float64","0    21.331818
+Name: Similarity Score, dtype: float64",1.0,1.0
+986,0.40617597103118896,0.29870522022247314,"0    29.352367
+Name: Similarity Score, dtype: float64","0    24.325006
+Name: Similarity Score, dtype: float64",1.0,1.0
+987,0.39875102043151855,0.33994320034980774,"0    19.884935
+Name: Similarity Score, dtype: float64","0    19.884935
+Name: Similarity Score, dtype: float64",1.0,1.0
+988,0.38944941759109497,0.44956880807876587,"0    20.825136
+Name: Similarity Score, dtype: float64","0    21.535645
+Name: Similarity Score, dtype: float64",1.0,1.0
+989,0.6860159635543823,0.4717421233654022,"0    19.749649
+Name: Similarity Score, dtype: float64","0    19.749649
+Name: Similarity Score, dtype: float64",1.0,1.0
+990,0.6333390474319458,0.6006342768669128,"0    20.717505
+Name: Similarity Score, dtype: float64","0    26.251047
+Name: Similarity Score, dtype: float64",1.0,1.0
+991,0.7225857377052307,0.5722775459289551,"0    20.489182
+Name: Similarity Score, dtype: float64","0    21.535149
+Name: Similarity Score, dtype: float64",1.0,1.0
+992,0.39970627427101135,0.33181166648864746,"0    17.985743
+Name: Similarity Score, dtype: float64","0    17.985743
+Name: Similarity Score, dtype: float64",1.0,1.0
+993,0.7153175473213196,0.5701306462287903,"0    23.513506
+Name: Similarity Score, dtype: float64","0    20.356823
+Name: Similarity Score, dtype: float64",1.0,1.0
+994,0.6255130767822266,0.47726887464523315,"0    18.588318
+Name: Similarity Score, dtype: float64","0    19.248743
+Name: Similarity Score, dtype: float64",1.0,1.0
+995,0.7507625818252563,0.4605415165424347,"0    18.413235
+Name: Similarity Score, dtype: float64","0    18.413235
+Name: Similarity Score, dtype: float64",1.0,1.0
+996,0.7458863258361816,0.5194864273071289,"0    26.351414
+Name: Similarity Score, dtype: float64","0    26.210276
+Name: Similarity Score, dtype: float64",1.0,1.0
+997,0.6796884536743164,0.5336029529571533,"0    31.764692
+Name: Similarity Score, dtype: float64","0    25.72893
+Name: Similarity Score, dtype: float64",1.0,1.0
+998,0.38339129090309143,0.3527349829673767,"0    18.378492
+Name: Similarity Score, dtype: float64","0    18.378492
+Name: Similarity Score, dtype: float64",1.0,1.0
+999,0.6835629343986511,0.5041377544403076,"0    21.107903
+Name: Similarity Score, dtype: float64","0    21.107903
+Name: Similarity Score, dtype: float64",1.0,1.0
+1000,0.3850277066230774,0.3223828375339508,"0    17.760572
+Name: Similarity Score, dtype: float64","0    17.760572
+Name: Similarity Score, dtype: float64",1.0,1.0
+1001,0.7168800830841064,0.5129247903823853,"0    30.62216
+Name: Similarity Score, dtype: float64","0    23.122831
+Name: Similarity Score, dtype: float64",1.0,1.0
+1002,0.8211305737495422,0.6635096073150635,"0    31.156487
+Name: Similarity Score, dtype: float64","0    19.954563
+Name: Similarity Score, dtype: float64",1.0,1.0
+1003,0.815865159034729,0.6147900223731995,"0    31.833141
+Name: Similarity Score, dtype: float64","0    23.206057
+Name: Similarity Score, dtype: float64",1.0,1.0
+1004,0.39395686984062195,0.5398503541946411,"0    27.752295
+Name: Similarity Score, dtype: float64","0    23.891453
+Name: Similarity Score, dtype: float64",1.0,1.0
+1005,0.5272141695022583,0.35974788665771484,"0    30.769548
+Name: Similarity Score, dtype: float64","0    28.193373
+Name: Similarity Score, dtype: float64",1.0,1.0
+1006,0.80885249376297,0.6832883358001709,"0    30.391506
+Name: Similarity Score, dtype: float64","0    22.777086
+Name: Similarity Score, dtype: float64",1.0,1.0
+1007,0.39395686984062195,0.4571114480495453,"0    27.181801
+Name: Similarity Score, dtype: float64","0    23.410522
+Name: Similarity Score, dtype: float64",1.0,1.0
+1008,0.7197698950767517,0.5932527780532837,"0    30.989721
+Name: Similarity Score, dtype: float64","0    24.49472
+Name: Similarity Score, dtype: float64",1.0,1.0
+1009,0.5662057995796204,0.5680739879608154,"0    31.831795
+Name: Similarity Score, dtype: float64","0    25.823725
+Name: Similarity Score, dtype: float64",1.0,1.0
+1010,0.3850649893283844,0.2956554889678955,"0    18.350098
+Name: Similarity Score, dtype: float64","0    18.350098
+Name: Similarity Score, dtype: float64",1.0,1.0
+1011,0.4539608657360077,0.4913274645805359,"0    23.171839
+Name: Similarity Score, dtype: float64","0    23.731724
+Name: Similarity Score, dtype: float64",1.0,1.0
+1012,0.7641727924346924,0.43057364225387573,"0    24.559826
+Name: Similarity Score, dtype: float64","0    24.559826
+Name: Similarity Score, dtype: float64",1.0,1.0
+1013,0.7402070760726929,0.49558207392692566,"0    26.648998
+Name: Similarity Score, dtype: float64","0    25.731144
+Name: Similarity Score, dtype: float64",1.0,1.0
+1014,0.707166850566864,0.5258508324623108,"0    21.74843
+Name: Similarity Score, dtype: float64","0    21.74843
+Name: Similarity Score, dtype: float64",1.0,1.0
+1015,0.7379591464996338,0.4731522798538208,"0    21.70233
+Name: Similarity Score, dtype: float64","0    21.70233
+Name: Similarity Score, dtype: float64",1.0,1.0
+1016,0.6702703237533569,0.4638364017009735,"0    29.126162
+Name: Similarity Score, dtype: float64","0    20.610359
+Name: Similarity Score, dtype: float64",1.0,1.0
+1017,0.5758938789367676,0.48281756043434143,"0    31.490105
+Name: Similarity Score, dtype: float64","0    21.212372
+Name: Similarity Score, dtype: float64",1.0,1.0
+1018,0.784881591796875,0.6073669195175171,"0    24.974533
+Name: Similarity Score, dtype: float64","0    22.09584
+Name: Similarity Score, dtype: float64",1.0,1.0
+1019,0.7219855785369873,0.562556266784668,"0    29.188311
+Name: Similarity Score, dtype: float64","0    20.612133
+Name: Similarity Score, dtype: float64",1.0,1.0
+1020,0.7608869075775146,0.6365756988525391,"0    20.897697
+Name: Similarity Score, dtype: float64","0    21.722311
+Name: Similarity Score, dtype: float64",1.0,1.0
+1021,0.5735511779785156,0.5343204736709595,"0    21.236715
+Name: Similarity Score, dtype: float64","0    21.459421
+Name: Similarity Score, dtype: float64",1.0,1.0
+1022,0.4942171573638916,0.5685471892356873,"0    27.792543
+Name: Similarity Score, dtype: float64","0    22.014296
+Name: Similarity Score, dtype: float64",1.0,1.0
+1023,0.3971671462059021,0.3771357834339142,"0    20.351732
+Name: Similarity Score, dtype: float64","0    20.351732
+Name: Similarity Score, dtype: float64",1.0,1.0
+1024,0.7496756315231323,0.3658711910247803,"0    29.808971
+Name: Similarity Score, dtype: float64","0    19.201731
+Name: Similarity Score, dtype: float64",1.0,1.0
+1025,0.7574150562286377,0.6254855394363403,"0    19.19322
+Name: Similarity Score, dtype: float64","0    24.799124
+Name: Similarity Score, dtype: float64",1.0,1.0
+1026,0.6690523028373718,0.37594491243362427,"0    20.458344
+Name: Similarity Score, dtype: float64","0    20.458344
+Name: Similarity Score, dtype: float64",1.0,1.0
+1027,0.357187956571579,0.32354870438575745,"0    20.128159
+Name: Similarity Score, dtype: float64","0    20.128159
+Name: Similarity Score, dtype: float64",1.0,1.0
+1028,0.6831166744232178,0.5150728225708008,"0    29.377285
+Name: Similarity Score, dtype: float64","0    24.48563
+Name: Similarity Score, dtype: float64",1.0,1.0
+1029,0.7056212425231934,0.4326753318309784,"0    18.447994
+Name: Similarity Score, dtype: float64","0    18.447994
+Name: Similarity Score, dtype: float64",1.0,1.0
+1030,0.3844171166419983,0.3145577013492584,"0    20.320246
+Name: Similarity Score, dtype: float64","0    20.320246
+Name: Similarity Score, dtype: float64",1.0,1.0
+1031,0.3891538381576538,0.33517584204673767,"0    19.616117
+Name: Similarity Score, dtype: float64","0    19.616117
+Name: Similarity Score, dtype: float64",1.0,1.0
+1032,0.8212437629699707,0.35854679346084595,"0    18.227833
+Name: Similarity Score, dtype: float64","0    17.510956
+Name: Similarity Score, dtype: float64",1.0,1.0
+1033,0.6900328993797302,0.5822438597679138,"0    25.706118
+Name: Similarity Score, dtype: float64","0    25.157276
+Name: Similarity Score, dtype: float64",1.0,1.0
+1034,0.38207679986953735,0.31645601987838745,"0    19.886326
+Name: Similarity Score, dtype: float64","0    19.886326
+Name: Similarity Score, dtype: float64",1.0,1.0
+1035,0.46696120500564575,0.27345603704452515,"0    28.681648
+Name: Similarity Score, dtype: float64","0    24.59515
+Name: Similarity Score, dtype: float64",1.0,1.0
+1036,0.7531283497810364,0.628206729888916,"0    20.778326
+Name: Similarity Score, dtype: float64","0    20.778326
+Name: Similarity Score, dtype: float64",1.0,1.0
+1037,0.6343816518783569,0.4949303865432739,"0    21.701353
+Name: Similarity Score, dtype: float64","0    21.701353
+Name: Similarity Score, dtype: float64",1.0,1.0
+1038,0.6788597106933594,0.449289470911026,"0    22.929468
+Name: Similarity Score, dtype: float64","0    22.929468
+Name: Similarity Score, dtype: float64",1.0,1.0
+1039,0.39655327796936035,0.3677305579185486,"0    19.439783
+Name: Similarity Score, dtype: float64","0    19.439783
+Name: Similarity Score, dtype: float64",1.0,1.0
+1040,0.8740370273590088,0.373530775308609,"0    27.122778
+Name: Similarity Score, dtype: float64","0    18.622284
+Name: Similarity Score, dtype: float64",1.0,1.0
+1041,0.7017987966537476,0.640646755695343,"0    29.240692
+Name: Similarity Score, dtype: float64","0    23.959194
+Name: Similarity Score, dtype: float64",1.0,1.0
+1042,0.7372158765792847,0.5594184398651123,"0    20.25952
+Name: Similarity Score, dtype: float64","0    25.133116
+Name: Similarity Score, dtype: float64",1.0,1.0
+1043,0.7859489917755127,0.6047943234443665,"0    22.076677
+Name: Similarity Score, dtype: float64","0    22.076677
+Name: Similarity Score, dtype: float64",1.0,1.0
+1044,0.3138110041618347,0.3051508665084839,"0    25.931948
+Name: Similarity Score, dtype: float64","0    25.931948
+Name: Similarity Score, dtype: float64",1.0,1.0
+1045,0.7757884860038757,0.4857179522514343,"0    24.235811
+Name: Similarity Score, dtype: float64","0    24.235811
+Name: Similarity Score, dtype: float64",1.0,1.0
+1046,0.6900470852851868,0.48421329259872437,"0    21.927219
+Name: Similarity Score, dtype: float64","0    24.237465
+Name: Similarity Score, dtype: float64",1.0,1.0
+1047,0.7855879068374634,0.40828371047973633,"0    27.850338
+Name: Similarity Score, dtype: float64","0    17.56951
+Name: Similarity Score, dtype: float64",1.0,1.0
+1048,0.6986598968505859,0.3456220030784607,"0    27.805496
+Name: Similarity Score, dtype: float64","0    17.435049
+Name: Similarity Score, dtype: float64",1.0,1.0
+1049,0.3918808102607727,0.35855403542518616,"0    19.709574
+Name: Similarity Score, dtype: float64","0    19.709574
+Name: Similarity Score, dtype: float64",1.0,1.0
+1050,0.42417681217193604,0.33975619077682495,"0    18.732807
+Name: Similarity Score, dtype: float64","0    18.732807
+Name: Similarity Score, dtype: float64",1.0,1.0
+1051,0.78017258644104,0.5575407147407532,"0    23.576614
+Name: Similarity Score, dtype: float64","0    23.423174
+Name: Similarity Score, dtype: float64",1.0,1.0
+1052,0.4009013772010803,0.3998621702194214,"0    19.686981
+Name: Similarity Score, dtype: float64","0    18.056574
+Name: Similarity Score, dtype: float64",1.0,1.0
+1053,0.3905237913131714,0.33182287216186523,"0    19.204678
+Name: Similarity Score, dtype: float64","0    19.204678
+Name: Similarity Score, dtype: float64",1.0,1.0
+1054,0.7691764235496521,0.46516042947769165,"0    21.716967
+Name: Similarity Score, dtype: float64","0    23.236912
+Name: Similarity Score, dtype: float64",1.0,1.0
+1055,0.7170163989067078,0.463093101978302,"0    22.325605
+Name: Similarity Score, dtype: float64","0    22.866711
+Name: Similarity Score, dtype: float64",1.0,1.0
+1056,0.3439023792743683,0.26569920778274536,"0    17.849613
+Name: Similarity Score, dtype: float64","0    17.849613
+Name: Similarity Score, dtype: float64",1.0,1.0
+1057,0.4169310927391052,0.3421183228492737,"0    17.056507
+Name: Similarity Score, dtype: float64","0    17.056507
+Name: Similarity Score, dtype: float64",1.0,1.0
+1058,0.3701835870742798,0.4527684152126312,"0    24.356565
+Name: Similarity Score, dtype: float64","0    24.166693
+Name: Similarity Score, dtype: float64",1.0,1.0
+1059,0.39029598236083984,0.32933366298675537,"0    19.238787
+Name: Similarity Score, dtype: float64","0    19.238787
+Name: Similarity Score, dtype: float64",1.0,1.0
+1060,0.6475615501403809,0.35790443420410156,"0    18.445072
+Name: Similarity Score, dtype: float64","0    18.445072
+Name: Similarity Score, dtype: float64",1.0,1.0
+1061,0.3891538381576538,0.3318305015563965,"0    19.434786
+Name: Similarity Score, dtype: float64","0    19.434786
+Name: Similarity Score, dtype: float64",1.0,1.0
+1062,0.6873387098312378,0.5802550315856934,"0    20.726637
+Name: Similarity Score, dtype: float64","0    20.80669
+Name: Similarity Score, dtype: float64",1.0,1.0
+1063,0.40884989500045776,0.3318476676940918,"0    17.962961
+Name: Similarity Score, dtype: float64","0    17.962961
+Name: Similarity Score, dtype: float64",1.0,1.0
+1064,0.29064619541168213,0.30141448974609375,"0    22.412357
+Name: Similarity Score, dtype: float64","0    22.412357
+Name: Similarity Score, dtype: float64",1.0,1.0
+1065,0.738379716873169,0.5994340181350708,"0    19.472752
+Name: Similarity Score, dtype: float64","0    19.472752
+Name: Similarity Score, dtype: float64",1.0,1.0
+1066,0.8190563917160034,0.5581905245780945,"0    29.4263
+Name: Similarity Score, dtype: float64","0    26.678917
+Name: Similarity Score, dtype: float64",1.0,1.0
+1067,0.5270423889160156,0.4748643636703491,"0    22.86705
+Name: Similarity Score, dtype: float64","0    23.100403
+Name: Similarity Score, dtype: float64",1.0,1.0
+1068,0.8244054913520813,0.6112822890281677,"0    28.842083
+Name: Similarity Score, dtype: float64","0    31.765213
+Name: Similarity Score, dtype: float64",1.0,1.0
+1069,0.3946038484573364,0.3424477279186249,"0    19.534063
+Name: Similarity Score, dtype: float64","0    19.534063
+Name: Similarity Score, dtype: float64",1.0,1.0
+1070,0.6907832622528076,0.45227229595184326,"0    29.570538
+Name: Similarity Score, dtype: float64","0    25.649235
+Name: Similarity Score, dtype: float64",1.0,1.0
+1071,0.7384113669395447,0.4521344304084778,"0    23.110929
+Name: Similarity Score, dtype: float64","0    23.110929
+Name: Similarity Score, dtype: float64",1.0,1.0
+1072,0.39399880170822144,0.34707391262054443,"0    17.363293
+Name: Similarity Score, dtype: float64","0    17.363293
+Name: Similarity Score, dtype: float64",1.0,1.0
+1073,0.7864271402359009,0.5677805542945862,"0    22.953363
+Name: Similarity Score, dtype: float64","0    22.953363
+Name: Similarity Score, dtype: float64",1.0,1.0
+1074,0.3831520676612854,0.2914906144142151,"0    19.269773
+Name: Similarity Score, dtype: float64","0    19.269773
+Name: Similarity Score, dtype: float64",1.0,1.0
+1075,0.7917976379394531,0.4883747398853302,"0    24.323759
+Name: Similarity Score, dtype: float64","0    24.323759
+Name: Similarity Score, dtype: float64",1.0,1.0
+1076,0.6979634761810303,0.44176194071769714,"0    27.729786
+Name: Similarity Score, dtype: float64","0    25.249344
+Name: Similarity Score, dtype: float64",1.0,1.0
+1077,0.36509111523628235,0.3172003924846649,"0    20.153168
+Name: Similarity Score, dtype: float64","0    20.153168
+Name: Similarity Score, dtype: float64",1.0,1.0
+1078,0.7410702109336853,0.4335048198699951,"0    20.464663
+Name: Similarity Score, dtype: float64","0    20.464663
+Name: Similarity Score, dtype: float64",1.0,1.0
+1079,0.6834074258804321,0.5948278307914734,"0    22.055969
+Name: Similarity Score, dtype: float64","0    22.055969
+Name: Similarity Score, dtype: float64",1.0,1.0
+1080,0.7017987966537476,0.640646755695343,"0    29.240692
+Name: Similarity Score, dtype: float64","0    23.959194
+Name: Similarity Score, dtype: float64",1.0,1.0

@@ -1,0 +1,8 @@
+{
+    "img_medical_model_path":"",
+    "img_nature_model_path":"",
+    "text_model_path":"",
+    "output_path": "3MAD-ret.csv",
+    "ret_path":"ret_CheXagent-3MAD-Tiny-1K-respones.csv",
+    "file_path":"normal_ret/CheXagent-3MAD-Tiny-1K-respones.csv"
+}

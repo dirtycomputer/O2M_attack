@@ -1,0 +1,101 @@
+id,label_original,origin_score,label_unmatch,unmatch_score
+0,"plane, carpenter's plane, woodworking plane",26.997472763061523,vase,30.14115333557129
+1,comic book,34.420047760009766,"flatworm, platyhelminth",12.971905708312988
+2,"junco, snowbird",32.81572723388672,"pineapple, ananas",32.9173469543457
+3,"zucchini, courgette",25.733144760131836,muzzle,24.69179916381836
+4,stingray,20.17569923400879,"stinkhorn, carrion fungus",19.295616149902344
+5,scuba diver,38.52500534057617,coucal,27.097759246826172
+6,"miniskirt, mini",31.958965301513672,"Airedale, Airedale terrier",20.342052459716797
+7,"grand piano, grand",33.487762451171875,Appenzeller,26.923526763916016
+8,"parallel bars, bars",21.88793182373047,tape player,27.922101974487305
+9,syringe,28.105545043945312,"white wolf, Arctic wolf, Canis lupus tundrarum",15.79810619354248
+10,trilobite,24.11248016357422,"plane, carpenter's plane, woodworking plane",14.638784408569336
+11,steel drum,31.967737197875977,"pirate, pirate ship",29.949462890625
+12,"golfcart, golf cart",28.796701431274414,"Scottish deerhound, deerhound",25.050552368164062
+13,Windsor tie,26.735652923583984,wine bottle,17.440235137939453
+14,"racket, racquet",18.433048248291016,goblet,28.61224365234375
+15,"cocker spaniel, English cocker spaniel, cocker",18.032005310058594,overskirt,21.736705780029297
+16,"cairn, cairn terrier",35.568260192871094,cuirass,23.282499313354492
+17,"Airedale, Airedale terrier",32.34221649169922,"bell cote, bell cot",25.03719711303711
+18,"tiger, Panthera tigris",35.27198791503906,"trolleybus, trolley coach, trackless trolley",5.658318519592285
+19,tape player,31.48779296875,coffeepot,22.091014862060547
+20,"sea anemone, anemone",37.327510833740234,"American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",17.64446449279785
+21,baboon,23.95000457763672,spaghetti squash,19.80797576904297
+22,"rocking chair, rocker",28.480182647705078,"clumber, clumber spaniel",27.437841415405273
+23,"can opener, tin opener",33.461181640625,oxcart,31.204856872558594
+24,"dam, dike, dyke",31.543476104736328,"ice lolly, lolly, lollipop, popsicle",29.061460494995117
+25,"maillot, tank suit",33.561458587646484,"lipstick, lip rouge",28.08002471923828
+26,oil filter,31.396081924438477,corn,23.002792358398438
+27,goose,27.23255729675293,buckle,20.720272064208984
+28,"white stork, Ciconia ciconia",35.114933013916016,"Pekinese, Pekingese, Peke",26.770122528076172
+29,tarantula,34.931907653808594,badger,24.83934783935547
+30,window shade,24.25708770751953,"clumber, clumber spaniel",26.056602478027344
+31,espresso maker,25.966299057006836,"rock crab, Cancer irroratus",14.643590927124023
+32,"bullfrog, Rana catesbeiana",32.11444854736328,"black-footed ferret, ferret, Mustela nigripes",24.183557510375977
+33,"lumbermill, sawmill",20.090911865234375,banana,26.10386848449707
+34,wine bottle,31.508485794067383,damselfly,33.03772735595703
+35,"valley, vale",37.25414276123047,pencil sharpener,13.472074508666992
+36,pier,30.15460205078125,Tibetan mastiff,32.70390701293945
+37,"Pekinese, Pekingese, Peke",31.836536407470703,"dam, dike, dyke",20.68250274658203
+38,yawl,25.03082275390625,sorrel,23.700397491455078
+39,"cheetah, chetah, Acinonyx jubatus",35.60807800292969,oil filter,16.634815216064453
+40,"ostrich, Struthio camelus",36.39548873901367,ox,17.13373374938965
+41,menu,32.0645751953125,tripod,20.992591857910156
+42,flamingo,19.56250762939453,"Afghan hound, Afghan",22.704486846923828
+43,"loggerhead, loggerhead turtle, Caretta caretta",28.216861724853516,shopping cart,10.454959869384766
+44,cup,26.008363723754883,"starfish, sea star",22.382160186767578
+45,"piggy bank, penny bank",27.215496063232422,spoonbill,30.434219360351562
+46,milk can,27.11394691467285,Model T,33.351558685302734
+47,"swab, swob, mop",18.942100524902344,"lynx, catamount",31.488330841064453
+48,"ruddy turnstone, Arenaria interpres",18.846147537231445,mashed potato,18.827255249023438
+49,standard schnauzer,24.58908462524414,beer bottle,14.11296272277832
+50,"Doberman, Doberman pinscher",27.706897735595703,crate,29.614200592041016
+51,"leaf beetle, chrysomelid",34.77397155761719,"can opener, tin opener",20.44568634033203
+52,electric locomotive,29.009990692138672,briard,25.30397605895996
+53,spaghetti squash,20.150745391845703,standard poodle,23.367477416992188
+54,Brittany spaniel,26.003923416137695,"tree frog, tree-frog",20.63142204284668
+55,"thatch, thatched roof",34.9266242980957,"jersey, T-shirt, tee shirt",19.68510627746582
+56,soccer ball,28.088855743408203,"microwave, microwave oven",22.671405792236328
+57,"spotted salamander, Ambystoma maculatum",33.58130645751953,"bannister, banister, balustrade, balusters, handrail",12.784843444824219
+58,"wallaby, brush kangaroo",36.50255584716797,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",34.967430114746094
+59,"diamondback, diamondback rattlesnake, Crotalus adamanteus",34.649627685546875,"jersey, T-shirt, tee shirt",15.051030158996582
+60,"grasshopper, hopper",34.53704833984375,trench coat,21.914230346679688
+61,baseball,33.70231628417969,vault,33.25271987915039
+62,acorn squash,31.847999572753906,green mamba,34.25019073486328
+63,orange,33.58055877685547,electric guitar,16.728164672851562
+64,"horse cart, horse-cart",27.72654151916504,flamingo,28.324512481689453
+65,bubble,24.757843017578125,kimono,29.28011131286621
+66,"cello, violoncello",26.613859176635742,spoonbill,29.918251037597656
+67,coffee mug,33.94929885864258,whistle,35.90888977050781
+68,"church, church building",18.62711524963379,"pop bottle, soda bottle",17.624248504638672
+69,"motor scooter, scooter",29.064476013183594,Mexican hairless,7.953958988189697
+70,"brassiere, bra, bandeau",28.604793548583984,cuirass,31.54507827758789
+71,folding chair,28.77027702331543,"confectionery, confectionary, candy store",27.138797760009766
+72,spaghetti squash,26.588153839111328,"laptop, laptop computer",17.27393341064453
+73,"ostrich, Struthio camelus",32.20909118652344,"Gila monster, Heloderma suspectum",34.129608154296875
+74,"streetcar, tram, tramcar, trolley, trolley car",27.23785400390625,safety pin,15.638199806213379
+75,viaduct,36.4163703918457,projector,22.51197624206543
+76,"saltshaker, salt shaker",24.812849044799805,water snake,22.922012329101562
+77,screwdriver,26.256084442138672,acoustic guitar,32.56377410888672
+78,"screen, CRT screen",38.12300109863281,"pedestal, plinth, footstall",8.906683921813965
+79,"grand piano, grand",33.47666931152344,"cliff, drop, drop-off",35.067474365234375
+80,"pick, plectrum, plectron",24.41716766357422,briard,24.574682235717773
+81,"dhole, Cuon alpinus",29.28205108642578,"suit, suit of clothes",22.485897064208984
+82,"albatross, mollymawk",33.167911529541016,"tiger shark, Galeocerdo cuvieri",42.196144104003906
+83,French bulldog,36.79664611816406,shower cap,25.362295150756836
+84,"remote control, remote",28.19799041748047,Australian terrier,7.599812030792236
+85,"Newfoundland, Newfoundland dog",38.05550765991211,drake,21.285053253173828
+86,"lycaenid, lycaenid butterfly",38.946712493896484,hatchet,24.488882064819336
+87,"Cardigan, Cardigan Welsh corgi",23.409820556640625,"tank, army tank, armored combat vehicle, armoured combat vehicle",12.085209846496582
+88,stove,28.98016929626465,"king penguin, Aptenodytes patagonica",24.24494171142578
+89,oxcart,15.349101066589355,"loggerhead, loggerhead turtle, Caretta caretta",20.800573348999023
+90,coral reef,39.58946990966797,"bearskin, busby, shako",24.038455963134766
+91,flamingo,24.388612747192383,"hand blower, blow dryer, blow drier, hair dryer, hair drier",24.740333557128906
+92,coucal,21.796987533569336,plate,13.815468788146973
+93,knee pad,28.546281814575195,"spotlight, spot",23.1645450592041
+94,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",30.821277618408203,bath towel,11.104206085205078
+95,"skunk, polecat, wood pussy",25.210277557373047,"oscilloscope, scope, cathode-ray oscilloscope, CRO",14.89585018157959
+96,kimono,30.560195922851562,jack-o'-lantern,18.958580017089844
+97,goblet,27.346004486083984,"Doberman, Doberman pinscher",25.104751586914062
+98,bee eater,34.51970291137695,armadillo,27.808074951171875
+99,"long-horned beetle, longicorn, longicorn beetle",24.62211036682129,barbell,8.13060188293457
