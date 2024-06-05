@@ -8,11 +8,23 @@ Security concerns related to Large Language Models (LLMs) have been extensively 
 
 Using our own constructed voluminous 3MAD dataset, which covers a wide range of medical image modalities and harmful medical scenarios, we conduct a comprehensive analysis and propose the MCM optimization method, which significantly enhances the attack success rate on MedMLLMs. Evaluations with this dataset and novel attack methods, including white-box attacks on LLaVA-Med and transfer attacks on four other state-of-the-art models, indicate that even MedMLLMs designed with enhanced security features are vulnerable to security breaches. Our work underscores the urgent need for a concerted effort to implement robust security measures and enhance the safety and efficacy of open-source MedMLLMs, particularly given the potential severity of jailbreak attacks and other malicious or clinically significant exploits in medical settings.
 
+## Methodlogy
+The Multimodal Cross-Optimization (MCM) algorithm simultaneously optimizes both continuous image inputs (image w/ noise) and discrete text tokens (suffix) to jailbreak multimodal large language models into producing harmful content (jailbreaking answer). It does this by manipulating the input image (image w/o noise) with noise and appending specific text tokens to the query, aiming to maximize the likelihood of the model generating a harmful response to a malicious question
+![MCM_chat](assets/figs/mcm_attack_chat.png)
+![MCM](assets/figs/algorithm.png)
+
+
+
 ## Code and Dataset
 
 Our code is available at [GitHub Repository](https://github.com/dirtycomputer/O2M_attack.git).
 
+
 Our datasets are available at [3MAD-Tiny-1K](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K), [3MAD-66K](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K).
+
+Left: Components of images in the 3MAD (9 modalities and 12 body parts). Right: Components of
+normal prompts in the 3MAD (18 medical tasks or requirements).
+![3MAD](assets/figs/dataset_overview.png)
 
 
 
