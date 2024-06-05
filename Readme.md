@@ -12,6 +12,11 @@ Using our own constructed voluminous 3MAD dataset, which covers a wide range of 
 
 Our code is available at [GitHub Repository](https://github.com/dirtycomputer/O2M_attack.git).
 
+Our datasets are available at [3MAD-Tiny-1K](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K), [3MAD-66K](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K).
+
+
+
+
 ## Warning
 
 Medical large model jailbreaking may generate content that includes unverified diagnoses and treatment recommendations. Always consult professional medical advice.
@@ -33,5 +38,9 @@ If you find our work helpful, please consider citing the following paper:
 
 # Acknowledgements
 We acknowledge all the authors of the employed public datasets, allowing the community to use these valuable resources for research purposes. We also thank the authors of LLaVA-Med, GCG, and PGD for their significant research contributions.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dirtycomputer/O2M_attack.git&type=Date)](https://star-history.com/#dirtycomputer/O2M_attack.git&Date)
 
 
