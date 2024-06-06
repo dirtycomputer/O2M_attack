@@ -53,6 +53,6 @@ We acknowledge all the authors of the employed public datasets, allowing the com
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dirtycomputer/O2M_attack.git&type=Date)](https://star-history.com/#dirtycomputer/O2M_attack.git&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dirtycomputer/O2M_attack&type=Date)](https://star-history.com/#dirtycomputer/O2M_attack&Date)
 
 
