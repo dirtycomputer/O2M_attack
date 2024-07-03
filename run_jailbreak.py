@@ -16,7 +16,7 @@ from datasets import load_dataset
 
 def eval_model(args):
     attack_mode = args.attack_mode
-    wandb.login(key="ba4156ce948a23ca4dcd7e4bf6991269f922a71b")
+    wandb.login(key="replace your wandb key")
     wandb.init(project=f"unmatch_malicious_{attack_mode}")
 
     device = f"cuda:{args.device}"
