@@ -1,6 +1,6 @@
-# Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models
+# Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models
 
-This is the official repository for the paper [Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/pdf/2405.20775).
+This is the official repository for the paper [Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/pdf/2405.20775).
 
 ## Abstract
 
